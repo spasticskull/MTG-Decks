@@ -1,0 +1,102 @@
+1 [DRC:16] Adaptive Omnitool
+1 [ONS:185] Aggravated Assault
+1 [MRD:278] Ancient Den
+1 [TMP:315] Ancient Tomb
+1 [CMR:10] Ardenn, Intrepid Archaeologist
+1 [ZEN:211] Arid Mesa
+1 [AVR:6] Avacyn, Angel of Hope
+1 [SUM:235] Basalt Monolith
+1 [FDN:669] Basilisk Collar
+1 [BRO:257] Battlefield Forge
+1 [DOM:211] Blackblade Reforged
+1 [ISD:130] Blasphemous Act
+1 [KTK:230] Bloodstained Mire
+1 [FDN:721] Boros Charm
+1 [CSP:78] Braid of Fire
+1 [OGW:162+] Captain's Claws
+1 [LCI:410a] Cavern of Souls
+1 [FDN:295] Celestial Armor
+1 [MBC:72] Chaos Warp
+1 [MRD:152] Chrome Mox
+1 [8ED:322] City of Brass
+1 [EXO:143] City of Traitors
+1 [M20:223] Colossus Hammer
+1 [ELD:333] Command Tower
+1 [MBS:104] Darksteel Plate
+1 [TLE:311] Deflecting Swat
+1 [LCI:143] Diamond Pick-Axe
+1 [EOC:135] Empowered Autogenerator
+1 [OGW:3] Endbringer
+1 [OTJ:11] Final Showdown
+1 [KTK:233] Flooded Strand
+1 [TSP:274] Gemstone Caverns
+1 [JOU:12] Godsend
+1 [MRD:282] Great Furnace
+1 [ULG:126] Grim Monolith
+1 [MSC:286] Hammer of Nazahn
+1 [5DN:131] Helm of Kaldra
+1 [DOM:217] Helm of the Host
+1 [ONC:14] Hexplate Wallbreaker
+1 [MMQ:320] High Market
+1 [OTJ:269] Inspiring Vantage
+1 [PSPL:2] Kaldra Compleat
+1 [MIR:307] Lion's Eye Diamond
+1 [BIG:23] Lost Jitte
+1 [TMP:294] Lotus Petal
+1 [JOU:163] Mana Confluence
+1 [5ED:388] Mana Vault
+1 [ZEN:219] Marsh Flats
+1 [HOC:43] Mithril Coat
+1 [ACR:170] Mjolnir, Storm Hammer
+1 [AVR:217] Moonsilver Spear
+1 [TRK:323] Mountain
+1 [STH:138] Mox Diamond
+1 [SOM:179] Mox Opal
+1 [ZNR:263] Needleverge Pathway
+1 [DST:134] Nemesis Mask
+1 [TRK:317] Plains
+1 [SUM:284] Plateau
+1 [DMU:252] Plaza of Heroes
+1 [SPG:38] Prismatic Vista
+1 [NPH:20] Puresteel Paladin
+1 [M19:254] Reliquary Tower
+1 [LRW:259] Rings of Brighthearth
+1 [CSP:96] Rite of Flame
+1 [EVE:178] Rugged Prairie
+1 [TRK:295] Sacred Foundry
+1 [ZEN:223] Scalding Tarn
+1 [THB:236] Shadowspear
+1 [DST:139] Shield of Kaldra
+1 [EMN:41] Sigarda's Aid
+1 [PLC:122] Simian Spirit Guide
+1 [SUM:274] Sol Ring
+1 [MSC:268] Spectator Seating
+1 [AER:184] Spire of Industry
+1 [LTR:250] Sting, the Glinting Dagger
+1 [WWK:20] Stoneforge Mystic
+1 [MOR:24] Stonehewer Giant
+1 [TLE:58] Sunbaked Canyon
+1 [RAV:272] Sunforger
+1 [MBS:138] Sword of Feast and Famine
+1 [DST:148] Sword of Fire and Ice
+1 [MRD:251] Sword of Kaldra
+1 [H1R:32] Sword of Truth and Justice
+1 [ICE:54] Swords to Plowshares
+1 [MSC:752] Swordsman's Steel
+1 [TLE:7] Teferi's Protection
+1 [EOE:241] The Eternity Elevator
+1 [HOC:44] The One Ring
+1 [TLA:261] The Walls of Ba Sing Se
+1 [MBC:78] Thought Vessel
+1 [SHM:267] Umbral Mantle
+1 [NPH:164] Unwinding Clock
+1 [MB2:114] Urza's Saga
+1 [5DN:163] Vedalken Orrery
+1 [M11:219] Voltaic Key
+1 [SOK:161] Wine of Blood and Iron
+1 [ISD:236] Witchbane Orb
+1 [KTK:249] Wooded Foothills
+1 [M12:222] Worldslayer
+SB: 1 [BLB:224] Mabel, Heir to Cragflame
+LAYOUT MAIN:(1,10)(CMC,false,50)|([MRD:278],[TMP:315],[ZEN:211],[BRO:257],[KTK:230],[LCI:410a],[MRD:152],[8ED:322],[EXO:143],[ELD:333],[KTK:233],[TSP:274],[MRD:282],[MMQ:320],[OTJ:269],[MIR:307],[TMP:294],[JOU:163],[ZEN:219],[TRK:323],[STH:138],[SOM:179],[ZNR:263],[TRK:317],[SUM:284],[DMU:252],[SPG:38],[M19:254],[EVE:178],[TRK:295],[ZEN:223],[MSC:268],[AER:184],[TLE:58],[MB2:114],[KTK:249])([FDN:669],[M20:223],[LCI:143],[OTJ:11],[BIG:23],[5ED:388],[CSP:96],[THB:236],[EMN:41],[SUM:274],[ICE:54],[M11:219])([DRC:16],[DOM:211],[FDN:721],[CSP:78],[OGW:162+],[ULG:126],[NPH:20],[LTR:250],[WWK:20],[MBC:78])([ONS:185],[CMR:10],[SUM:235],[FDN:295],[MBC:72],[MBS:104],[TLE:311],[JOU:12],[5DN:131],[HOC:43],[DST:134],[LRW:259],[PLC:122],[RAV:272],[MBS:138],[DST:148],[H1R:32],[TLE:7],[SHM:267],[SOK:161])([EOC:135],[MSC:286],[DOM:217],[ACR:170],[AVR:217],[DST:139],[MRD:251],[MSC:752],[HOC:44],[NPH:164],[5DN:163],[ISD:236])([ONC:14],[MOR:24],[EOE:241],[M12:222])([OGW:3])([PSPL:2])([AVR:6],[TLA:261])([ISD:130])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BLB:224])

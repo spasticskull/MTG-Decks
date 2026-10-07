@@ -1,0 +1,103 @@
+NAME:Slivers INDI 8-9
+1 [ULG:100] Defense of the Heart
+1 [RNA:130] Guardian Project
+1 [8ED:86] Intruder Alarm
+1 [LCC:159] Kindred Discovery
+1 [SHM:122] Mana Reflection
+1 [ICE:87] Mystic Remora
+1 [ULG:63] Phyrexian Reclamation
+1 [LCI:213] Spelunking
+1 [5ED:329] Sylvan Library
+1 [PLC:144] Wild Pair
+1 [EVE:66] Bloom Tender
+1 [M14:9] Bonescythe Sliver
+1 [CMM:919] Cloudshredder Sliver
+1 [M15:7] Constricting Sliver
+1 [STH:127] Crystalline Sliver
+1 [M15:50] Diffusion Sliver
+1 [TSB:8] Essence Sliver
+1 [M14:57] Galerider Sliver
+1 [TSP:196] Gemhide Sliver
+1 [TSP:240] Harmonic Sliver
+1 [TMP:182] Heart Sliver
+1 [STH:128] Hibernation Sliver
+1 [TMP:234] Horned Sliver
+1 [M14:184] Manaweft Sliver
+1 [M14:185] Megantic Sliver
+1 [TMP:238] Muscle Sliver
+1 [M14:189] Predatory Sliver
+1 [LGN:137] Root Sliver
+1 [M14:30] Sentinel Sliver
+1 [LGN:52] Shifting Sliver
+1 [FUT:158] Sliver Legion
+1 [SCG:139] Sliver Overlord
+1 [CMM:881] Spiteful Sliver
+1 [LGN:53] Synapse Sliver
+1 [M14:117] Syphon Sliver
+1 [J21:691] The First Sliver
+1 [M15:205] Venom Sliver
+1 [TMP:106] Winged Sliver
+1 [ZEN:211] Arid Mesa
+1 [CLU:274] Blood Crypt
+1 [CLU:275] Breeding Pool
+1 [AKH:240] Cascading Cataracts
+1 [ELD:333] Command Tower
+1 [VOW:261] Deathcap Glade
+1 [XLN:253] Drowned Catacomb
+1 [TDM:276] Forest
+1 [CLU:276] Godless Shrine
+1 [CLU:277] Hallowed Fountain
+1 [DOM:240] Hinterland Harbor
+1 [IKO:248] Indatha Triome
+1 [JOU:163] Mana Confluence
+1 [MID:265] Overgrown Farmland
+1 [CLU:278] Overgrown Tomb
+1 [TDM:272] Plains
+1 [SHM:278*] Reflecting Pool
+1 [CMM:424] Rejuvenating Springs
+1 [M19:254] Reliquary Tower
+1 [MID:266] Rockfall Vale
+1 [XLN:256] Rootbound Crag
+1 [CLU:279] Sacred Foundry
+1 [ALA:229] Seaside Citadel
+1 [VOW:264] Shattered Sanctum
+1 [M15:247] Sliver Hive
+1 [CLU:280] Steam Vents
+1 [CLU:281] Stomping Ground
+1 [XLN:257] Sunpetal Grove
+1 [CLU:282] Temple Garden
+1 [KHM:275] The World Tree
+1 [ZEN:229] Verdant Catacombs
+1 [CLU:283] Watery Grave
+1 [DMU:261] Yavimaya Coast
+1 [IKO:259] Zagoth Triome
+1 [ELD:331] Arcane Signet
+1 [GRN:233] Chromatic Lantern
+1 [DRC:125] Commander's Sphere
+1 [M14:209] Elixir of Immortality
+1 [M3C:296] Herald's Horn
+1 [SUM:274] Sol Ring
+1 [FDN:258] Swiftfoot Boots
+1 [ELD:161] The Great Henge
+1 [XLN:251] Vanquisher's Banner
+1 [MOR:32] Distant Melody
+1 [M13:170] Farseek
+1 [MBS:81] Green Sun's Zenith
+1 [5ED:316] Nature's Lore
+1 [AER:123] Rishkar's Expertise
+1 [CLU:211] Supreme Verdict
+1 [OTC:209] Three Visits
+1 [CHK:247] Time of Need
+1 [10E:61] Wrath of God
+1 [SOI:242] Anguished Unmaking
+1 [ALL:22a] Arcane Denial
+1 [MKM:187] Assassin's Trophy
+1 [RTR:35] Cyclonic Rift
+1 [WAR:190] Despark
+1 [WOE:47] Disdainful Stroke
+1 [6ED:19] Enlightened Tutor
+1 [ICE:54] Swords to Plowshares
+1 [6ED:269] Worldly Tutor
+SB: 1 [M15:211] Sliver Hivelord
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([ELD:331],[GRN:233],[DRC:125],[M14:209],[M3C:296],[SUM:274],[FDN:258],[ELD:161],[XLN:251])([EVE:66],[M14:9],[CMM:919],[M15:7],[STH:127],[M15:50],[TSB:8],[M14:57],[TSP:196],[TSP:240],[TMP:182],[STH:128],[TMP:234],[M14:184],[M14:185],[TMP:238],[M14:189],[LGN:137],[M14:30],[LGN:52],[FUT:158],[SCG:139],[CMM:881],[LGN:53],[M14:117],[J21:691],[M15:205],[TMP:106])([ULG:100],[RNA:130],[8ED:86],[LCC:159],[SHM:122],[ICE:87],[ULG:63],[LCI:213],[5ED:329],[PLC:144])([SOI:242],[ALL:22a],[MKM:187],[RTR:35],[WAR:190],[WOE:47],[6ED:19],[ICE:54],[6ED:269])([ZEN:211],[CLU:274],[CLU:275],[AKH:240],[ELD:333],[VOW:261],[XLN:253],[TDM:276],[CLU:276],[CLU:277],[DOM:240],[IKO:248],[JOU:163],[MID:265],[CLU:278],[TDM:272],[SHM:278*],[CMM:424],[M19:254],[MID:266],[XLN:256],[CLU:279],[ALA:229],[VOW:264],[M15:247],[CLU:280],[CLU:281],[XLN:257],[CLU:282],[KHM:275],[ZEN:229],[CLU:283],[DMU:261],[IKO:259])([MOR:32],[M13:170],[MBS:81],[5ED:316],[AER:123],[CLU:211],[OTC:209],[CHK:247],[10E:61])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M15:211])

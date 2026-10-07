@@ -1,0 +1,101 @@
+NAME:BB zombs
+1 [MIC:2] Wilhelt, the Rotcleaver
+1 [TPR:223] Grindstone
+1 [SHM:257] Painter's Servant
+1 [M20:219] Tomebound Lich
+1 [LCC:108] Coat of Arms
+1 [C15:257] Lightning Greaves
+1 [PWAR:79p] Bolas's Citadel
+1 [CLB:865] Maskwood Nexus
+1 [WOC:145] Arcane Signet
+1 [DOM:224] Mox Amber
+1 [MM2:223] Mox Opal
+1 [FUT:42] Pact of Negation
+1 [JUD:39] Envelop
+1 [THS:65] Swan Song
+1 [BFZ:76] Dispel
+1 [GN3:25] Counterspell
+1 [VMA:78] Mana Drain
+1 [UMA:198] Countersquall
+1 [VOC:102] Arcane Denial
+1 [GTC:154] Dimir Charm
+1 [CMM:812] Warping Wail
+1 [ZEN:57] Mindbreak Trap
+1 [OTP:7] Archive Trap
+1 [CMM:84] Cyclonic Rift
+1 [C14:120] Pongify
+1 [DMU:432] Cut Down
+1 [GTC:44] Rapid Hybridization
+1 [NEO:129] You Are Already Dead
+1 [MH3:12] Null Elemental Blast
+1 [AVR:109] Human Frailty
+1 [MOM:118] Mirrodin Avenged
+1 [GN3:47] Doom Blade
+1 [3ED:132] Terror
+1 [AFR:114] Power Word Kill
+1 [EOC:84] Infernal Grasp
+1 [J22:423] Gravecrawler
+1 [DBL:91] Champion of the Perished
+1 [J21:396] Undead Augur
+1 [J22:460] Returned Reveler
+1 [SOI:131] Relentless Dead
+1 [KHM:83] Deathknell Berserker
+1 [FDN:326] Zul Ashur, Lich Lord
+1 [CMR:148] Sanitarium Skeleton
+1 [DMU:88] Cult Conscript
+1 [BBD:163] Tenacious Dead
+1 [J22:125] Reassembling Skeleton
+1 [ISD:106] Manor Skeleton
+1 [CMA:216] Eldrazi Monument
+1 [FDN:127] Banner of Kinship
+1 [THS:110] Whip of Erebos
+1 [ONE:305] Drivnod, Carnage Dominus
+1 [VOW:61] Geralf, Visionary Stitcher
+1 [OTJ:50] Geralf, the Fleshwright
+1 [ISD:71] Rooftop Storm
+1 [J22:410] Endless Ranks of the Dead
+1 [HOP:28] Grave Pact
+1 [EMA:218] Ashnod's Altar
+1 [UMA:248] Phyrexian Tower
+1 [UMA:232] Phyrexian Altar
+1 [JOU:65] Dictate of Erebos
+1 [VMA:323] Underground Sea
+1 [RAV:286] Watery Grave
+1 [MH3:356] Polluted Delta
+1 [ELD:333] Command Tower
+1 [SLD:249] Sol Ring
+1 [CM2:275] Underground River
+1 [SLU:15] Clearwater Pathway
+1 [DSK:260] Gloomlake Verge
+1 [WOC:168] Sunken Hollow
+1 [WOC:155] Choked Estuary
+1 [E01:94] Drowned Catacomb
+1 [MID:267] Shipwreck Marsh
+1 [WOC:169] Tainted Isle
+1 [VMA:305] Mishra's Workshop
+1 [VMA:289] Ancient Tomb
+1 [UMA:253] Thespian's Stage
+1 [ODY:329] Tarnished Citadel
+1 [DFT:274] Swamp
+1 [PRW2:B04] Swamp
+1 [HOU:187] Swamp
+1 [UMA:254] Urborg, Tomb of Yawgmoth
+3 [HOU:186] Island
+1 [MD1:15] City of Brass
+1 [EMN:205] Nephalia Academy
+1 [ISD:245] Nephalia Drownyard
+1 [SPG:28] Field of the Dead
+1 [RAV:277] Duskmantle, House of Shadow
+1 [GTC:152] Consuming Aberration
+1 [SLD:2181] Bruvac the Grandiloquent
+1 [CMM:161] Ghoulcaller Gisa
+1 [M13:97] Liliana of the Dark Realms
+1 [J22:433] Liliana, Death's Majesty
+1 [PWAR:97p] Liliana, Dreadhorde General
+1 [M21:108] Liliana, Waker of the Dead
+1 [EMN:93] Liliana, the Last Hope
+1 [ARB:24] Lich Lord of Unx
+1 [EMN:78] Turn Aside
+SB: 1 [HOU:145] The Scarab God
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([SHM:257])([TPR:223],[LCC:108],[C15:257],[PWAR:79p],[CLB:865],[WOC:145],[DOM:224],[MM2:223],[CMA:216],[FDN:127],[EMA:218],[UMA:232],[SLD:249])([MIC:2],[ARB:24],[M20:219],[J22:423],[DBL:91],[J21:396],[J22:460],[SOI:131],[KHM:83],[FDN:326],[CMR:148],[DMU:88],[BBD:163],[J22:125],[ISD:106],[ONE:305],[VOW:61],[OTJ:50],[GTC:152],[SLD:2181],[CMM:161])([THS:110])([ISD:71],[J22:410],[HOP:28],[JOU:65])([FUT:42],[JUD:39],[THS:65],[BFZ:76],[GN3:25],[VMA:78],[UMA:198],[VOC:102],[GTC:154],[CMM:812],[ZEN:57],[OTP:7],[CMM:84],[C14:120],[DMU:432],[GTC:44],[NEO:129],[MH3:12],[AVR:109],[MOM:118],[GN3:47],[3ED:132],[AFR:114],[EOC:84],[EMN:78])([UMA:248],[VMA:323],[RAV:286],[MH3:356],[ELD:333],[CM2:275],[SLU:15],[DSK:260],[WOC:168],[WOC:155],[E01:94],[MID:267],[WOC:169],[VMA:305],[VMA:289],[UMA:253],[ODY:329],[DFT:274],[PRW2:B04],[HOU:187],[UMA:254],[HOU:186],[HOU:186],[HOU:186],[MD1:15],[EMN:205],[ISD:245],[SPG:28],[RAV:277])([M13:97],[J22:433],[PWAR:97p],[M21:108],[EMN:93])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([HOU:145])

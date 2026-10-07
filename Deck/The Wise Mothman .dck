@@ -1,0 +1,89 @@
+NAME:The Wise Mothman
+1 [ELD:331] Arcane Signet
+1 [DSC:260] Ash Barrens
+1 [MH3:285] Branching Evolution
+1 [PIP:75] Cathedral Acolyte
+1 [ELD:333] Command Tower
+1 [M21:177] Cultivate
+1 [ODY:319] Darkwater Catacombs
+1 [XLN:253] Drowned Catacomb
+1 [CON:142] Exotic Orchard
+1 [M13:170] Farseek
+1 [PIP:44] Feral Ghoul
+1 [GRN:225] Find // Finality
+5 [DSK:276] Forest
+1 [HOU:35] Fraying Sanity
+1 [PIP:76] Glowing One
+1 [KTK:133] Hardened Scales
+1 [DOM:240] Hinterland Harbor
+6 [DSK:273] Island
+1 [PIP:151] Mariposa Military Base
+1 [BFZ:240] Mortuary Mire
+1 [PIP:111] Mutational Advantage
+1 [PIP:47] Nuclear Fallout
+1 [KTK:238] Opulent Palace
+1 [DSC:293] Overflowing Basin
+1 [DGM:93] Putrefy
+1 [M12:190] Rampant Growth
+1 [SUM:274] Sol Ring
+1 [BFZ:249] Sunken Hollow
+6 [FDN:277] Swamp
+1 [TOR:141] Tainted Isle
+1 [TOR:143] Tainted Wood
+1 [THB:245] Temple of Deceit
+1 [M21:253] Temple of Malady
+1 [M21:254] Temple of Mystery
+1 [DSK:269] Terramorphic Expanse
+1 [PIP:6] The Master, Transcendent
+1 [PIP:41] Vexing Radgull
+1 [DSC:324] Viridescent Bog
+1 [DOM:248] Woodland Cemetery
+1 [5DN:86] Eternal Witness
+1 [ZEN:82] Bloodchief Ascension
+1 [7ED:67] Counterspell
+1 [ONE:289] Blightbelly Rat
+1 [ONE:159] Bloated Contaminator
+1 [ONE:161] Cankerbloom
+1 [WAR:159] Evolution Sage
+1 [ONE:67] Reject Imperfection
+1 [ONE:107] Scheming Aspirant
+1 [SOM:112] Blight Mamba
+1 [NPH:29] Blighted Agent
+1 [SOM:117] Cystbearer
+1 [KLD:75] Diabolic Tutor
+1 [ZNR:330] Maddening Cacophony
+1 [TSP:135] Sudden Spoiling
+1 [STX:172] Culling Ritual
+1 [10E:82] Dreamborn Muse
+1 [CMR:63] Court of Cunning
+1 [ZNR:295] Ruin Crab
+1 [MOM:358] Breach the Multiverse
+1 [CLB:301] Blade of Selves
+1 [MOM:196] Kami of Whispered Hopes
+1 [EVE:149] Cold-Eyed Selkie
+1 [ORI:76] Sphinx's Tutelage
+1 [M21:296] Teferi's Tutelage
+1 [MH3:151] Evolution Witness
+1 [ARB:28] Nemesis of Reason
+1 [BRO:322] Terisian Mindbreaker
+1 [RNA:57] Thought Collapse
+1 [GTC:189] Psychic Strike
+1 [CLB:722] Fractured Sanity
+1 [OTJ:93] Lively Dirge
+1 [WAR:43] Bond of Insight
+1 [RTR:34] Crosstown Courier
+1 [WOE:222] Cruel Somnophage
+1 [SNC:38] Cut Your Losses
+1 [ELD:343] Folio of Fancies
+1 [DKA:41] Increasing Confusion
+1 [LTC:504] Sorcerous Squall
+1 [ONE:288] Thrummingbird
+1 [ONE:91] Drown in Ichor
+1 [RTR:213] Deathrite Shaman
+1 [LCI:127] Terror Tide
+1 [OTC:279] Command Beacon
+1 [TMP:151] Reanimate
+1 [PIP:141] Recon Craft Theta
+SB: 1 [PIP:4] The Wise Mothman
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([PIP:6],[BRO:322])([ELD:331],[SUM:274],[CLB:301],[ELD:343],[PIP:141])([PIP:75],[PIP:44],[PIP:76],[PIP:41],[5DN:86],[ONE:289],[ONE:159],[ONE:161],[WAR:159],[ONE:107],[SOM:112],[NPH:29],[SOM:117],[10E:82],[ZNR:295],[MOM:196],[EVE:149],[MH3:151],[ARB:28],[RTR:34],[WOE:222],[ONE:288],[RTR:213])([MH3:285],[HOU:35],[KTK:133],[ZEN:82],[CMR:63],[ORI:76],[M21:296])([PIP:111],[DGM:93],[7ED:67],[ONE:67],[TSP:135],[RNA:57],[GTC:189])([DSC:260],[ELD:333],[ODY:319],[XLN:253],[CON:142],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DOM:240],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[PIP:151],[BFZ:240],[KTK:238],[DSC:293],[BFZ:249],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[TOR:141],[TOR:143],[THB:245],[M21:253],[M21:254],[DSK:269],[DSC:324],[DOM:248],[OTC:279])([GRN:225])([M21:177],[M13:170],[PIP:47],[M12:190],[KLD:75],[ZNR:330],[STX:172],[MOM:358],[CLB:722],[OTJ:93],[WAR:43],[SNC:38],[DKA:41],[LTC:504],[ONE:91],[LCI:127],[TMP:151])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PIP:4])

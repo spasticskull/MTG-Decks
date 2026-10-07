@@ -1,0 +1,88 @@
+NAME:Samurai EDH
+1 [NEO:131] Akki Ronin
+1 [SOK:2] Araba Mothrider
+1 [ELD:331] Arcane Signet
+1 [ZEN:211] Arid Mesa
+1 [NEO:215] Asari Captain
+1 [LRW:3] Austere Command
+1 [KHM:252] Blightstep Pathway
+1 [CLU:274] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [FDN:721] Boros Charm
+1 [CLU:220] Boros Signet
+1 [ZNR:259] Brightclimb Pathway
+1 [PLC:4] Dawn Charm
+1 [NEO:245] Eater of Virtue
+1 [CHK:275] Eiganjo Castle
+1 [NEO:10] Eiganjo Exemplar
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [CHK:8] Eight-and-a-Half-Tails
+1 [ELD:120] Embercleave
+1 [J21:75] Esper Sentinel
+1 [ZEN:202] Explorer's Scope
+1 [NEO:13] Farewell
+1 [AFR:222] Fighter Class
+1 [CHK:251] General's Kabuto
+1 [CHK:10] Ghostly Prison
+1 [CLU:276] Godless Shrine
+1 [CHK:169] Godo, Bandit Warlord
+1 [NEO:145] Goro-Goro, Disciple of Ryusei
+1 [NEO:146] Heiko Yamazaki, the General
+1 [THB:19] Heliod's Intervention
+1 [M3C:296] Herald's Horn
+1 [FDN:254] Heraldic Banner
+1 [NEO:19] Imperial Subduer
+1 [CMR:188] Kediss, Emberclaw Familiar
+1 [CHK:30] Konda, Lord of Eiganjo
+1 [SOK:79] Kuro's Taken
+1 [CHK:260] Kusari-Gama
+1 [4ED:34] Land Tax
+1 [IKO:21] Luminous Broodmoth
+1 [ZEN:219] Marsh Flats
+1 [SOK:19] Michiko Konda, Truth Seeker
+5 [DFT:286] Mountain
+1 [DSC:289] Myriad Landscape
+1 [ZNR:263] Needleverge Pathway
+1 [NEO:115] Nezumi Bladeblesser
+1 [CHK:131] Nezumi Shortfang
+1 [NEO:31] Norika Yamazaki, the Poet
+1 [CHK:265] Oathkeeper, Takeno's Daisho
+1 [BOK:17] Opal-Eye, Konda's Yojimbo
+1 [SOI:32] Open the Armory
+1 [CLU:225] Orzhov Signet
+1 [DRC:61] Path of Ancestry
+7 [DFT:272] Plains
+1 [NEO:232] Raiyuu, Storm's Edge
+1 [CLU:226] Rakdos Signet
+1 [NEO:158] Reinforced Ronin
+1 [TSP:39] Return to Dust
+1 [ELD:104] Revenge of Ravens
+1 [NEO:233] Risona, Asari Commander
+1 [CLU:279] Sacred Foundry
+1 [CHK:43] Samurai of the Pale Curtain
+1 [IKO:253] Savai Triome
+1 [NEO:312] Selfless Samurai
+1 [CHK:44] Sensei Golden-Tail
+1 [EMN:41] Sigarda's Aid
+1 [ORI:239] Sigil of Valor
+1 [RNA:22] Smothering Tithe
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [SUM:274] Sol Ring
+1 [NEO:237] Spirit-Sister's Call
+1 [VOW:266] Sundown Pass
+6 [DFT:274] Swamp
+1 [ORI:240] Sword of the Animist
+1 [H1R:32] Sword of Truth and Justice
+1 [ICE:54] Swords to Plowshares
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [STA:11] Teferi's Protection
+1 [NEO:303] The Wandering Emperor
+1 [BOK:89] Toshiro Umezawa
+1 [MID:333] Vanquish the Horde
+1 [XLN:251] Vanquisher's Banner
+1 [APC:126] Vindicate
+1 [M11:221] Whispersilk Cloak
+1 [10E:61] Wrath of God
+SB: 1 [NEO:224] Isshin, Two Heavens as One
+LAYOUT MAIN:(1,1)(NONE,false,50)|([NEO:131],[SOK:2],[ELD:331],[ZEN:211],[NEO:215],[LRW:3],[KHM:252],[CLU:274],[KTK:230],[FDN:721],[CLU:220],[ZNR:259],[PLC:4],[NEO:245],[CHK:275],[NEO:10],[NEO:268],[CHK:8],[ELD:120],[J21:75],[ZEN:202],[NEO:13],[AFR:222],[CHK:251],[CHK:10],[CLU:276],[CHK:169],[NEO:145],[NEO:146],[THB:19],[M3C:296],[FDN:254],[NEO:19],[CMR:188],[CHK:30],[SOK:79],[CHK:260],[4ED:34],[IKO:21],[ZEN:219],[SOK:19],[DFT:286],[DFT:286],[DFT:286],[DFT:286],[DFT:286],[DSC:289],[ZNR:263],[NEO:115],[CHK:131],[NEO:31],[CHK:265],[BOK:17],[SOI:32],[CLU:225],[DRC:61],[DFT:272],[DFT:272],[DFT:272],[DFT:272],[DFT:272],[DFT:272],[DFT:272],[NEO:232],[CLU:226],[NEO:158],[TSP:39],[ELD:104],[NEO:233],[CLU:279],[CHK:43],[IKO:253],[NEO:312],[CHK:44],[EMN:41],[ORI:239],[RNA:22],[NEO:276],[SUM:274],[NEO:237],[VOW:266],[DFT:274],[DFT:274],[DFT:274],[DFT:274],[DFT:274],[DFT:274],[ORI:240],[H1R:32],[ICE:54],[NEO:278],[STA:11],[NEO:303],[BOK:89],[MID:333],[XLN:251],[APC:126],[M11:221],[10E:61])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NEO:224])

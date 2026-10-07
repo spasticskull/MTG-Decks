@@ -1,0 +1,102 @@
+1 [SUM:274] Sol Ring
+1 [5ED:388] Mana Vault
+1 [ULG:126] Grim Monolith
+1 [ELD:331] Arcane Signet
+1 [DOM:224] Mox Amber
+1 [SOM:179] Mox Opal
+1 [TMP:294] Lotus Petal
+1 [M12:165] Birds of Paradise
+1 [HOC:25] Delighted Halfling
+1 [ECL:166] Bloom Tender
+1 [THB:236] Shadowspear
+1 [DRC:16] Adaptive Omnitool
+1 [TDC:313] Blade of Selves
+1 [DOM:217] Helm of the Host
+1 [HOC:43] Mithril Coat
+1 [CHK:251] General's Kabuto
+1 [ECL:258] Mirrormind Crown
+1 [BLC:264] Academy Manufactor
+1 [PIP:137] Nuka-Cola Vending Machine
+1 [BIG:28] Transmutation Font
+1 [M13:202] Clock of Omens
+1 [SOI:265+a] Tamiyo's Journal
+1 [ARB:31] Time Sieve
+1 [TMC:32] Ninja Pizza
+1 [M21:228] Chromatic Orrery
+1 [WOE:178] Night of the Sweets' Revenge
+1 [AKH:2] Anointed Procession
+1 [FDN:216] Doubling Season
+1 [TSP:232] Verdant Embrace
+1 [10E:296] Seedborn Muse
+1 [ONE:23] Mondrak, Glory Dominus
+1 [LCI:26] Ojer Taq, Deepest Foundation
+1 [INV:237] Captain Sisay
+1 [KHM:168] Esika, God of the Tree
+1 [MAT:47] Sigarda, Font of Blessings
+1 [KLD:59] Padeem, Consul of Innovation
+1 [LTR:222] Samwise Gamgee
+1 [LTR:181] Peregrin Took
+1 [MSC:734] Tippy-Toe, Terrific Partner
+1 [BLB:207] Camellia, the Seedmiser
+1 [EOE:224] Ragost, Deft Gastronaut
+1 [BLB:241] Ygra, Eater of All
+1 [WOC:27] Brenard, Ginger Sculptor
+1 [EOE:214] Biotech Specialist
+1 [LCI:224] Bartolome del Presidio
+1 [MKC:215] Lonis, Cryptozoologist
+1 [VIS:43] Shrieking Drake
+1 [BLC:82] Chatterfang, Squirrel General
+1 [RIX:81] Pitiless Plunderer
+1 [LTR:421] Mirkwood Bats
+1 [WOE:314] Experimental Confectioner
+1 [CLU:2] Senator Peacock
+1 [FCA:5] Urza, Lord High Artificer
+1 [LTR:2] The Battle of Bywater
+1 [6ED:19] Enlightened Tutor
+1 [SUM:105] Demonic Tutor
+1 [6ED:269] Worldly Tutor
+1 [BRO:324] Diabolic Intent
+1 [EMN:155] Eldritch Evolution
+1 [TLE:306] Flawless Maneuver
+1 [RTR:35] Cyclonic Rift
+1 [M21:188] Heroic Intervention
+1 [TLE:7] Teferi's Protection
+1 [ELD:333] Command Tower
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [CHK:276] Forbidden Orchard
+1 [FIN:289] Starting Town
+1 [CON:142] Exotic Orchard
+1 [SHM:278*] Reflecting Pool
+1 [DMU:252] Plaza of Heroes
+1 [AER:184] Spire of Industry
+1 [TMP:315] Ancient Tomb
+1 [NEO:266] Boseiju, Who Endures
+1 [NEO:271] Otawara, Soaring City
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [TRK:301] Temple Garden
+1 [TRK:289] Overgrown Tomb
+1 [TRK:285] Godless Shrine
+1 [TRK:299] Stomping Ground
+1 [TRK:295] Sacred Foundry
+1 [TRK:278] Blood Crypt
+1 [TRK:279] Breeding Pool
+1 [TRK:286] Hallowed Fountain
+1 [TRK:298] Steam Vents
+1 [TRK:306] Watery Grave
+1 [ZEN:211] Arid Mesa
+1 [KTK:230] Bloodstained Mire
+1 [KTK:233] Flooded Strand
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [KTK:239] Polluted Delta
+1 [ZEN:223] Scalding Tarn
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [TRK:325] Forest
+1 [TRK:317] Plains
+SB: 1 [H1R:6] Sisay, Weatherlight Captain
+LAYOUT MAIN:(1,8)(CMC,false,50)|([DOM:224],[SOM:179],[TMP:294],[ELD:333],[8ED:322],[JOU:163],[CHK:276],[FIN:289],[CON:142],[SHM:278*],[DMU:252],[AER:184],[TMP:315],[NEO:266],[NEO:271],[NEO:268],[NEO:278],[TRK:301],[TRK:289],[TRK:285],[TRK:299],[TRK:295],[TRK:278],[TRK:279],[TRK:286],[TRK:298],[TRK:306],[ZEN:211],[KTK:230],[KTK:233],[ZEN:219],[ZEN:220],[KTK:239],[ZEN:223],[ZEN:229],[KTK:248],[KTK:249],[TRK:325],[TRK:317])([SUM:274],[5ED:388],[M12:165],[HOC:25],[THB:236],[VIS:43],[6ED:19],[6ED:269])([ULG:126],[ELD:331],[ECL:166],[DRC:16],[TDC:313],[ARB:31],[LTR:222],[EOE:224],[EOE:214],[LCI:224],[MKC:215],[SUM:105],[BRO:324],[RTR:35],[M21:188])([HOC:43],[BLC:264],[PIP:137],[TMC:32],[KHM:168],[LTR:181],[BLB:207],[BLC:82],[WOE:314],[LTR:2],[EMN:155],[TLE:306],[TLE:7])([DOM:217],[CHK:251],[ECL:258],[M13:202],[WOE:178],[AKH:2],[ONE:23],[INV:237],[MAT:47],[KLD:59],[MSC:734],[WOC:27],[RIX:81],[LTR:421],[FCA:5])([BIG:28],[SOI:265+a],[FDN:216],[TSP:232],[10E:296],[BLB:241],[CLU:2])([LCI:26])([M21:228])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([H1R:6])

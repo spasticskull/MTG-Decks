@@ -1,0 +1,88 @@
+NAME:Mousecapades!!!!
+1 [M3C:165] Akroma's Will
+1 [LTR:236] Anduril, Flame of the West
+1 [CLB:4] Archivist of Oghma
+1 [MH3:215] Arena of Glory
+1 [OTJ:309] Aven Interrupter
+1 [ODY:313] Barbarian Ring
+1 [BRO:257] Battlefield Forge
+1 [SNC:102] Big Score
+1 [ISD:130] Blasphemous Act
+1 [GTC:6] Blind Obedience
+1 [BLB:127] Brambleguard Captain
+1 [PIP:228] Champion's Helm
+1 [DOM:239] Clifftop Retreat
+1 [M20:223] Colossus Hammer
+1 [ELD:333] Command Tower
+1 [BLB:9] Dawn's Truce
+1 [NPH:7] Dispatch
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [BLB:133] Emberheart Challenger
+1 [6ED:19] Enlightened Tutor
+1 [J21:75] Esper Sentinel
+1 [ACR:72] Excalibur, Sword of Eden
+1 [DKA:87] Faithless Looting
+1 [OTJ:11] Final Showdown
+1 [MH3:119] Flare of Duplication
+1 [MH3:26] Flare of Fortitude
+1 [CMM:24] Flawless Maneuver
+1 [LTR:15] Flowering of the White Tree
+1 [LTR:17] Forge Anew
+1 [USG:188] Gamble
+1 [BLC:106] Generous Gift
+1 [OTJ:125] Great Train Heist
+1 [CMM:388] Hammer of Nazahn
+1 [BLB:138] Heartfire Hero
+1 [THB:24] Idyllic Tutor
+1 [KLD:247] Inventors' Fair
+1 [4ED:34] Land Tax
+1 [MH3:255] Legion Leadership
+1 [CLU:141] Lightning Bolt
+1 [MRD:199] Lightning Greaves
+1 [BLB:256] Lupinflower Village
+1 [BLB:143] Manifold Mouse
+1 [PIP:165] Mantle of the Ancients
+1 [MH3:222] Monumental Henge
+6 [DSK:275] Mountain
+1 [BLB:23] Nettle Guard
+1 [SOI:32] Open the Armory
+1 [BLB:247] Patchwork Banner
+1 [CON:15] Path to Exile
+11 [DSK:272] Plains
+1 [PIP:21] Pre-War Formalwear
+1 [NPH:20] Puresteel Paladin
+1 [STX:222] Reconstruct History
+1 [BLB:259] Rockface Village
+1 [BLB:231] Seedglaive Mentor
+1 [MH3:267] Sevinne's Reclamation
+1 [PIP:142] Silver Shroud Costume
+1 [RNA:22] Smothering Tithe
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [SUM:274] Sol Ring
+1 [5DN:19] Steelshaper's Gift
+1 [SNC:124] Sticky Fingers
+1 [WOE:33] Stroke of Midnight
+1 [MOM:41] Surge of Salvation
+1 [ORI:240] Sword of the Animist
+1 [ICE:54] Swords to Plowshares
+1 [M3C:307] Talisman of Conviction
+1 [M3C:217] The Reaver Cleaver
+1 [AFR:164] Unexpected Windfall
+1 [MH2:7] Blossoming Calm
+1 [ELD:118] Claim the Firstborn
+1 [BRO:11] Lay Down Arms
+1 [NEO:27] Lucky Offering
+1 [VMA:274] Mana Vault
+1 [STA:125] Lightning Helix
+1 [OTJ:243] Lavaspur Boots
+1 [DBL:127] Abandon the Post
+1 [BIG:53] Lost Jitte
+1 [LCI:344] Roaming Throne
+1 [BRR:82] Helm of the Host
+1 [WOE:7] Cheeky House-Mouse
+1 [BLB:14] Flowerfoot Swordmaster
+1 [BLC:12] Steelburr Champion
+1 [SLD:1492] Arcane Signet
+SB: 1 [BLB:224] Mabel, Heir to Cragflame
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,90)|([J21:75],[LCI:344])([LTR:236],[PIP:228],[M20:223],[ACR:72],[CMM:388],[MRD:199],[BLB:247],[PIP:21],[PIP:142],[SUM:274],[ORI:240],[M3C:307],[M3C:217],[VMA:274],[OTJ:243],[BIG:53],[BRR:82],[SLD:1492])([CLB:4],[OTJ:309],[BLB:127],[BLB:133],[BLB:138],[BLB:143],[BLB:23],[NPH:20],[BLB:231],[WOE:7],[BLB:14],[BLC:12])([GTC:6],[LTR:15],[LTR:17],[4ED:34],[PIP:165],[RNA:22],[SNC:124])([M3C:165],[SNC:102],[BLB:9],[NPH:7],[6ED:19],[OTJ:11],[MH3:119],[MH3:26],[CMM:24],[BLC:106],[OTJ:125],[MH3:255],[CLU:141],[CON:15],[WOE:33],[MOM:41],[ICE:54],[AFR:164],[MH2:7],[STA:125])([MH3:215],[ODY:313],[BRO:257],[DOM:239],[ELD:333],[NEO:268],[KLD:247],[BLB:256],[MH3:222],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:272],[DSK:272],[DSK:272],[DSK:272],[DSK:272],[DSK:272],[DSK:272],[DSK:272],[DSK:272],[DSK:272],[DSK:272],[BLB:259],[NEO:276])([ISD:130],[DKA:87],[USG:188],[THB:24],[SOI:32],[STX:222],[MH3:267],[5DN:19],[ELD:118],[BRO:11],[NEO:27],[DBL:127])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BLB:224])

@@ -1,0 +1,102 @@
+1 [5DN:7] Bringer of the White Dawn
+1 [5DN:26] Bringer of the Blue Dawn
+1 [5DN:43] Bringer of the Black Dawn
+1 [5DN:62] Bringer of the Red Dawn
+1 [5DN:83] Bringer of the Green Dawn
+1 [WAR:208] Niv-Mizzet Reborn
+1 [MKM:319z] Niv-Mizzet, Guildpact
+1 [FDN:678] Ramos, Dragon Engine
+1 [ALA:44] Filigree Sages
+1 [RNA:158] Biomancer's Familiar
+1 [EOC:70] Deepglow Skate
+1 [KHM:199] Vorinclex, Monstrous Raider
+1 [THB:190] Nyxbloom Ancient
+1 [SOM:193] Platinum Emperion
+1 [SUM:274] Sol Ring
+1 [5ED:388] Mana Vault
+1 [ELD:331] Arcane Signet
+1 [GRN:233] Chromatic Lantern
+1 [EOC:135] Empowered Autogenerator
+1 [DMU:239] Timeless Lotus
+1 [M21:228] Chromatic Orrery
+1 [M13:203] Door to Nothingness
+1 [10E:330] Legacy Weapon
+1 [DST:136] Panoptic Mirror
+1 [AER:171] Planar Bridge
+1 [LTR:001] The One Ring
+1 [RIX:180] The Immortal Sun
+1 [LCI:249] Chimil, the Inner Sun
+1 [M14:209] Elixir of Immortality
+1 [CHK:268] Sensei's Divining Top
+1 [WAR:79] Bolas's Citadel
+1 [LRW:259] Rings of Brighthearth
+1 [FDN:258] Swiftfoot Boots
+1 [LTR:245] Mithril Coat
+1 [MAT:9] Training Grounds
+1 [ZEN:42] Archmage Ascension
+1 [MH3:70] Shadow of the Second Sun
+1 [FDN:154] Extravagant Replication
+1 [MKM:217] Leyline of the Guildpact
+1 [PCY:45] Rhystic Study
+1 [FDN:156] Imprisoned in the Moon
+1 [CMM:21] Darksteel Mutation
+1 [6ED:161] Vampiric Tutor
+1 [2X2:354] Imperial Seal
+1 [SUM:105] Demonic Tutor
+1 [6ED:19] Enlightened Tutor
+1 [6ED:83] Mystical Tutor
+1 [6ED:269] Worldly Tutor
+1 [BFZ:209] Bring to Light
+1 [CON:102] Conflux
+1 [TSB:91] Coalition Victory
+1 [ALL:28] Force of Will
+1 [TLE:13] Force of Negation
+1 [CMM:94] Fierce Guardianship
+1 [LEG:65] Mana Drain
+1 [THS:65] Swan Song
+1 [WAR:193] Dovin's Veto
+1 [STA:11] Teferi's Protection
+1 [M21:188] Heroic Intervention
+1 [ICE:54] Swords to Plowshares
+1 [CON:15] Path to Exile
+1 [PLC:44] Pongify
+1 [CLU:93] Rapid Hybridization
+1 [SOI:242] Anguished Unmaking
+1 [MKM:187] Assassin's Trophy
+1 [RTR:35] Cyclonic Rift
+1 [IKO:184] Eerie Ultimatum
+1 [MBS:88] Praetor's Counsel
+1 [ELD:333] Command Tower
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [CON:142] Exotic Orchard
+1 [SHM:278*] Reflecting Pool
+1 [AKH:240] Cascading Cataracts
+1 [ODY:318] Crystal Quarry
+1 [TSP:269] Academy Ruins
+1 [WAR:248] Karn's Bastion
+1 [FDN:264] Rogue's Passage
+1 [ZEN:211] Arid Mesa
+1 [KTK:230] Bloodstained Mire
+1 [KTK:233] Flooded Strand
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [KTK:239] Polluted Delta
+1 [ZEN:223] Scalding Tarn
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [SUM:289] Tundra
+1 [SUM:290] Underground Sea
+1 [SUM:282] Badlands
+1 [SUM:287] Taiga
+1 [SUM:285] Savannah
+1 [SUM:286] Scrubland
+1 [SUM:283] Bayou
+1 [SUM:288] Tropical Island
+1 [SUM:291] Volcanic Island
+1 [SUM:284] Plateau
+1 [CLB:879] Thought Vessel
+SB: 1 [ELD:303] Kenrith, the Returned King
+LAYOUT MAIN:(1,10)(CMC,false,50)|([ELD:333],[8ED:322],[JOU:163],[CON:142],[SHM:278*],[AKH:240],[ODY:318],[TSP:269],[WAR:248],[FDN:264],[ZEN:211],[KTK:230],[KTK:233],[ZEN:219],[ZEN:220],[KTK:239],[ZEN:223],[ZEN:229],[KTK:248],[KTK:249],[SUM:289],[SUM:290],[SUM:282],[SUM:287],[SUM:285],[SUM:286],[SUM:283],[SUM:288],[SUM:291],[SUM:284])([SUM:274],[5ED:388],[M14:209],[CHK:268],[MAT:9],[6ED:161],[2X2:354],[6ED:19],[6ED:83],[6ED:269],[THS:65],[ICE:54],[CON:15],[PLC:44],[CLU:93])([RNA:158],[ELD:331],[FDN:258],[CMM:21],[SUM:105],[LEG:65],[WAR:193],[M21:188],[MKM:187],[RTR:35],[CLB:879])([GRN:233],[LRW:259],[LTR:245],[ZEN:42],[PCY:45],[FDN:156],[TLE:13],[CMM:94],[STA:11],[SOI:242])([ALA:44],[EOC:135],[LTR:001],[MKM:217])([WAR:208],[MKM:319z],[EOC:70],[DMU:239],[M13:203],[DST:136],[BFZ:209],[ALL:28])([FDN:678],[KHM:199],[AER:171],[RIX:180],[LCI:249],[WAR:79],[MH3:70],[FDN:154])([THB:190],[M21:228],[10E:330],[IKO:184])([SOM:193],[CON:102],[TSB:91],[MBS:88])([5DN:7],[5DN:26],[5DN:43],[5DN:62],[5DN:83])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ELD:303])

@@ -1,0 +1,102 @@
+1 [AVR:86] Blood Artist
+1 [WAR:188] Cruel Celebrant
+1 [BFZ:126] Zulaport Cutthroat
+1 [DMU:198] Elas il-Kor, Sadistic Pilgrim
+1 [NPH:25] Suture Priest
+1 [M10:34] Soul Warden
+1 [KLD:183] Kambal, Consul of Allocation
+1 [OTJ:211] Kambal, Profiteering Mayor
+1 [M21:127] Vito, Thorn of the Dusk Rose
+1 [FDN:178] Marauding Blight-Priest
+1 [M21:219] Indulging Patrician
+1 [RVR:193] Karlov of the Ghost Council
+1 [FDN:186] Vampire Nighthawk
+1 [10E:60*] Windborn Muse
+1 [ELD:3] Archon of Absolution
+1 [5DN:150] Silent Arbiter
+1 [SOK:19] Michiko Konda, Truth Seeker
+1 [DMU:107] Sheoldred, the Apocalypse
+1 [LCI:336] Bloodletter of Aclazotz
+1 [FRF:62] Archfiend of Depravity
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [CLU:220] Boros Signet
+1 [CLU:225] Orzhov Signet
+1 [CLU:226] Rakdos Signet
+1 [FIC:363] Talisman of Conviction
+1 [FIC:365] Talisman of Hierarchy
+1 [MRD:255] Talisman of Indulgence
+1 [9ED:297] Fellwar Stone
+1 [MRD:199] Lightning Greaves
+1 [FDN:258] Swiftfoot Boots
+1 [KLD:192] Aetherflux Reservoir
+1 [ORI:221] Alhammarret's Archive
+1 [ULG:123] Crawlspace
+1 [BNG:151] Mogis, God of Slaughter
+1 [CHK:10] Ghostly Prison
+1 [ULG:56] No Mercy
+1 [PZ2:20] Marchesa's Decree
+1 [ELD:104] Revenge of Ravens
+1 [FDN:137] Authority of the Consuls
+1 [GTC:6] Blind Obedience
+1 [AVR:102] Exquisite Blood
+1 [M14:112] Sanguine Bond
+1 [ZEN:82] Bloodchief Ascension
+1 [SHM:74] Polluted Bonds
+1 [RNA:22] Smothering Tithe
+1 [FDN:180] Phyrexian Arena
+1 [ACR:161] Black Market Connections
+1 [SHM:81] Wound Reflection
+1 [SHM:5] Boon Reflection
+1 [ICE:54] Swords to Plowshares
+1 [CON:15] Path to Exile
+1 [SOI:242] Anguished Unmaking
+1 [DGM:135] Wear // Tear
+1 [EOC:49] Chaos Warp
+1 [BLC:106] Generous Gift
+1 [APC:126] Vindicate
+1 [FDN:712] Feed the Swarm
+1 [KTK:171] Crackling Doom
+1 [DRC:89] Damn
+1 [ISD:130] Blasphemous Act
+1 [SUM:105] Demonic Tutor
+1 [6ED:19] Enlightened Tutor
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [TDM:263] Nomad Outpost
+1 [IKO:253] Savai Triome
+1 [MKM:266] Raucous Theater
+1 [MKM:260] Elegant Parlor
+1 [MKM:268] Shadowy Backstreet
+1 [EOE:254] Godless Shrine
+1 [ECL:262] Blood Crypt
+1 [EOE:256] Sacred Foundry
+1 [DOM:241] Isolated Chapel
+1 [XLN:252] Dragonskull Summit
+1 [DOM:239] Clifftop Retreat
+1 [OTJ:268] Concealed Courtyard
+1 [ONE:248] Blackcleave Cliffs
+1 [OTJ:269] Inspiring Vantage
+1 [DMU:244] Caves of Koilos
+1 [DMU:256] Sulfurous Springs
+1 [BRO:257] Battlefield Forge
+1 [ZNR:259] Brightclimb Pathway
+1 [KHM:252] Blightstep Pathway
+1 [ZNR:263] Needleverge Pathway
+1 [ZEN:219] Marsh Flats
+1 [KTK:230] Bloodstained Mire
+1 [ZEN:211] Arid Mesa
+1 [BLB:252] Fabled Passage
+1 [SPG:38] Prismatic Vista
+1 [CMM:436] Vault of Champions
+1 [CLB:355] Luxury Suite
+1 [CMM:427] Spectator Seating
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [WWK:132] Bojuka Bog
+1 [DSC:283] Hall of Heliod's Generosity
+1 [TLA:282] Plains
+1 [TLA:284] Swamp
+1 [TLA:285] Mountain
+SB: 1 [PZ2:65729] Licia, Sanguine Tribune
+LAYOUT MAIN:(1,8)(CMC,false,50)|([ELD:333],[CON:142],[TDM:263],[IKO:253],[MKM:266],[MKM:260],[MKM:268],[EOE:254],[ECL:262],[EOE:256],[DOM:241],[XLN:252],[DOM:239],[OTJ:268],[ONE:248],[OTJ:269],[DMU:244],[DMU:256],[BRO:257],[ZNR:259],[KHM:252],[ZNR:263],[ZEN:219],[KTK:230],[ZEN:211],[BLB:252],[SPG:38],[CMM:436],[CLB:355],[CMM:427],[M15:248],[WWK:132],[DSC:283],[TLA:282],[TLA:284],[TLA:285])([M10:34],[SUM:274],[FDN:137],[ZEN:82],[ICE:54],[CON:15],[6ED:19])([AVR:86],[WAR:188],[BFZ:126],[DMU:198],[NPH:25],[RVR:193],[ELD:331],[CLU:220],[CLU:225],[CLU:226],[FIC:363],[FIC:365],[MRD:255],[9ED:297],[MRD:199],[FDN:258],[GTC:6],[FDN:712],[DRC:89],[SUM:105])([KLD:183],[OTJ:211],[M21:127],[FDN:178],[M21:219],[FDN:186],[ULG:123],[CHK:10],[FDN:180],[ACR:161],[SOI:242],[DGM:135],[EOC:49],[BLC:106],[APC:126],[KTK:171])([10E:60*],[ELD:3],[5DN:150],[SOK:19],[DMU:107],[LCI:336],[KLD:192],[BNG:151],[ULG:56],[PZ2:20],[ELD:104],[RNA:22])([FRF:62],[ORI:221],[AVR:102],[M14:112],[SHM:74],[SHM:5])([SHM:81])([ISD:130])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PZ2:65729])

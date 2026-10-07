@@ -1,0 +1,99 @@
+NAME:Squirrels!
+1 [BLC:264] Academy Manufactor
+1 [TMP:315] Ancient Tomb
+1 [MKM:187] Assassin's Trophy
+1 [IKO:73] Bastion of Remembrance
+1 [SUM:283] Bayou
+1 [STX:163] Beledros Witherbloom
+1 [WOE:336] Beseech the Mirror
+1 [M12:165] Birds of Paradise
+1 [KTK:230] Bloodstained Mire
+1 [NEO:266] Boseiju, Who Endures
+1 [BLB:207] Camellia, the Seedmiser
+1 [M15:172] Chord of Calling
+1 [ELD:333] Command Tower
+1 [AVR:172] Craterhoof Behemoth
+1 [ULG:98] Crop Rotation
+1 [STX:172] Culling Ritual
+1 [MMQ:129] Dark Ritual
+1 [CLU:109] Deadly Dispute
+1 [BLC:213] Deep Forest Hermit
+1 [LTR:158] Delighted Halfling
+1 [SUM:105] Demonic Tutor
+1 [ULG:101] Deranged Hermit
+1 [BRO:324] Diabolic Intent
+1 [FUT:174] Dryad Arbor
+1 [TMP:222] Earthcraft
+1 [EMN:155] Eldritch Evolution
+1 [RAV:161] Elves of Deep Shadow
+1 [PLC:145] Essence Warden
+1 [ORI:176] Evolutionary Leap
+1 [M20:247] Field of the Dead
+1 [OTP:29] Force of Vigor
+2 [DSK:276] Forest
+1 [BLB:253] Fountainport
+1 [USG:321] Gaea's Cradle
+1 [SNC:148] Gala Greeters
+1 [ELD:159] Giant Opportunity
+1 [ELD:160] Gilded Goose
+1 [ELD:245] Gingerbread Cabin
+1 [10E:144] Grave Pact
+1 [CLB:237] Jaheira, Friend of the Forest
+1 [MKC:174] Killer Service
+1 [RAV:172] Life from the Loam
+1 [BRO:264] Llanowar Wastes
+1 [JOU:163] Mana Confluence
+1 [5ED:388] Mana Vault
+1 [MH3:100] Marionette Apprentice
+1 [ZEN:219] Marsh Flats
+1 [LTR:421] Mirkwood Bats
+1 [ZEN:220] Misty Rainforest
+1 [STH:138] Mox Diamond
+1 [VIS:114] Natural Order
+1 [5ED:182] Necropotence
+1 [PIP:137] Nuka-Cola Vending Machine
+1 [ACR:114] Nurturing Peatland
+1 [LTR:103] Orcish Bowmasters
+1 [CLU:278] Overgrown Tomb
+1 [LTR:181] Peregrin Took
+1 [INV:306] Phyrexian Altar
+1 [USG:322] Phyrexian Tower
+1 [RIX:81] Pitiless Plunderer
+1 [KTK:239] Polluted Delta
+1 [SPG:38] Prismatic Vista
+1 [AFR:200] Prosperous Innkeeper
+1 [TMP:151] Reanimate
+1 [DST:140] Skullclamp
+2 [KHM:284] Snow-Covered Forest
+2 [KHM:280] Snow-Covered Swamp
+1 [SUM:274] Sol Ring
+1 [ODY:274] Squirrel Nest
+1 [4ED:363] Strip Mine
+1 [EXO:129] Survival of the Fittest
+2 [FDN:277] Swamp
+1 [5ED:329] Sylvan Library
+1 [JUD:133] Sylvan Safekeeper
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [MID:112] The Meathook Massacre
+1 [LTR:001] The One Ring
+1 [LTR:260] The Shire
+1 [MH2:240] The Underworld Cookbook
+1 [BLC:243] Tireless Provisioner
+1 [SOI:233] Tireless Tracker
+1 [MH3:277] Toxic Deluge
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [MB2:114] Urza's Saga
+1 [6ED:161] Vampiric Tutor
+1 [ZEN:229] Verdant Catacombs
+1 [J21:664] Verdant Command
+1 [BLB:238] Vinereap Mentor
+1 [LCI:286] Volatile Fault
+1 [MH3:110] Warren Soultrader
+1 [ELD:237] Witch's Oven
+1 [KTK:249] Wooded Foothills
+1 [M3C:409] Yavimaya, Cradle of Growth
+1 [DMR:110] Yawgmoth, Thran Physician
+1 [J21:615] Parallel Lives
+SB: 1 [BLC:82] Chatterfang, Squirrel General
+LAYOUT MAIN:(1,8)(CMC,false,50)|([TMP:315],[SUM:283],[KTK:230],[NEO:266],[ELD:333],[FUT:174],[M20:247],[DSK:276],[DSK:276],[BLB:253],[USG:321],[ELD:245],[BRO:264],[JOU:163],[ZEN:219],[ZEN:220],[STH:138],[ACR:114],[CLU:278],[USG:322],[KTK:239],[SPG:38],[KHM:284],[KHM:284],[KHM:280],[KHM:280],[4ED:363],[FDN:277],[FDN:277],[NEO:278],[LTR:260],[M15:248],[MB2:114],[ZEN:229],[LCI:286],[KTK:249],[M3C:409])([M12:165],[ULG:98],[MMQ:129],[LTR:158],[RAV:161],[PLC:145],[ELD:160],[5ED:388],[TMP:151],[DST:140],[SUM:274],[JUD:133],[MH2:240],[6ED:161],[ELD:237])([MKM:187],[CLU:109],[SUM:105],[BRO:324],[TMP:222],[ORI:176],[SNC:148],[RAV:172],[MH3:100],[LTR:103],[AFR:200],[EXO:129],[5ED:329],[MID:112],[J21:664],[BLB:238])([BLC:264],[IKO:73],[BLB:207],[M15:172],[EMN:155],[ELD:159],[CLB:237],[MKC:174],[5ED:182],[PIP:137],[LTR:181],[INV:306],[ODY:274],[BLC:243],[SOI:233],[MH3:277],[MH3:110])([WOE:336],[STX:172],[OTP:29],[10E:144],[LTR:421],[VIS:114],[RIX:81],[LTR:001],[DMR:110],[J21:615])([BLC:213],[ULG:101])([STX:163])([AVR:172])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BLC:82])

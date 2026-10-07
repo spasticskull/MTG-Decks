@@ -1,0 +1,85 @@
+1 [SCG:59] Carrion Feeder
+1 [M11:120] Viscera Seer
+1 [DKA:64] Gravecrawler
+1 [AKH:91] Festering Mummy
+1 [AFR:119] Shambling Ghast
+1 [M19:121] Stitcher's Supplier
+1 [EMN:86] Cryptbreaker
+1 [J21:375] Putrid Goblin
+1 [DRC:100] Undead Augur
+1 [AVR:86] Blood Artist
+1 [BFZ:126] Zulaport Cutthroat
+1 [RIX:81] Pitiless Plunderer
+1 [VOW:118] Headless Rider
+1 [SOI:107] Diregraf Colossus
+1 [FDN:609] Midnight Reaper
+1 [CSP:61] Haakon, Stromgald Scourge
+1 [ELD:350] Ayara, First of Locthwain
+1 [FCA:11] Yawgmoth, Thran Physician
+1 [DTK:120] Sidisi, Undead Vizier
+1 [DKA:70] Mikaeus, the Unhallowed
+1 [HOU:73] Razaketh, the Foulblooded
+1 [DMU:400] Defiler of Flesh
+1 [M14:123] Xathrid Necromancer
+1 [ONE:305] Drivnod, Carnage Dominus
+1 [SPG:87] Bone Miser
+1 [CMR:155] Tormod, the Desecrator
+1 [TMC:59] Sol Ring
+1 [5ED:388] Mana Vault
+1 [MRD:152] Chrome Mox
+1 [STH:138] Mox Diamond
+1 [TMP:294] Lotus Petal
+1 [MIR:307] Lion's Eye Diamond
+1 [TMC:57] Arcane Signet
+1 [DST:140] Skullclamp
+1 [6ED:274] Ashnod's Altar
+1 [INV:306] Phyrexian Altar
+1 [CHK:268] Sensei's Divining Top
+1 [KHM:240] Maskwood Nexus
+1 [FDN:617] Wishclaw Talisman
+1 [WAR:79] Bolas's Citadel
+1 [AKH:225] Bontu's Monument
+1 [SHM:267] Umbral Mantle
+1 [10E:144] Grave Pact
+1 [JOU:65] Dictate of Erebos
+1 [M14:93] Dark Prophecy
+1 [XLN:117] Revel in Riches
+1 [RTR:67] Grave Betrayal
+1 [BRO:114] Thran Vigil
+1 [M19:112] Open the Graves
+1 [5ED:182] Necropotence
+1 [IKO:73] Bastion of Remembrance
+1 [ISD:104] Heartless Summoning
+1 [M12:120] Zombie Infestation
+1 [M19:106] Liliana, Untouched by Death
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [2X2:354] Imperial Seal
+1 [WOE:336] Beseech the Mirror
+1 [M21:103] Grim Tutor
+1 [BRO:324] Diabolic Intent
+1 [ODY:132] Entomb
+1 [TMP:151] Reanimate
+1 [5ED:140] Animate Dead
+1 [ODY:118] Buried Alive
+1 [ALA:63] Ad Nauseam
+1 [USG:171] Yawgmoth's Will
+1 [TMC:131] Dark Ritual
+1 [EXO:55] Culling the Weak
+1 [TMP:142] Living Death
+18 [SOS:269] Swamp
+1 [TMP:315] Ancient Tomb
+1 [TOR:139] Cabal Coffers
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [USG:322] Phyrexian Tower
+1 [MMQ:320] High Market
+1 [ALL:140] Lake of the Dead
+1 [WWK:132] Bojuka Bog
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [STH:143] Volrath's Stronghold
+1 [ZNR:336] Agadeem's Awakening
+1 [MB2:114] Urza's Saga
+SB: 1 [CMM:161] Ghoulcaller Gisa
+LAYOUT MAIN:(1,9)(CMC,false,50)|([MRD:152],[STH:138],[TMP:294],[MIR:307],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[SOS:269],[TMP:315],[TOR:139],[M15:248],[THS:223],[USG:322],[MMQ:320],[ALL:140],[WWK:132],[NEO:278],[STH:143],[MB2:114])([SCG:59],[M11:120],[DKA:64],[AKH:91],[AFR:119],[M19:121],[EMN:86],[TMC:59],[5ED:388],[DST:140],[CHK:268],[6ED:161],[2X2:354],[ODY:132],[TMP:151],[TMC:131],[EXO:55])([J21:375],[DRC:100],[AVR:86],[BFZ:126],[TMC:57],[FDN:617],[BRO:114],[ISD:104],[M12:120],[SUM:105],[BRO:324],[5ED:140])([VOW:118],[SOI:107],[FDN:609],[CSP:61],[ELD:350],[M14:123],[6ED:274],[INV:306],[AKH:225],[SHM:267],[M14:93],[5ED:182],[IKO:73],[M21:103],[ODY:118],[USG:171],[ZNR:336])([RIX:81],[FCA:11],[DMU:400],[CMR:155],[KHM:240],[10E:144],[M19:106],[WOE:336])([DTK:120],[ONE:305],[SPG:87],[JOU:65],[XLN:117],[M19:112],[ALA:63],[TMP:142])([DKA:70],[WAR:79])([RTR:67])([HOU:73])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:161])

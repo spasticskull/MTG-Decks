@@ -1,0 +1,87 @@
+NAME:Milking XM
+1 [ZEN:47] Hedron Crab
+1 [ZNR:295] Ruin Crab
+1 [ISD:67] Mindshrieker
+1 [M13:218] Stuffy Doll
+1 [ISD:61] Laboratory Maniac
+1 [MRD:195] Leveler
+1 [CMM:120] Spellseeker
+1 [SOM:48] Trinket Mage
+1 [H1R:10] Tribute Mage
+1 [RAV:46] Drift of Phantasms
+1 [CON:31] Master Transmuter
+1 [BRO:322] Terisian Mindbreaker
+1 [XLN:57] Fleet Swallower
+1 [WAR:54*] Jace, Wielder of Mysteries
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [10E:335] Mind Stone
+1 [TMP:306] Sapphire Medallion
+1 [SUM:235] Basalt Monolith
+1 [EOC:135] Empowered Autogenerator
+1 [KTK:216] Altar of the Brood
+1 [NPH:144] Mindcrank
+1 [ROE:219] Keening Stone
+1 [DFT:57] Riverchurn Monument
+1 [FIN:333] The Water Crystal
+1 [LTR:001] The One Ring
+1 [ELD:343] Folio of Fancies
+1 [MRD:199] Lightning Greaves
+1 [RAV:267] Pariah's Shield
+1 [MBS:100] Bonehoard
+1 [SOM:145] Contagion Engine
+1 [M14:216] Ring of Three Wishes
+1 [PCY:45] Rhystic Study
+1 [ICE:87] Mystic Remora
+1 [M21:296] Teferi's Tutelage
+1 [ORI:76] Sphinx's Tutelage
+1 [M19:68] Psychic Corrosion
+1 [ALA:50] Memory Erosion
+1 [HOU:35] Fraying Sanity
+1 [ZEN:42] Archmage Ascension
+1 [7ED:67] Counterspell
+1 [LEG:65] Mana Drain
+1 [ALL:28] Force of Will
+1 [CMM:94] Fierce Guardianship
+1 [THS:65] Swan Song
+1 [FUT:42] Pact of Negation
+1 [ALL:22a] Arcane Denial
+1 [FDN:160] An Offer You Can't Refuse
+1 [PLC:44] Pongify
+1 [RTR:35] Cyclonic Rift
+1 [ZEN:41] Archive Trap
+1 [6ED:83] Mystical Tutor
+1 [8ED:91] Merchant Scroll
+1 [RAV:60] Muddle the Mixture
+1 [ZNR:330] Maddening Cacophony
+1 [M14:77] Traumatize
+1 [SNC:38] Cut Your Losses
+1 [CLB:722] Fractured Sanity
+1 [CMM:110] Personal Tutor
+1 [STX:54] Solve the Equation
+1 [M10:52] Fabricate
+1 [TSP:269] Academy Ruins
+1 [TMP:315] Ancient Tomb
+1 [SOK:164] Oboro, Palace in the Clouds
+1 [NEO:271] Otawara, Soaring City
+1 [ELD:247] Mystic Sanctuary
+1 [FUT:173] Tolaria West
+1 [ZEN:218] Magosi, the Waterveil
+1 [FDN:264] Rogue's Passage
+1 [FIN:284] Jidoor, Aristocratic Capital
+1 [M19:254] Reliquary Tower
+1 [HOU:180] Ipnu Rivulet
+1 [MID:262] Field of Ruin
+1 [ISD:240] Ghost Quarter
+1 [4ED:363] Strip Mine
+1 [TMP:330] Wasteland
+10 [TLA:283] Island
+1 [SIR:90] Startled Awake
+1 [P23:1] Painter's Servant
+1 [TPR:223] Grindstone
+1 [THB:308] Thassa's Oracle
+8 [KTK:254] Island
+1 [SLD:2457] Mesmeric Orb
+SB: 1 [RVR:35] Bruvac the Grandiloquent
+LAYOUT MAIN:(1,8)(CMC,false,50)|([FUT:42],[TSP:269],[TMP:315],[SOK:164],[NEO:271],[ELD:247],[FUT:173],[ZEN:218],[FDN:264],[FIN:284],[M19:254],[HOU:180],[MID:262],[ISD:240],[4ED:363],[TMP:330],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[TLA:283],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254])([ZEN:47],[ZNR:295],[SUM:274],[KTK:216],[ICE:87],[THS:65],[FDN:160],[PLC:44],[6ED:83],[CMM:110],[TPR:223])([ISD:67],[ELD:331],[10E:335],[TMP:306],[NPH:144],[DFT:57],[ELD:343],[MRD:199],[7ED:67],[LEG:65],[ALL:22a],[RTR:35],[8ED:91],[RAV:60],[ZNR:330],[P23:1],[THB:308],[SLD:2457])([ISD:61],[CMM:120],[SOM:48],[H1R:10],[RAV:46],[SUM:235],[PCY:45],[M21:296],[ORI:76],[M19:68],[ALA:50],[HOU:35],[ZEN:42],[CMM:94],[CLB:722],[STX:54],[M10:52])([CON:31],[WAR:54*],[EOC:135],[FIN:333],[LTR:001],[MBS:100],[SIR:90])([M13:218],[MRD:195],[RAV:267],[M14:216],[ALL:28],[ZEN:41],[M14:77])([ROE:219],[SOM:145],[SNC:38])([BRO:322],[XLN:57])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RVR:35])

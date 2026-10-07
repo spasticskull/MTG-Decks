@@ -1,0 +1,88 @@
+NAME:LaughyElves
+1 [RTR:141] Abrupt Decay
+1 [ZNR:336] Agadeem's Awakening
+1 [JMP:28] Allosaurus Shepherd
+1 [GTC:114] Alpha Authority
+1 [SCG:110] Alpha Status
+1 [M13:160] Arbor Elf
+1 [MKM:151] Archdruid's Charm
+1 [LTC:35] Arwen, Weaver of Hope
+1 [MKM:187] Assassin's Trophy
+1 [CLU:158] Beast Whisperer
+1 [NPH:103] Beast Within
+1 [LCI:91] Bitter Triumph
+1 [CSP:105] Boreal Druid
+1 [KHM:378] Canopy Tactician
+1 [AFR:176] Circle of Dreams Druid
+1 [ELD:333] Command Tower
+1 [AVR:172] Craterhoof Behemoth
+1 [KHM:254] Darkbore Pathway
+1 [CMM:147] Deadly Rollick
+1 [RTR:213] Deathrite Shaman
+1 [SUM:105] Demonic Tutor
+1 [NPH:57] Dismember
+1 [MH3:149] Eladamri, Korvecdal
+1 [KHM:391] Elven Ambush
+1 [RAV:161] Elves of Deep Shadow
+1 [M13:168] Elvish Archdruid
+1 [10E:261*] Elvish Champion
+1 [LRW:207] Elvish Harbinger
+1 [M15:173] Elvish Mystic
+1 [KHM:167] Elvish Warmaster
+1 [TMP:283] Emerald Medallion
+1 [SOM:119] Ezuri, Renegade Leader
+1 [SHM:113] Farhaven Elf
+1 [BRO:179] Fauna Shaman
+1 [WAR:160] Finale of Devastation
+12 [DSK:276] Forest
+1 [ICE:244] Fyndhorn Elves
+1 [SNC:148] Gala Greeters
+1 [SOM:122] Genesis Wave
+1 [LRW:268] Gilt-Leaf Palace
+1 [ONE:202] Glissa Sunslayer
+1 [MBS:81] Green Sun's Zenith
+1 [MOR:126] Heritage Druid
+1 [M21:188] Heroic Intervention
+1 [LRW:219] Immaculate Magistrate
+1 [LRW:222] Jagged-Scar Archers
+1 [WWK:106] Joraga Warcaller
+1 [MOM:270] Jungle Hollow
+1 [DMU:167] Leaf-Crowned Visionary
+1 [FDN:227] Llanowar Elves
+1 [BRO:264] Llanowar Wastes
+1 [DOM:172] Marwyn, the Nurturer
+1 [VIS:114] Natural Order
+1 [RAV:174] Nullmage Shepherd
+1 [OTC:199] Ohran Frostfang
+1 [CLU:278] Overgrown Tomb
+1 [BLC:322] Path of Ancestry
+1 [M19:220] Poison-Tip Archer
+1 [USG:270] Priest of Titania
+1 [WWK:110] Quest for Renewal
+1 [M12:190] Rampant Growth
+1 [M19:196] Reclamation Sage
+1 [EVE:74] Regal Force
+1 [10E:296] Seedborn Muse
+1 [KHM:110] Skemfar Shadowsage
+1 [SUM:274] Sol Ring
+1 [5DN:156] Staff of Domination
+5 [FDN:277] Swamp
+1 [TOR:143] Tainted Wood
+1 [OTC:209] Three Visits
+1 [AKH:237] Throne of the God-Pharaoh
+1 [LGN:140] Timberwatch Elf
+1 [MH3:277] Toxic Deluge
+1 [EVE:180] Twilight Mire
+1 [KHM:198] Tyvar Kell
+1 [CMM:435] Undergrowth Stadium
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [KHC:14] Wolverine Riders
+1 [9ED:283] Wood Elves
+1 [DOM:248] Woodland Cemetery
+1 [6ED:269] Worldly Tutor
+1 [M3C:409] Yavimaya, Cradle of Growth
+1 [ONE:195] Zopandrel, Hunger Dominus
+SB: 1 [KHC:1] Lathril, Blade of the Elves
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([TMP:283],[SUM:274],[5DN:156],[AKH:237])([JMP:28],[M13:160],[LTC:35],[CLU:158],[CSP:105],[KHM:378],[AFR:176],[AVR:172],[RTR:213],[MH3:149],[RAV:161],[M13:168],[10E:261*],[LRW:207],[M15:173],[KHM:167],[SOM:119],[SHM:113],[BRO:179],[ICE:244],[SNC:148],[ONE:202],[MOR:126],[LRW:219],[LRW:222],[WWK:106],[DMU:167],[FDN:227],[DOM:172],[RAV:174],[OTC:199],[M19:220],[USG:270],[M19:196],[EVE:74],[10E:296],[KHM:110],[LGN:140],[KHC:14],[9ED:283],[ONE:195])([GTC:114],[SCG:110],[WWK:110])([RTR:141],[MKM:151],[MKM:187],[NPH:103],[LCI:91],[CMM:147],[NPH:57],[KHM:391],[M21:188],[6ED:269])([ELD:333],[KHM:254],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[LRW:268],[MOM:270],[BRO:264],[CLU:278],[BLC:322],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[TOR:143],[EVE:180],[CMM:435],[ZEN:229],[KTK:248],[DOM:248],[M3C:409])([KHM:198])([ZNR:336],[SUM:105],[WAR:160],[SOM:122],[MBS:81],[VIS:114],[M12:190],[OTC:209],[MH3:277])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([KHC:1])

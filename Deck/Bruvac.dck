@@ -1,0 +1,88 @@
+NAME:Bruvac
+1 [TSP:269] Academy Ruins
+1 [KTK:216] Altar of the Brood
+1 [ELD:331] Arcane Signet
+1 [10E:66] Arcanis the Omnipotent
+1 [CHK:52] Azami, Lady of Scrolls
+1 [CHK:273] Boseiju, Who Shelters All
+1 [M12:224] Buried Ruin
+1 [M11:47] Call to Mind
+1 [ELD:333] Command Tower
+1 [7ED:67] Counterspell
+1 [ACR:15] Crystal Skull, Isu Spyglass
+1 [M15:242] Darksteel Citadel
+1 [BFZ:76] Dispel
+1 [10E:82] Dreamborn Muse
+1 [ELD:342] Emry, Lurker of the Loch
+1 [BLB:252] Fabled Passage
+1 [9ED:297] Fellwar Stone
+1 [CMM:489] Fierce Guardianship
+1 [XLN:57] Fleet Swallower
+1 [ELD:343] Folio of Fancies
+1 [ONS:84] Future Sight
+1 [ELD:344] Gadwick, the Wizened
+1 [TSP:274] Gemstone Caverns
+1 [M20:227] Grafdigger's Cage
+1 [M10:212] Howling Mine
+1 [KLD:247] Inventors' Fair
+16 [DSK:273] Island
+1 [WAR:54*] Jace, Wielder of Mysteries
+1 [THB:243] Labyrinth of Skophos
+1 [MRD:199] Lightning Greaves
+1 [SCG:38] Long-Term Plans
+1 [ZNR:330] Maddening Cacophony
+1 [LEG:65] Mana Drain
+1 [SOI:73] Manic Scribe
+1 [ALA:50] Memory Erosion
+1 [8ED:91] Merchant Scroll
+1 [MRD:204] Mesmeric Orb
+1 [ELD:346] Midnight Clock
+1 [SOK:162] Mikokoro, Center of the Sea
+1 [10E:335] Mind Stone
+1 [ELD:347] Mirrormade
+1 [DOM:224] Mox Amber
+1 [SOM:179] Mox Opal
+1 [RAV:60] Muddle the Mixture
+1 [ELD:247] Mystic Sanctuary
+1 [6ED:83] Mystical Tutor
+1 [MOM:68] Negate
+1 [BLC:281] Ornithopter of Paradise
+1 [ELD:60] Overwhelmed Apprentice
+1 [5DN:142] Paradise Mantle
+1 [DMU:252] Plaza of Heroes
+1 [SPG:38] Prismatic Vista
+1 [M19:68] Psychic Corrosion
+1 [ALA:218] Relic of Progenitus
+1 [M19:254] Reliquary Tower
+1 [PCY:45] Rhystic Study
+1 [ZNR:295] Ruin Crab
+1 [TMP:306] Sapphire Medallion
+1 [HOU:182] Scavenger Grounds
+1 [MRD:283] Seat of the Synod
+1 [XLN:245] Sentinel Totem
+1 [SOM:202] Silver Myr
+1 [7ED:316] Sky Diamond
+1 [SUM:274] Sol Ring
+1 [STX:54] Solve the Equation
+1 [WOE:251] Soul-Guide Lantern
+1 [M20:76] Spectral Sailor
+1 [CMM:120] Spellseeker
+1 [ORI:76] Sphinx's Tutelage
+1 [8ED:315] Star Compass
+1 [M12:219] Swiftfoot Boots
+1 [M20:77] Tale's End
+1 [M21:294] Teferi's Ageless Insight
+1 [BRO:322] Terisian Mindbreaker
+1 [DSC:256] Thought Vessel
+1 [M21:241] Tormod's Crypt
+1 [M14:77] Traumatize
+1 [H1R:10] Tribute Mage
+1 [SOM:48] Trinket Mage
+1 [M10:78] Twincast
+1 [ISD:84] Undead Alchemist
+1 [PIP:1068] War Room
+1 [5DN:165] Wayfarer's Bauble
+1 [AER:49] Whir of Invention
+SB: 1 [RVR:309] Bruvac the Grandiloquent
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([BLC:281],[SOM:202],[BRO:322])([M15:242],[MRD:283])([KTK:216],[ELD:331],[ACR:15],[9ED:297],[ELD:343],[M20:227],[M10:212],[MRD:199],[MRD:204],[ELD:346],[10E:335],[DOM:224],[SOM:179],[5DN:142],[ALA:218],[TMP:306],[XLN:245],[7ED:316],[SUM:274],[WOE:251],[8ED:315],[M12:219],[DSC:256],[M21:241],[5DN:165])([10E:66],[CHK:52],[10E:82],[ELD:342],[XLN:57],[ELD:344],[SOI:73],[ELD:60],[ZNR:295],[M20:76],[CMM:120],[H1R:10],[SOM:48],[ISD:84])([ONS:84],[ALA:50],[ELD:347],[M19:68],[PCY:45],[ORI:76],[M21:294])([7ED:67],[BFZ:76],[CMM:489],[SCG:38],[LEG:65],[RAV:60],[6ED:83],[MOM:68],[M20:77],[M10:78],[AER:49])([TSP:269],[CHK:273],[M12:224],[ELD:333],[BLB:252],[TSP:274],[KLD:247],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[THB:243],[SOK:162],[ELD:247],[DMU:252],[SPG:38],[M19:254],[HOU:182],[PIP:1068])([WAR:54*])([M11:47],[ZNR:330],[8ED:91],[STX:54],[M14:77])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RVR:309])

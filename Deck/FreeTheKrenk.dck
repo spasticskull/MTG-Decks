@@ -1,0 +1,79 @@
+NAME:Gob Boss
+1 [DRK:69] Goblin Wizard
+1 [DOM:144] Skirk Prospector
+1 [TSP:170] Mogg War Marshal
+1 [M20:143] Goblin Ringleader
+1 [THS:135] Purphoros, God of the Forge
+1 [10E:239] Squee, Goblin Nabob
+1 [STH:94] Mogg Maniac
+1 [CLU:135] Frenzied Goblin
+1 [M21:133] Brash Taunter
+1 [LGN:94] Gempalm Incinerator
+1 [6ED:186] Goblin Recruiter
+1 [JUD:77] Anger
+1 [M19:144] Goblin Trashmaster
+1 [DOM:130] Goblin Warchief
+1 [SPG:6] Breeches, Brazen Plunderer
+1 [GTC:97] Legion Loyalist
+1 [10E:207*] Goblin King
+1 [M21:139] Conspicuous Snoop
+1 [USG:190] Goblin Lackey
+1 [J22:575] Muxus, Goblin Grandee
+1 [TSP:163] Ib Halfheart, Goblin Tactician
+1 [CMM:265] Treasure Nabber
+1 [M19:145] Guttersnipe
+1 [M12:138] Goblin Chieftain
+1 [7ED:191] Goblin Matron
+1 [DMR:133] Pashalik Mons
+1 [SHM:83] Bloodmark Mentor
+1 [OTC:168] Grenzo, Havoc Raiser
+1 [DIS:162] Magewright's Stone
+1 [LRW:263] Thousand-Year Elixir
+1 [LCC:304] Herald's Horn
+1 [MRD:199] Lightning Greaves
+1 [TMP:305] Ruby Medallion
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [M12:219] Swiftfoot Boots
+1 [PIP:251] Thought Vessel
+1 [CLU:139] Krenko's Command
+1 [ORI:140] Dragon Fodder
+1 [KTK:111] Hordeling Outburst
+1 [DKA:87] Faithless Looting
+1 [RTR:111] Vandalblast
+1 [AVR:151] Reforge the Soul
+1 [ONS:213] Insurrection
+1 [SCG:96] Goblin War Strike
+1 [AKH:213] Insult // Injury
+1 [ONS:191] Brightstone Ritual
+1 [GTC:100] Massive Raid
+1 [AVR:128] Battle Hymn
+1 [M13:145] Reverberate
+1 [9ED:176] Blood Moon
+1 [RIX:92] Blood Sun
+1 [ONS:218] Mana Echoes
+1 [DTK:140] Impact Tremors
+1 [MRD:99] Mass Hysteria
+1 [WWK:86] Quest for the Goblin Lord
+1 [M13:129] Fervor
+1 [TMP:179] Goblin Bombardment
+1 [M19:254] Reliquary Tower
+1 [ONS:318] Goblin Burrows
+1 [LRW:274] Spinerock Knoll
+25 [BLB:274] Mountain
+1 [AFR:147] Hobgoblin Bandit Lord
+1 [UMA:236] Ancient Tomb
+1 [VMA:4] Black Lotus
+1 [C19:54] Empowered Autogenerator
+1 [M13:202] Clock of Omens
+1 [ALL:68] Burnout
+1 [VMA:271] Lion's Eye Diamond
+1 [DMR:451] Lotus Blossom
+1 [CMM:702] Jeweled Lotus
+1 [2X2:452] Dockside Extortionist
+1 [LTR:451] The One Ring
+1 [AER:169] Paradox Engine
+SB: 1 [M13:138] Krenko, Mob Boss
+SB: 1 [CM2:4] Daretti, Scrap Savant
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([DIS:162],[LRW:263],[LCC:304],[MRD:199],[TMP:305],[DST:140],[SUM:274],[M12:219],[PIP:251],[VMA:4],[AER:169],[C19:54],[M13:202],[VMA:271],[DMR:451],[CMM:702],[LTR:451])([DRK:69],[DOM:144],[TSP:170],[M20:143],[10E:239],[STH:94],[CLU:135],[M21:133],[LGN:94],[6ED:186],[JUD:77],[M19:144],[DOM:130],[SPG:6],[GTC:97],[M21:139],[USG:190],[J22:575],[TSP:163],[CMM:265],[M19:145],[M12:138],[7ED:191],[DMR:133],[SHM:83],[OTC:168],[AFR:147],[10E:207*],[2X2:452])([THS:135])([9ED:176],[RIX:92],[ONS:218],[DTK:140],[MRD:99],[WWK:86],[M13:129],[TMP:179])([ONS:191],[GTC:100],[AVR:128],[M13:145],[ALL:68])([M19:254],[ONS:318],[LRW:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[UMA:236])([AKH:213])([CLU:139],[ORI:140],[KTK:111],[DKA:87],[RTR:111],[AVR:151],[ONS:213],[SCG:96])
+LAYOUT SIDEBOARD:(1,2)(NONE,false,50)|([M13:138])([CM2:4])

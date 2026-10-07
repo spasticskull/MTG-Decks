@@ -1,0 +1,96 @@
+NAME:God Mogis
+1 [TMP:315] Ancient Tomb
+1 [XLN:132] Angrath's Marauders
+1 [WAR:185] Angrath's Rampage
+1 [RIX:152] Angrath, the Flame-Chained
+1 [FRF:62] Archfiend of Depravity
+1 [CMM:137] Archfiend of Despair
+1 [ZEN:211] Arid Mesa
+1 [SUM:282] Badlands
+1 [ISD:129] Balefire Dragon
+1 [ROE:96] Baneful Omen
+1 [RNA:157] Bedevil
+1 [MMQ:116] Black Market
+1 [ISD:130] Blasphemous Act
+1 [CLU:274] Blood Crypt
+1 [ZEN:82] Bloodchief Ascension
+1 [KTK:230] Bloodstained Mire
+1 [WWK:132] Bojuka Bog
+1 [ODY:180] Burning Sands
+1 [TOR:139] Cabal Coffers
+1 [AKH:239] Canyon Slough
+1 [RNA:160] Captive Audience
+1 [KLD:110] Chandra, Torch of Defiance
+1 [TDC:208] Chaos Warp
+1 [GRN:233] Chromatic Lantern
+1 [ELD:333] Command Tower
+1 [GTC:61] Crypt Ghast
+1 [PLC:85] Damnation
+1 [SCD:75] Deadly Tempest
+1 [SUM:105] Demonic Tutor
+1 [JOU:93] Dictate of the Twin Gods
+1 [XLN:252] Dragonskull Summit
+1 [RNA:99] Electrodominance
+1 [AVR:102] Exquisite Blood
+1 [FDN:173] Exsanguinate
+1 [SOI:272] Foreboding Ruins
+1 [M19:97] Fraying Omnipotence
+1 [10E:204] Furnace of Rath
+1 [FDN:715] Gratuitous Violence
+1 [SHM:272] Graven Cairns
+1 [THB:355] Gray Merchant of Asphodel
+1 [7ED:140] Greed
+1 [AKH:135] Harsh Mentor
+1 [RTR:166] Havoc Festival
+1 [TSP:242] Kaervek the Merciless
+1 [CMM:172] Loyal Subordinate
+1 [CLB:355] Luxury Suite
+1 [M12:150] Manabarbs
+1 [PZ2:20] Marchesa's Decree
+1 [ZEN:219] Marsh Flats
+1 [WAR:204] Mayhem Devil
+1 [NPH:144] Mindcrank
+2 [TDM:283] Mountain
+1 [ULG:56] No Mercy
+1 [FDN:179] Painful Quandary
+1 [FRF:79] Palace Siege
+1 [6ED:149] Pestilence
+1 [FDN:180] Phyrexian Arena
+1 [SHM:74] Polluted Bonds
+1 [KTK:239] Polluted Delta
+1 [C13:89] Price of Knowledge
+1 [RTR:184] Rakdos Charm
+1 [CLU:226] Rakdos Signet
+1 [M19:254] Reliquary Tower
+1 [FDN:264] Rogue's Passage
+1 [ZEN:223] Scalding Tarn
+1 [DGM:104] Sire of Insanity
+1 [BFZ:247] Smoldering Marsh
+1 [SUM:274] Sol Ring
+1 [CMM:187] Sower of Discord
+1 [EXO:104] Spellshock
+1 [PIP:192] Stolen Strategy
+1 [P22:4] Stranglehold
+1 [4ED:363] Strip Mine
+1 [SCG:106] Sulfuric Vortex
+1 [DMU:256] Sulfurous Springs
+7 [TDM:281] Swamp
+1 [7ED:167] Tainted Aether
+1 [TOR:142] Tainted Peak
+1 [ORI:120] Tainted Remedy
+1 [MRD:255] Talisman of Indulgence
+1 [FDN:701] Temple of Malice
+1 [LEG:307] The Tabernacle at Pendrell Vale
+1 [UDS:139] Thran Dynamo
+1 [HOU:77] Torment of Hailfire
+1 [THB:121] Underworld Dreams
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [6ED:161] Vampiric Tutor
+1 [RTR:111] Vandalblast
+1 [ZEN:229] Verdant Catacombs
+1 [DSC:239] Vial Smasher the Fierce
+1 [KTK:249] Wooded Foothills
+1 [SHM:81] Wound Reflection
+SB: 1 [BNG:151] Mogis, God of Slaughter
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([GRN:233],[NPH:144],[CLU:226],[SUM:274],[MRD:255],[UDS:139])([XLN:132],[FRF:62],[CMM:137],[ISD:129],[GTC:61],[THB:355],[AKH:135],[TSP:242],[CMM:172],[WAR:204],[DGM:104],[CMM:187],[DSC:239])([ROE:96],[MMQ:116],[ZEN:82],[ODY:180],[RNA:160],[JOU:93],[AVR:102],[10E:204],[FDN:715],[7ED:140],[RTR:166],[M12:150],[PZ2:20],[ULG:56],[FDN:179],[FRF:79],[6ED:149],[FDN:180],[SHM:74],[C13:89],[EXO:104],[PIP:192],[P22:4],[SCG:106],[7ED:167],[ORI:120],[THB:121],[SHM:81])([RNA:157],[TDC:208],[RNA:99],[RTR:184],[6ED:161])([TMP:315],[ZEN:211],[SUM:282],[CLU:274],[KTK:230],[WWK:132],[TOR:139],[AKH:239],[ELD:333],[XLN:252],[SOI:272],[SHM:272],[CLB:355],[ZEN:219],[TDM:283],[TDM:283],[KTK:239],[M19:254],[FDN:264],[ZEN:223],[BFZ:247],[4ED:363],[DMU:256],[TDM:281],[TDM:281],[TDM:281],[TDM:281],[TDM:281],[TDM:281],[TDM:281],[TOR:142],[FDN:701],[LEG:307],[M15:248],[ZEN:229],[KTK:249])([RIX:152],[KLD:110])([WAR:185],[ISD:130],[PLC:85],[SCD:75],[SUM:105],[FDN:173],[M19:97],[HOU:77],[RTR:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BNG:151])

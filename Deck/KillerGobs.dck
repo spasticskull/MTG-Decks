@@ -1,0 +1,43 @@
+NAME:KillerGobs
+1 [J22:564] Krenko, Mob Boss
+1 [PWAR:137s] Krenko, Tin Street Kingpin
+1 [MKM:135] Krenko, Baron of Tin Street
+1 [CLU:139] Krenko's Command
+1 [CN2:74] Daretti, Ingenious Iconoclast
+1 [CMM:213] Daretti, Scrap Savant
+1 [MRD:274] Welding Jar
+1 [HOP:141] Vault of Whispers
+1 [M10:220] Spellbook
+1 [MH2:472] Sol Talisman
+1 [MH1:226] Mox Tantalite
+1 [TSP:259] Lotus Bloom
+1 [CM2:255] Great Furnace
+1 [DRK:100] Dark Sphere
+1 [EMA:219] Chrome Mox
+1 [HOP:140] Tree of Tales
+1 [AFR:261] Treasure Vault
+1 [AFR:396] Vorpal Sword
+1 [J21:759] Universal Automaton
+1 [HOU:167] Traveler's Amulet
+1 [LTR:251] Stone of Erech
+1 [WOC:149] Sol Ring
+1 [VMA:281] Skullclamp
+1 [SOI:263] Skeleton Key
+1 [CHK:268] Sensei's Divining Top
+1 [THB:345] Shadowspear
+1 [SOK:158] Pithing Needle
+1 [30A:257] Meekstone
+1 [UMA:229] Mana Vault
+1 [SNC:439] Luxior, Giada's Gift
+1 [ONE:127] Churning Reservoir
+1 [BLC:289] Thought Vessel
+1 [BLC:288] Talisman of Resilience
+1 [AFC:219] Talisman of Indulgence
+1 [BLC:287] Talisman of Impulse
+1 [FUT:165] Sword of the Meek
+1 [AFC:218] Sword of the Animist
+1 [CMR:702] Swiftfoot Boots
+1 [C13:261] Sun Droplet
+SB: 1 [2X2:275] Shattergang Brothers
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([J21:759])([HOP:141],[CM2:255],[HOP:140],[AFR:261])([MRD:274],[M10:220],[MH2:472],[MH1:226],[TSP:259],[DRK:100],[EMA:219],[AFR:396],[HOU:167],[LTR:251],[WOC:149],[VMA:281],[SOI:263],[CHK:268],[THB:345],[SOK:158],[30A:257],[UMA:229],[SNC:439],[ONE:127],[BLC:289],[BLC:288],[AFC:219],[BLC:287],[FUT:165],[AFC:218],[CMR:702],[C13:261])([J22:564],[PWAR:137s],[MKM:135])([CN2:74],[CMM:213])([CLU:139])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([2X2:275])

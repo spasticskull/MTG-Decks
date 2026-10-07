@@ -1,0 +1,94 @@
+1 [J25:33] Thurid, Mare of Destiny
+1 [THB:298] Archon of Sun's Grace
+1 [HOU:6] Crested Sunmare
+1 [J22:180] Emiel the Blessed
+1 [MUL:115] Lathiel, the Bounteous Dawn
+1 [H1R:6] Sisay, Weatherlight Captain
+1 [INV:237] Captain Sisay
+1 [DMU:203] Jodah, the Unifier
+1 [KHM:168] Esika, God of the Tree
+1 [M12:165] Birds of Paradise
+1 [H2R:2] Esper Sentinel
+1 [EVE:66] Bloom Tender
+1 [ELD:190] Faeburrow Elder
+1 [LTR:158] Delighted Halfling
+1 [KHM:188] Realmwalker
+1 [LRW:31] Mirror Entity
+1 [M3C:157] Morophon, the Boundless
+1 [LCI:258] Roaming Throne
+1 [FDN:633] Taurean Mauler
+1 [SUM:274] Sol Ring
+1 [5ED:388] Mana Vault
+1 [ELD:331] Arcane Signet
+1 [9ED:297] Fellwar Stone
+1 [DOM:224] Mox Amber
+1 [MRD:152] Chrome Mox
+1 [DMU:236] Relic of Legends
+1 [RNA:22] Smothering Tithe
+1 [PCY:45] Rhystic Study
+1 [ICE:87] Mystic Remora
+1 [5ED:329] Sylvan Library
+1 [KHM:240] Maskwood Nexus
+1 [XLN:46] Arcane Adaptation
+1 [TSB:39] Conspiracy
+1 [LCC:159] Kindred Discovery
+1 [FIC:228] Herald's Horn
+1 [UDS:142] Urza's Incubator
+1 [LTR:15] Flowering of the White Tree
+1 [JUD:139] Mirari's Wake
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [6ED:269] Worldly Tutor
+1 [6ED:19] Enlightened Tutor
+1 [PLS:106] Eladamri's Call
+1 [5ED:316] Nature's Lore
+1 [FIC:315] Three Visits
+1 [M13:170] Farseek
+1 [ICE:54] Swords to Plowshares
+1 [CON:15] Path to Exile
+1 [MKM:187] Assassin's Trophy
+1 [SOI:242] Anguished Unmaking
+1 [RTR:35] Cyclonic Rift
+1 [MH3:277] Toxic Deluge
+1 [STA:11] Teferi's Protection
+1 [CMM:94] Fierce Guardianship
+1 [CMM:214] Deflecting Swat
+1 [CMM:24] Flawless Maneuver
+1 [WAR:160] Finale of Devastation
+1 [GPT:19] Storm Herd
+1 [ELD:333] Command Tower
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [LCI:410a] Cavern of Souls
+1 [FIC:411] Path of Ancestry
+1 [DMU:252] Plaza of Heroes
+1 [SHM:278*] Reflecting Pool
+1 [KHM:275] The World Tree
+1 [TMP:315] Ancient Tomb
+1 [KTK:233] Flooded Strand
+1 [KTK:239] Polluted Delta
+1 [KTK:230] Bloodstained Mire
+1 [KTK:249] Wooded Foothills
+1 [KTK:248] Windswept Heath
+1 [ZEN:220] Misty Rainforest
+1 [ZEN:223] Scalding Tarn
+1 [ZEN:219] Marsh Flats
+1 [ZEN:229] Verdant Catacombs
+1 [ZEN:211] Arid Mesa
+1 [SPG:38] Prismatic Vista
+1 [SUM:289] Tundra
+1 [SUM:290] Underground Sea
+1 [SUM:282] Badlands
+1 [SUM:287] Taiga
+1 [SUM:285] Savannah
+1 [SUM:286] Scrubland
+1 [SUM:288] Tropical Island
+1 [SUM:291] Volcanic Island
+1 [SUM:283] Bayou
+1 [SUM:284] Plateau
+1 [ECL:268] Temple Garden
+1 [ECL:265] Hallowed Fountain
+1 [EOE:254] Godless Shrine
+1 [EOE:251] Breeding Pool
+LAYOUT MAIN:(1,8)(CMC,false,50)|([DOM:224],[MRD:152],[ELD:333],[8ED:322],[JOU:163],[LCI:410a],[FIC:411],[DMU:252],[SHM:278*],[KHM:275],[TMP:315],[KTK:233],[KTK:239],[KTK:230],[KTK:249],[KTK:248],[ZEN:220],[ZEN:223],[ZEN:219],[ZEN:229],[ZEN:211],[SPG:38],[SUM:289],[SUM:290],[SUM:282],[SUM:287],[SUM:285],[SUM:286],[SUM:288],[SUM:291],[SUM:283],[SUM:284],[ECL:268],[ECL:265],[EOE:254],[EOE:251])([M12:165],[H2R:2],[LTR:158],[SUM:274],[5ED:388],[ICE:87],[6ED:161],[6ED:269],[6ED:19],[ICE:54],[CON:15])([EVE:66],[ELD:331],[9ED:297],[5ED:329],[LTR:15],[SUM:105],[PLS:106],[5ED:316],[FIC:315],[M13:170],[MKM:187],[RTR:35],[WAR:160])([H1R:6],[KHM:168],[ELD:190],[KHM:188],[LRW:31],[FDN:633],[DMU:236],[PCY:45],[XLN:46],[FIC:228],[UDS:142],[SOI:242],[MH3:277],[STA:11],[CMM:94],[CMM:214],[CMM:24])([J25:33],[THB:298],[J22:180],[MUL:115],[INV:237],[LCI:258],[RNA:22],[KHM:240])([HOU:6],[DMU:203],[TSB:39],[LCC:159],[JUD:139])([M3C:157])([GPT:19])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

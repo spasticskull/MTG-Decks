@@ -1,0 +1,100 @@
+NAME:TriUrza
+1 [J22:830] Urza's Power Plant
+1 [J22:831] Urza's Tower
+1 [DMR:71] Urza, Lord High Artificer
+1 [BRO:70] Urza's Command
+1 [BRO:226] Urza, Prince of Kroog
+1 [MB2:169] Pact of Negation
+1 [FUT:8] Intervention Pact
+1 [FUT:78] Slaughter Pact
+1 [VIS:23] Tithe
+1 [VIS:72] Vampiric Tutor
+1 [BBD:110] Swords to Plowshares
+1 [J21:783] Dark Ritual
+1 [J20:2] Enlightened Tutor
+1 [J22:481] Ulcerate
+1 [GN3:15] Path to Exile
+1 [THS:65] Swan Song
+1 [VMA:68] Flusterstorm
+1 [VMA:136] Reanimate
+1 [GN3:25] Counterspell
+1 [WOC:84] Arcane Denial
+1 [CN2:117] Negate
+1 [CMR:80] Mana Drain
+1 [CMD:63] Spell Crumple
+1 [BRO:54] Keeper of the Cadence
+1 [A25:224] Ensnaring Bridge
+1 [SLD:447] Planar Bridge
+1 [C13:240] Crawlspace
+1 [MH2:12] Esper Sentinel
+1 [BIG:2] Grand Abolisher
+1 [SOM:179] Mox Opal
+1 [PIP:314] Treasure Vault
+1 [PIP:281] Razortide Bridge
+1 [40K:305] Vault of Whispers
+1 [HOP:136] Seat of the Synod
+1 [HOP:130] Ancient Den
+1 [DST:164] Darksteel Citadel
+1 [TSP:259] Lotus Bloom
+1 [MH2:236] Sol Talisman
+1 [10E:343] Spellbook
+1 [THB:236] Shadowspear
+1 [WOC:149] Sol Ring
+1 [CHK:268] Sensei's Divining Top
+1 [AFC:199] Basilisk Collar
+1 [30A:256] Mana Vault
+1 [LCC:107] Chromatic Orrery
+1 [C16:247] Chromatic Lantern
+1 [BLC:264] Academy Manufactor
+1 [J22:800] Tamiyo's Journal
+1 [BIG:28] Transmutation Font
+1 [BLC:276] Helm of the Host
+1 [BIG:70] Esoteric Duplicator
+1 [C13:234] Thopter Foundry
+1 [PM19:69p] Sai, Master Thopterist
+1 [BRC:97] Thopter Spy Network
+1 [AER:33] Efficient Construction
+1 [CLU:36] Lavinia, Foil to Conspiracy
+1 [MKM:57] Forensic Gadgeteer
+1 [BRO:47] Drafna, Founder of Lat-Nam
+1 [SLD:1511] Anointed Procession
+1 [30A:277] Scrubland
+1 [WHO:285] Glacial Fortress
+1 [DIS:174] Hallowed Fountain
+1 [BFZ:241] Prairie Stream
+1 [OLGC:2015] Tundra
+1 [SCD:322] Sunken Hollow
+1 [OLGC:2016EU] Underground Sea
+1 [RVR:291] Watery Grave
+1 [GTC:242] Godless Shrine
+2 [J22:105] Swamp
+2 [RAV:293] Island
+2 [RAV:289] Plains
+1 [H09:35] Vivid Creek
+1 [WOC:156] Command Tower
+1 [WOC:159] Exotic Orchard
+1 [CHR:112] City of Brass
+1 [AER:184] Spire of Industry
+1 [SLD:1012a] Mana Confluence
+1 [BIG:71] Simulacrum Synthesizer
+1 [FUT:165] Sword of the Meek
+1 [DOM:233] Thran Temporal Gateway
+1 [PKLD:59s] Padeem, Consul of Innovation
+1 [2XM:248] Darksteel Forge
+1 [SLD:1671] Time Sieve
+1 [WOC:145] Arcane Signet
+1 [2X2:304] Darksteel Plate
+1 [MOC:224] Imprisoned in the Moon
+1 [PWAR:79p] Bolas's Citadel
+1 [WC00:jf135] Metalworker
+1 [SOM:195] Prototype Portal
+1 [M13:202] Clock of Omens
+1 [UMA:236] Ancient Tomb
+1 [HOP:28] Grave Pact
+1 [EMA:218] Ashnod's Altar
+1 [C21:261] Sculpting Steel
+1 [2XM:319] Glimmervoid
+1 [SNC:252] Obscura Storefront
+SB: 1 [BRC:49] Urza, Chief Artificer
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MH2:12],[BLC:264],[WC00:jf135])([PIP:314],[PIP:281],[40K:305],[HOP:136],[HOP:130],[DST:164])([A25:224],[SLD:447],[C13:240],[SOM:179],[TSP:259],[MH2:236],[10E:343],[THB:236],[WOC:149],[CHK:268],[AFC:199],[30A:256],[LCC:107],[C16:247],[J22:800],[BIG:28],[BLC:276],[BIG:70],[C13:234],[BIG:71],[FUT:165],[DOM:233],[2XM:248],[SLD:1671],[WOC:145],[2X2:304],[PWAR:79p],[SOM:195],[M13:202],[EMA:218],[C21:261])([DMR:71],[BRO:226],[BRO:54],[BIG:2],[PM19:69p],[CLU:36],[MKM:57],[BRO:47],[PKLD:59s])([BRC:97],[AER:33],[SLD:1511],[MOC:224],[HOP:28])([BRO:70],[MB2:169],[FUT:8],[FUT:78],[VIS:23],[VIS:72],[BBD:110],[J21:783],[J20:2],[J22:481],[GN3:15],[THS:65],[VMA:68],[GN3:25],[WOC:84],[CN2:117],[CMR:80],[CMD:63])([J22:830],[J22:831],[30A:277],[WHO:285],[DIS:174],[BFZ:241],[OLGC:2015],[SCD:322],[OLGC:2016EU],[RVR:291],[GTC:242],[J22:105],[J22:105],[RAV:293],[RAV:293],[RAV:289],[RAV:289],[H09:35],[WOC:156],[WOC:159],[CHR:112],[AER:184],[SLD:1012a],[UMA:236],[2XM:319],[SNC:252])([VMA:136])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BRC:49])

@@ -1,0 +1,101 @@
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [9ED:297] Fellwar Stone
+1 [MRD:256] Talisman of Progress
+1 [TDC:330] Talisman of Creativity
+1 [FIC:363] Talisman of Conviction
+1 [CLU:219] Azorius Signet
+1 [CLU:224] Izzet Signet
+1 [CLU:220] Boros Signet
+1 [BRC:145] Liquimetal Torque
+1 [FIC:368] Thought Vessel
+1 [MRD:199] Lightning Greaves
+1 [H1R:32] Sword of Truth and Justice
+1 [ONE:242] Staff of Compleation
+1 [DRC:18] Aetheric Amplifier
+1 [KLD:193] Aetherworks Marvel
+1 [AER:152] Gonti's Aether Heart
+1 [M3C:54] Aether Refinery
+1 [DRC:17] Aetherflux Conduit
+1 [M3C:77] Stone Idol Generator
+1 [LCI:257] The Millennium Calendar
+1 [KLD:205] Decoction Module
+1 [KLD:204] Deadlock Trap
+1 [M20:233] Mystic Forge
+1 [LTR:001] The One Ring
+1 [KLD:226] Panharmonicon
+1 [MH3:191] Izzet Generatorium
+1 [PIP:10] Automated Assembly Line
+1 [BIG:36] Simulacrum Synthesizer
+1 [H2R:2] Esper Sentinel
+1 [MH3:29] Guide of Souls
+1 [KLD:190] Whirler Virtuoso
+1 [M19:69] Sai, Master Thopterist
+1 [ELD:342] Emry, Lurker of the Loch
+1 [EOC:3] Kilo, Apogee Mind
+1 [PIP:117] Rex, Cyber-Hound
+1 [ONC:46] Norn's Choirmaster
+1 [EOC:19] Surge Conductor
+1 [EOC:79] Thought Monitor
+1 [FCA:5] Urza, Lord High Artificer
+1 [ONE:302] Tekuthal, Inquiry Dominus
+1 [M3C:75] Sphinx of the Revelation
+1 [PIP:389] The Motherlode, Excavator
+1 [M3C:55] Blaster Hulk
+2 [PIP:416] Liberty Prime, Recharged
+1 [PCY:45] Rhystic Study
+1 [RNA:22] Smothering Tithe
+1 [SOM:35] Inexorable Tide
+1 [ONE:118] All Will Be One
+1 [ICE:54] Swords to Plowshares
+1 [BLC:106] Generous Gift
+1 [EOC:49] Chaos Warp
+1 [RTR:35] Cyclonic Rift
+1 [RTR:111] Vandalblast
+1 [STA:11] Teferi's Protection
+1 [CMM:94] Fierce Guardianship
+1 [AER:49] Whir of Invention
+1 [M10:52] Fabricate
+1 [6ED:19] Enlightened Tutor
+1 [NPH:47] Tezzeret's Gambit
+1 [PIP:329] Radstorm
+1 [EOC:66] Organic Extinction
+1 [MH3:267] Sevinne's Reclamation
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [AER:184] Spire of Industry
+1 [8ED:322] City of Brass
+1 [IKO:251] Raugrin Triome
+1 [ECL:265] Hallowed Fountain
+1 [ECL:267] Steam Vents
+1 [EOE:256] Sacred Foundry
+1 [CMM:434] Training Center
+1 [CLB:360] Sea of Clouds
+1 [CMM:427] Spectator Seating
+1 [VOW:265] Stormcarved Coast
+1 [VOW:266] Sundown Pass
+1 [MID:260] Deserted Beach
+1 [OTJ:270] Spirebluff Canal
+1 [OTJ:269] Inspiring Vantage
+1 [ONE:258] Seachrome Coast
+1 [DMU:243] Adarkar Wastes
+1 [DMU:255] Shivan Reef
+1 [BRO:257] Battlefield Forge
+1 [KTK:233] Flooded Strand
+1 [ZEN:223] Scalding Tarn
+1 [ZEN:211] Arid Mesa
+1 [SPG:38] Prismatic Vista
+1 [NEO:271] Otawara, Soaring City
+1 [MB2:114] Urza's Saga
+1 [KLD:247] Inventors' Fair
+1 [TSP:269] Academy Ruins
+1 [M12:224] Buried Ruin
+1 [AFR:261] Treasure Vault
+1 [M15:242] Darksteel Citadel
+1 [MRD:278] Ancient Den
+1 [MRD:283] Seat of the Synod
+1 [MRD:282] Great Furnace
+1 [PIP:149] HELIOS One
+SB: 1 [PIP:1066] Dr. Madison Li
+LAYOUT MAIN:(1,10)(CMC,false,50)|([ELD:333],[CON:142],[AER:184],[8ED:322],[IKO:251],[ECL:265],[ECL:267],[EOE:256],[CMM:434],[CLB:360],[CMM:427],[VOW:265],[VOW:266],[MID:260],[OTJ:270],[OTJ:269],[ONE:258],[DMU:243],[DMU:255],[BRO:257],[KTK:233],[ZEN:223],[ZEN:211],[SPG:38],[NEO:271],[MB2:114],[KLD:247],[TSP:269],[M12:224],[AFR:261],[M15:242],[MRD:278],[MRD:283],[MRD:282],[PIP:149])([SUM:274],[LCI:257],[H2R:2],[MH3:29],[ICE:54],[RTR:111],[6ED:19])([ELD:331],[9ED:297],[MRD:256],[TDC:330],[FIC:363],[CLU:219],[CLU:224],[CLU:220],[BRC:145],[FIC:368],[MRD:199],[KLD:205],[MH3:191],[PIP:10],[RTR:35])([H1R:32],[ONE:242],[DRC:18],[KLD:204],[BIG:36],[KLD:190],[M19:69],[ELD:342],[EOC:3],[PIP:117],[EOC:19],[PCY:45],[BLC:106],[EOC:49],[STA:11],[CMM:94],[AER:49],[M10:52],[MH3:267])([KLD:193],[M20:233],[LTR:001],[KLD:226],[FCA:5],[ONE:302],[RNA:22],[NPH:47],[PIP:329])([M3C:77],[ONC:46],[M3C:75],[PIP:389],[PIP:416],[SOM:35],[ONE:118],[PIP:416])([AER:152],[M3C:54],[DRC:17])([EOC:79])([M3C:55])([EOC:66])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PIP:1066])

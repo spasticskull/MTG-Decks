@@ -1,0 +1,86 @@
+1 [JMP:28] Allosaurus Shepherd
+1 [M13:160] Arbor Elf
+1 [USG:233] Argothian Elder
+1 [WWK:96] Avenger of Zendikar
+1 [AFR:176] Circle of Dreams Druid
+1 [TDM:138] Craterhoof Behemoth
+1 [M15:173] Elvish Mystic
+1 [5DN:86] Eternal Witness
+1 [ICE:244] Fyndhorn Elves
+1 [RNA:131] Incubation Druid
+1 [ROE:190] Joraga Treespeaker
+1 [MOM:196] Kami of Whispered Hopes
+1 [TOR:130] Krosan Restorer
+1 [PBBD:21s] Ley Weaver
+1 [FDN:227] Llanowar Elves
+1 [TSP:203] Magus of the Candelabra
+1 [THB:190] Nyxbloom Ancient
+1 [USG:270] Priest of Titania
+1 [VIS:117] Quirion Ranger
+1 [HOU:129] Ramunap Excavator
+1 [AER:122] Rishkar, Peema Renegade
+1 [ZNR:203] Scute Swarm
+1 [TSP:215] Scryb Ranger
+1 [10E:296] Seedborn Muse
+1 [JUD:133] Sylvan Safekeeper
+1 [J25:728] Tireless Provisioner
+1 [KHM:199] Vorinclex, Monstrous Raider
+1 [SCG:133] Wirewood Symbiote
+1 [SUM:274] Sol Ring
+1 [DST:140] Skullclamp
+1 [MRD:199] Lightning Greaves
+1 [CMR:315] Horizon Stone
+1 [ELD:161] The Great Henge
+1 [NPH:132] Caged Sun
+1 [TSP:255] Gauntlet of Power
+1 [MRD:169] Extraplanar Lens
+1 [5DN:156] Staff of Domination
+1 [AER:181] Walking Ballista
+1 [LEG:179] Concordant Crossroads
+1 [FDN:216] Doubling Season
+1 [TMP:222] Earthcraft
+1 [USG:250] Exploration
+1 [9ED:245] Greater Good
+1 [EVE:68] Helix Pinnacle
+1 [SHM:122] Mana Reflection
+1 [ISD:199] Parallel Lives
+1 [5ED:329] Sylvan Library
+1 [BRO:170] Awaken the Woods
+1 [NPH:103] Beast Within
+1 [M15:172] Chord of Calling
+1 [ULG:98] Crop Rotation
+1 [WAR:160] Finale of Devastation
+1 [FDN:221] Genesis Wave
+1 [MBS:81] Green Sun's Zenith
+1 [M21:188] Heroic Intervention
+1 [VIS:114] Natural Order
+1 [ELD:172] Return of the Wildspeaker
+1 [AER:123] Rishkar's Expertise
+1 [FUT:139] Summoner's Pact
+1 [MRD:134] Tooth and Nail
+1 [M20:198] Veil of Summer
+1 [6ED:269] Worldly Tutor
+1 [OGW:138] Nissa, Voice of Zendikar
+1 [WAR:169*] Nissa, Who Shakes the World
+1 [M20:199] Vivien, Arkbow Ranger
+1 [TMP:315] Ancient Tomb
+1 [ZNR:180] Bala Ged Recovery
+1 [NEO:266] Boseiju, Who Endures
+1 [ELD:240] Castle Garenbrig
+1 [ODY:320] Deserted Temple
+1 [USG:321] Gaea's Cradle
+1 [LRW:270] Mosswort Bridge
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [ZEN:221] Oran-Rief, the Vastwood
+1 [FDN:264] Rogue's Passage
+1 [4ED:363] Strip Mine
+1 [ZNR:215] Turntimber Symbiosis
+1 [PIP:1068] War Room
+1 [ONS:329] Wirewood Lodge
+1 [M3C:409] Yavimaya, Cradle of Growth
+17 [KHM:284] Snow-Covered Forest
+1 [M3C:229] Garruk's Uprising
+1 [CLU:160] Colossal Majesty
+SB: 1 [ZNR:179] Ashaya, Soul of the Wild
+LAYOUT MAIN:(1,10)(CMC,false,50)|([AER:181],[FUT:139],[TMP:315],[NEO:266],[ELD:240],[ODY:320],[USG:321],[LRW:270],[THS:223],[ZEN:221],[FDN:264],[4ED:363],[PIP:1068],[ONS:329],[M3C:409],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284],[KHM:284])([JMP:28],[M13:160],[M15:173],[ICE:244],[ROE:190],[FDN:227],[TSP:203],[VIS:117],[JUD:133],[SCG:133],[SUM:274],[DST:140],[LEG:179],[USG:250],[EVE:68],[ULG:98],[MBS:81],[M20:198],[6ED:269])([RNA:131],[USG:270],[TSP:215],[MRD:199],[TMP:222],[5ED:329],[BRO:170],[WAR:160],[M21:188])([AFR:176],[5DN:86],[MOM:196],[TOR:130],[HOU:129],[AER:122],[ZNR:203],[J25:728],[MRD:169],[5DN:156],[NPH:103],[M15:172],[FDN:221],[OGW:138],[ZNR:180],[M3C:229],[CLU:160])([USG:233],[PBBD:21s],[9ED:245],[ISD:199],[VIS:114],[M20:199])([10E:296],[CMR:315],[TSP:255],[FDN:216],[ELD:172],[WAR:169*])([KHM:199],[NPH:132],[SHM:122],[AER:123])([WWK:96],[THB:190],[MRD:134],[ZNR:215])([TDM:138])([ELD:161])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ZNR:179])

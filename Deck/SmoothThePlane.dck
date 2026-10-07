@@ -1,0 +1,103 @@
+NAME:SmoothThePlane
+1 [LEG:44] Acid Rain
+1 [DMU:243] Adarkar Wastes
+1 [ALA:154] Ajani Vengeant
+1 [TMP:315] Ancient Tomb
+1 [ALL:22a] Arcane Denial
+1 [ELD:331] Arcane Signet
+1 [ZEN:211] Arid Mesa
+1 [6ED:4] Armageddon
+1 [AVR:6] Avacyn, Angel of Hope
+1 [CLU:219] Azorius Signet
+1 [BRO:257] Battlefield Forge
+1 [PLC:112] Boom // Bust
+1 [GTC:148] Boros Charm
+1 [CLU:220] Boros Signet
+1 [AKH:240] Cascading Cataracts
+1 [USG:6] Catastrophe
+1 [DOM:239] Clifftop Retreat
+1 [INV:49] Collective Restraint
+1 [7ED:67] Counterspell
+1 [M19:229] Crucible of Worlds
+1 [M15:242] Darksteel Citadel
+1 [M14:207] Darksteel Ingot
+1 [BLB:9] Dawn's Truce
+1 [ME4:112] Devastation
+1 [MKM:260] Elegant Parlor
+1 [WAR:245] Emergence Zone
+1 [J21:75] Esper Sentinel
+1 [CMM:489] Fierce Guardianship
+1 [TSP:272] Flagstones of Trokair
+1 [MH3:26] Flare of Fortitude
+1 [9ED:183] Flashfires
+1 [KTK:233] Flooded Strand
+1 [H1R:9] Force of Negation
+1 [ALL:28] Force of Will
+1 [USG:188] Gamble
+1 [CHK:10] Ghostly Prison
+1 [XLN:255] Glacial Fortress
+1 [BIG:2] Grand Abolisher
+1 [CLU:277] Hallowed Fountain
+1 [HOU:15] Hour of Revelation
+1 [DSK:273] Island
+1 [CLU:224] Izzet Signet
+1 [WAR:1*] Karn, the Great Creator
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [MRD:199] Lightning Greaves
+1 [TMP:294] Lotus Petal
+1 [MKM:264] Meticulous Archive
+1 [DSK:275] Mountain
+1 [STH:138] Mox Diamond
+1 [ICE:87] Mystic Remora
+1 [6ED:83] Mystical Tutor
+1 [8ED:204] Obliterate
+1 [FUT:42] Pact of Negation
+1 [BLC:11] Perch Protection
+1 [FDN:273] Plains
+1 [SUM:284] Plateau
+1 [PLC:44] Pongify
+1 [SPG:38] Prismatic Vista
+1 [TMP:80] Propaganda
+1 [ARN:67] Pyramids
+1 [IKO:251] Raugrin Triome
+1 [PIP:354] Ravages of War
+1 [PIP:281] Razortide Bridge
+1 [4ED:218] Red Elemental Blast
+1 [PCY:45] Rhystic Study
+1 [STH:95] Ruination
+1 [PIP:285] Rustvale Bridge
+1 [CLU:279] Sacred Foundry
+1 [ZEN:223] Scalding Tarn
+1 [DMU:255] Shivan Reef
+1 [PIP:290] Silverbluff Bridge
+1 [RNA:22] Smothering Tithe
+1 [SUM:274] Sol Ring
+1 [DST:14] Soulscour
+1 [CLU:280] Steam Vents
+1 [M14:224] Strionic Resonator
+1 [4ED:363] Strip Mine
+1 [DOM:247] Sulfur Falls
+1 [THS:65] Swan Song
+1 [ICE:54] Swords to Plowshares
+1 [M3C:307] Talisman of Conviction
+1 [M3C:308] Talisman of Creativity
+1 [MRD:256] Talisman of Progress
+1 [WAR:221*] Teferi, Time Raveler
+1 [STA:11] Teferi's Protection
+1 [UDS:139] Thran Dynamo
+1 [MKM:269] Thundering Falls
+1 [SUM:289] Tundra
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [RTR:111] Vandalblast
+1 [SUM:291] Volcanic Island
+1 [UDS:99] Wake of Destruction
+1 [TMP:330] Wasteland
+1 [IKO:215] Whirlwind of Thought
+1 [MH1:37] Winds of Abandon
+1 [WC04:ap274] Welding Jar
+1 [PRM:31427] Tormod's Crypt
+1 [MMA:204] Engineered Explosives
+1 [USG:101] Sunder
+SB: 1 [PLC:160] Numot, the Devastator
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,0)|([J21:75])([M15:242],[PIP:281],[PIP:285],[PIP:290])([ELD:331],[CLU:219],[CLU:220],[M19:229],[M14:207],[CLU:224],[MRD:199],[TMP:294],[STH:138],[ARN:67],[SUM:274],[M14:224],[M3C:307],[M3C:308],[MRD:256],[UDS:139],[WC04:ap274],[PRM:31427],[MMA:204])([AVR:6],[BIG:2],[ROE:6],[ROE:12])([INV:49],[CHK:10],[ICE:87],[TMP:80],[PCY:45],[RNA:22],[IKO:215])([ALL:22a],[GTC:148],[7ED:67],[BLB:9],[CMM:489],[MH3:26],[H1R:9],[ALL:28],[6ED:83],[FUT:42],[BLC:11],[PLC:44],[4ED:218],[THS:65],[ICE:54],[STA:11],[USG:101])([DMU:243],[TMP:315],[ZEN:211],[BRO:257],[AKH:240],[DOM:239],[MKM:260],[WAR:245],[TSP:272],[KTK:233],[XLN:255],[CLU:277],[DSK:273],[MKM:264],[DSK:275],[FDN:273],[SUM:284],[SPG:38],[IKO:251],[CLU:279],[ZEN:223],[DMU:255],[CLU:280],[4ED:363],[DOM:247],[MKM:269],[SUM:289],[SUM:291],[TMP:330])([ALA:154],[WAR:1*],[WAR:221*])([PLC:112])([LEG:44],[6ED:4],[USG:6],[ME4:112],[9ED:183],[USG:188],[HOU:15],[8ED:204],[PIP:354],[STH:95],[DST:14],[RTR:111],[UDS:99],[MH1:37])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PLC:160])

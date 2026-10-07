@@ -1,0 +1,103 @@
+NAME:Garthy
+1 [MH1:7] Ephemerate
+1 [GTC:231] Illusionist's Bracers
+1 [DOM:217] Helm of the Host
+1 [LCC:273] Kiora's Follower
+1 [BLB:303] Dour Port-Mage
+1 [ELD:326] Chulane, Teller of Tales
+1 [DMC:159] Maelstrom Nexus
+1 [MKM:220] Niv-Mizzet, Guildpact
+1 [J21:718] Soulherder
+1 [CMR:335] Rings of Brighthearth
+1 [MH2:234] Scion of Draco
+1 [PCA:100] Last Stand
+1 [MKM:217] Leyline of the Guildpact
+1 [GRN:233] Chromatic Lantern
+1 [LCC:107] Chromatic Orrery
+1 [CMA:214] Conjurer's Closet
+1 [VOC:169] Swiftfoot Boots
+1 [C15:257] Lightning Greaves
+1 [M11:206] Elixir of Immortality
+1 [C13:266] Thousand-Year Elixir
+1 [SLD:212] Urabrask the Hidden
+1 [MRD:99] Mass Hysteria
+1 [WOC:149] Sol Ring
+1 [CLB:298] Arcane Signet
+1 [CMR:469] Ring of Valkas
+1 [DMR:159] Exploration
+1 [2X2:304] Darksteel Plate
+1 [VMA:291] Badlands
+1 [VMA:293] Bayou
+1 [VMA:308] Plateau
+1 [VMA:311] Savannah
+1 [VMA:313] Scrubland
+1 [VMA:317] Taiga
+1 [2ED:284] Tropical Island
+1 [VMA:322] Tundra
+1 [VMA:323] Underground Sea
+1 [VMA:324] Volcanic Island
+1 [BLB:368] Fountainport
+1 [SLD:125] Blood Crypt
+1 [GTC:240] Breeding Pool
+1 [GTC:242] Godless Shrine
+1 [SLD:123] Hallowed Fountain
+1 [VMA:289] Ancient Tomb
+1 [SLD:130] Overgrown Tomb
+1 [RAV:280] Sacred Foundry
+1 [GRN:257] Steam Vents
+1 [GTC:247] Stomping Ground
+1 [SLD:127] Temple Garden
+1 [GTC:249] Watery Grave
+1 [DMC:204] Command Tower
+1 [LCI:269] Cavern of Souls
+1 [CMM:14] Avacyn, Angel of Hope
+1 [CMA:216] Eldrazi Monument
+1 [AFC:236] Exotic Orchard
+1 [CMR:637] Mana Drain
+1 [FUT:42] Pact of Negation
+1 [BLC:170] An Offer You Can't Refuse
+1 [MH3:12] Null Elemental Blast
+1 [PRM:43610] Red Elemental Blast
+1 [BBD:132] Spell Snare
+1 [CNS:108] Stifle
+1 [HA3:9] Swan Song
+1 [PRM:59681] Abrupt Decay
+1 [VOC:84] Darksteel Mutation
+1 [MOC:224] Imprisoned in the Moon
+1 [LCI:54] Eaten by Piranhas
+1 [PDOM:224s] Mox Amber
+1 [GN3:15] Path to Exile
+1 [BBD:110] Swords to Plowshares
+1 [WOT:9] Land Tax
+1 [RIX:180] The Immortal Sun
+1 [CM2:178] Caged Sun
+1 [AKH:4] Approach of the Second Sun
+1 [UMA:85] Bitterblossom
+1 [C18:228] Unwinding Clock
+1 [5DN:110] Clock of Omens
+1 [BBD:241] Mycosynth Lattice
+1 [HOP:112] Door to Nothingness
+1 [DMR:229] Legacy Weapon
+1 [DMU:239] Timeless Lotus
+1 [DMR:241] Clifftop Retreat
+1 [E01:93] Dragonskull Summit
+1 [SLD:457] Drowned Catacomb
+1 [BLC:307] Glacial Fortress
+1 [DMR:248] Hinterland Harbor
+1 [DMR:249] Isolated Chapel
+1 [BLC:326] Rootbound Crag
+1 [DOM:247] Sulfur Falls
+1 [BLC:335] Sunpetal Grove
+1 [MM3:175] Niv-Mizzet, Dracogenius
+1 [FDN:123] Niv-Mizzet, Visionary
+1 [OTC:341] Woodland Cemetery
+1 [CN2:178] Burgeoning
+1 [SOM:179] Mox Opal
+1 [WOT:67] Smothering Tithe
+1 [NPH:18] Phyrexian Unlife
+1 [HOU:22] Solemnity
+1 [J22:114] Rhystic Study
+1 [HOP:28] Grave Pact
+SB: 1 [MH2:197] Garth One-Eye
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MH2:234])([GTC:231],[DOM:217],[CMR:335],[GRN:233],[LCC:107],[CMA:214],[VOC:169],[C15:257],[M11:206],[C13:266],[WOC:149],[CLB:298],[CMR:469],[2X2:304],[CMA:216],[PDOM:224s],[RIX:180],[CM2:178],[C18:228],[5DN:110],[BBD:241],[HOP:112],[DMR:229],[DMU:239],[SOM:179])([LCC:273],[BLB:303],[ELD:326],[MKM:220],[J21:718],[SLD:212],[CMM:14],[MM3:175],[FDN:123])([DMC:159],[MKM:217],[MRD:99],[DMR:159],[VOC:84],[MOC:224],[LCI:54],[WOT:9],[CN2:178],[WOT:67],[NPH:18],[HOU:22],[J22:114],[HOP:28])([MH1:7],[CMR:637],[FUT:42],[BLC:170],[MH3:12],[PRM:43610],[BBD:132],[CNS:108],[HA3:9],[PRM:59681],[GN3:15],[BBD:110])([UMA:85])([VMA:291],[VMA:293],[VMA:308],[VMA:311],[VMA:313],[VMA:317],[2ED:284],[VMA:322],[VMA:323],[VMA:324],[BLB:368],[SLD:125],[GTC:240],[GTC:242],[SLD:123],[VMA:289],[SLD:130],[RAV:280],[GRN:257],[GTC:247],[SLD:127],[GTC:249],[DMC:204],[LCI:269],[AFC:236],[DMR:241],[E01:93],[SLD:457],[BLC:307],[DMR:248],[DMR:249],[BLC:326],[DOM:247],[BLC:335],[OTC:341])([PCA:100],[AKH:4])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MH2:197])

@@ -1,0 +1,102 @@
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [SHM:278*] Reflecting Pool
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [ECL:265] Hallowed Fountain
+1 [EOE:261] Watery Grave
+1 [ECL:266] Overgrown Tomb
+1 [ECL:268] Temple Garden
+1 [EOE:254] Godless Shrine
+1 [EOE:251] Breeding Pool
+1 [IKO:248] Indatha Triome
+1 [SNC:254] Raffine's Tower
+1 [SNC:257] Spara's Headquarters
+1 [IKO:259] Zagoth Triome
+1 [KTK:233] Flooded Strand
+1 [KTK:239] Polluted Delta
+1 [KTK:248] Windswept Heath
+1 [ZEN:219] Marsh Flats
+1 [ZEN:229] Verdant Catacombs
+1 [ZEN:220] Misty Rainforest
+1 [SPG:38] Prismatic Vista
+1 [BLB:252] Fabled Passage
+1 [TMP:315] Ancient Tomb
+1 [MB2:114] Urza's Saga
+1 [WAR:248] Karn's Bastion
+1 [NEO:266] Boseiju, Who Endures
+1 [NEO:271] Otawara, Soaring City
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [TLA:282] Plains
+1 [TLA:283] Island
+1 [TLA:284] Swamp
+1 [TLA:286] Forest
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [9ED:297] Fellwar Stone
+1 [EVE:66] Bloom Tender
+1 [M12:165] Birds of Paradise
+1 [BNG:157] Astral Cornucopia
+1 [WWK:123] Everflowing Chalice
+1 [EOC:135] Empowered Autogenerator
+1 [FUT:161] Coalition Relic
+1 [EOC:133] Crystalline Crawler
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [6ED:19] Enlightened Tutor
+1 [6ED:83] Mystical Tutor
+1 [6ED:269] Worldly Tutor
+1 [THB:24] Idyllic Tutor
+1 [M10:52] Fabricate
+1 [AER:49] Whir of Invention
+1 [PLS:106] Eladamri's Call
+1 [ALA:60] Tezzeret the Seeker
+1 [7ED:67] Counterspell
+1 [LEG:65] Mana Drain
+1 [ALL:22a] Arcane Denial
+1 [THS:65] Swan Song
+1 [FDN:160] An Offer You Can't Refuse
+1 [WAR:193] Dovin's Veto
+1 [CMM:94] Fierce Guardianship
+1 [ALL:28] Force of Will
+1 [TLE:13] Force of Negation
+1 [FUT:42] Pact of Negation
+1 [ICE:54] Swords to Plowshares
+1 [CON:15] Path to Exile
+1 [RTR:35] Cyclonic Rift
+1 [MH3:277] Toxic Deluge
+1 [NEO:13] Farewell
+1 [MKM:187] Assassin's Trophy
+1 [SOI:242] Anguished Unmaking
+1 [MRD:150] Chalice of the Void
+1 [ZEN:42] Archmage Ascension
+1 [LTR:001] The One Ring
+1 [5ED:329] Sylvan Library
+1 [SOM:35] Inexorable Tide
+1 [WAR:159] Evolution Sage
+1 [NPH:47] Tezzeret's Gambit
+1 [ONE:302] Tekuthal, Inquiry Dominus
+1 [EOC:70] Deepglow Skate
+1 [KHM:199] Vorinclex, Monstrous Raider
+1 [FDN:216] Doubling Season
+1 [CLB:29] Lae'zel, Vlaakith's Champion
+1 [MOM:196] Kami of Whispered Hopes
+1 [ONE:348] Ichormoon Gauntlet
+1 [DOM:200] Oath of Teferi
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [EMN:190] Tamiyo, Field Researcher
+1 [ONE:115] Vraska, Betrayal's Sting
+1 [M19:238] Magistrate's Scepter
+1 [SOM:173] Lux Cannon
+1 [DST:114] Darksteel Reactor
+1 [MH3:59] Dreamtide Whale
+1 [PIP:405] Agent Frank Horrigan
+1 [CLB:32] Lulu, Loyal Hollyphant
+1 [ONE:242] Staff of Compleation
+1 [SOM:145] Contagion Engine
+1 [FCA:11] Yawgmoth, Thran Physician
+1 [M14:209] Elixir of Immortality
+SB: 1 [MUL:163] Atraxa, Praetors' Voice
+LAYOUT MAIN:(1,8)(CMC,false,50)|([ELD:333],[CON:142],[8ED:322],[JOU:163],[ECL:265],[EOE:261],[ECL:266],[ECL:268],[EOE:254],[EOE:251],[IKO:248],[SNC:254],[SNC:257],[IKO:259],[KTK:233],[KTK:239],[KTK:248],[ZEN:219],[ZEN:229],[ZEN:220],[SPG:38],[BLB:252],[TMP:315],[MB2:114],[WAR:248],[NEO:266],[NEO:271],[NEO:278],[NEO:268],[TLA:282],[TLA:283],[TLA:284],[TLA:286],[BNG:157],[WWK:123],[FUT:42],[MRD:150],[SHM:278*])([SUM:274],[M12:165],[6ED:161],[6ED:19],[6ED:83],[6ED:269],[THS:65],[FDN:160],[ICE:54],[CON:15],[M14:209])([ELD:331],[9ED:297],[EVE:66],[SUM:105],[PLS:106],[7ED:67],[LEG:65],[ALL:22a],[WAR:193],[RTR:35],[MKM:187],[5ED:329])([FUT:161],[THB:24],[M10:52],[AER:49],[CMM:94],[TLE:13],[MH3:277],[SOI:242],[ZEN:42],[WAR:159],[CLB:29],[MOM:196],[ONE:348],[M19:238],[MH3:59],[ONE:242])([EOC:135],[EOC:133],[LTR:001],[NPH:47],[ONE:302],[EMN:190],[SOM:173],[DST:114],[CLB:32],[FCA:11])([ALA:60],[ALL:28],[SOM:35],[EOC:70],[FDN:216],[DOM:200],[DOM:207])([NEO:13],[KHM:199],[ONE:115],[SOM:145])([PIP:405])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MUL:163])

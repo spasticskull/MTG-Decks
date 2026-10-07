@@ -1,0 +1,60 @@
+20 [FDN:15] Hare Apparent
+1 [BLC:9] Jacked Rabbit
+1 [WOE:25] Regal Bunnicorn
+1 [BLB:37] Warren Elder
+1 [BLB:299] Valley Questcaller
+1 [OTJ:310] Claim Jumper
+1 [FDN:730] Hinterland Sanctifier
+1 [BLB:300] Warren Warleader
+1 [MH3:40] Phelia, Exuberant Shepherd
+1 [FDN:578] Mentor of the Meek
+1 [VOW:287] Welcoming Vampire
+1 [H2R:2] Esper Sentinel
+1 [WWK:20] Stoneforge Mystic
+1 [NPH:20] Puresteel Paladin
+1 [MKM:12] Delney, Streetwise Lookout
+1 [LCI:258] Roaming Throne
+1 [ONE:23] Mondrak, Glory Dominus
+1 [LCI:26] Ojer Taq, Deepest Foundation
+1 [FCA:2] Ranger-Captain of Eos
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [TMP:300] Pearl Medallion
+1 [AKH:233] Oketra's Monument
+1 [FIC:228] Herald's Horn
+1 [4ED:34] Land Tax
+1 [LTR:001] The One Ring
+1 [OGW:166] Stoneforge Masterwork
+1 [PW24:16] Heirloom Blade
+1 [LRW:255] Deathrender
+1 [ORI:240] Sword of the Animist
+1 [FDN:258] Swiftfoot Boots
+1 [RAV:257] Cloudstone Curio
+1 [ONS:306] Cryptic Gateway
+1 [EXO:132] Erratic Portal
+1 [AFR:364] Teleportation Circle
+1 [AKH:2] Anointed Procession
+1 [RNA:22] Smothering Tithe
+1 [BRO:30] Tocasia's Welcome
+1 [THS:33] Spear of Heliod
+1 [6ED:19] Enlightened Tutor
+1 [ICE:54] Swords to Plowshares
+1 [CON:15] Path to Exile
+1 [LCI:14] Get Lost
+1 [BLC:106] Generous Gift
+1 [FDN:148] Stroke of Midnight
+1 [BRO:14] Loran's Escape
+1 [STA:11] Teferi's Protection
+24 [TLA:282] Plains
+1 [TMP:315] Ancient Tomb
+1 [PIP:1068] War Room
+1 [LTR:256] Minas Tirith
+1 [BLB:260] Three Tree City
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [EOC:169] Myriad Landscape
+1 [ZEN:213] Emeria, the Sky Ruin
+1 [FDN:264] Rogue's Passage
+1 [SHM:275] Mistveil Plains
+SB: 1 [J22:8] Preston, the Vanisher
+LAYOUT MAIN:(1,7)(CMC,false,50)|([TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TLA:282],[TMP:315],[PIP:1068],[LTR:256],[BLB:260],[THS:223],[EOC:169],[ZEN:213],[FDN:264],[SHM:275])([FDN:730],[H2R:2],[SUM:274],[4ED:34],[OGW:166],[6ED:19],[ICE:54],[CON:15],[BRO:14])([FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[FDN:15],[BLC:9],[WOE:25],[BLB:37],[BLB:299],[MH3:40],[WWK:20],[NPH:20],[ELD:331],[TMP:300],[ORI:240],[FDN:258],[LCI:14])([OTJ:310],[FDN:578],[VOW:287],[MKM:12],[FCA:2],[AKH:233],[FIC:228],[PW24:16],[RAV:257],[BRO:30],[THS:33],[BLC:106],[FDN:148],[STA:11])([BLB:300],[LCI:258],[ONE:23],[LTR:001],[LRW:255],[EXO:132],[AFR:364],[AKH:2],[RNA:22])([ONS:306])([LCI:26])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([J22:8])

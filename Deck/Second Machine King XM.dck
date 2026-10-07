@@ -1,0 +1,102 @@
+1 [SUM:274] Sol Ring
+1 [5ED:388] Mana Vault
+1 [ULG:126] Grim Monolith
+1 [SUM:235] Basalt Monolith
+1 [SOM:179] Mox Opal
+1 [FDN:724] Expedition Map
+1 [BRC:145] Liquimetal Torque
+1 [M11:219] Voltaic Key
+1 [MID:255] Moonsilver Key
+1 [UDS:135] Metalworker
+1 [LCI:249] Chimil, the Inner Sun
+1 [ZNR:244] Forsaken Monument
+1 [M20:233] Mystic Forge
+1 [THB:236] Shadowspear
+1 [LRW:259] Rings of Brighthearth
+1 [OTC:266] Scaretiller
+1 [NPH:148] Omen Machine
+1 [M14:209] Elixir of Immortality
+1 [TMC:38] Coin of Mastery
+1 [5DN:134] Krark-Clan Ironworks
+1 [10E:342] Sculpting Steel
+1 [NPH:164] Unwinding Clock
+1 [5DN:163] Vedalken Orrery
+1 [TSB:110] Grinning Totem
+1 [5ED:391] Nevinyrral's Disk
+1 [MBS:136] Spine of Ish Sah
+1 [AER:171] Planar Bridge
+1 [BRO:254] Thran Spider
+1 [WAR:1*] Karn, the Great Creator
+1 [M19:229] Crucible of Worlds
+1 [SOM:169] Kuldotha Forgemaster
+1 [BLC:264] Academy Manufactor
+1 [M13:202] Clock of Omens
+1 [BIG:28] Transmutation Font
+1 [NEO:250] Mirror Box
+1 [DRC:19] Stridehangar Automaton
+1 [PZA:15] Conqueror's Flail
+1 [MKC:233] Nettlecyst
+1 [KTK:216] Altar of the Brood
+1 [MH3:7] Glaring Fleshraker
+1 [AER:175] Scrap Trawler
+1 [M14:206] Darksteel Forge
+1 [DST:130] Mycosynth Lattice
+1 [DOM:219] Icy Manipulator
+1 [EXO:136] Null Brooch
+1 [MMQ:295] General's Regalia
+1 [ISD:236] Witchbane Orb
+1 [MH3:4] Echoes of Eternity
+1 [FRC:98] Darksteel Angel
+1 [M13:200] Akroma's Memorial
+1 [CMR:315] Horizon Stone
+1 [KLD:222] Metalwork Colossus
+1 [C20:68] Manascape Refractor
+1 [10E:321] Doubling Cube
+1 [TMT:172] Chrome Dome
+1 [M12:218] Sundial of the Infinite
+1 [DRC:136] Retrofitter Foundry
+1 [TMP:315] Ancient Tomb
+1 [EXO:143] City of Traitors
+1 [TSP:280] Urza's Factory
+1 [OGW:174] Mirrorpool
+1 [MB2:114] Urza's Saga
+1 [KLD:247] Inventors' Fair
+1 [M12:224] Buried Ruin
+1 [M15:242] Darksteel Citadel
+1 [AFR:261] Treasure Vault
+1 [BRO:258] Blast Zone
+1 [MBS:145] Inkmoth Nexus
+1 [MSC:120] The Great Mound
+1 [WWK:136] Eye of Ugin
+1 [BFZ:242] Sanctum of Ugin
+1 [BRC:28] Urza's Workshop
+1 [9ED:327] Urza's Mine
+1 [9ED:328] Urza's Power Plant
+1 [9ED:329] Urza's Tower
+1 [4ED:363] Strip Mine
+1 [TMP:330] Wasteland
+1 [FCA:64] Command Beacon
+1 [WTH:166] Scorched Ruins
+1 [6ED:322] Crystal Vein
+1 [LCI:410a] Cavern of Souls
+1 [FDN:264] Rogue's Passage
+1 [KTK:245] Tomb of the Spirit Dragon
+1 [MH3:234] Urza's Cave
+1 [BIG:29] Fomori Vault
+1 [EOE:257] Secluded Starforge
+1 [ONE:256] The Mycosynth Gardens
+1 [ONE:254] Mirrex
+1 [SOC:422] War Room
+1 [IKO:245] Bonders' Enclave
+1 [SOI:265+d] Tamiyo's Journal
+1 [NEC:154] Mirage Mirror
+1 [BRR:75z] Cloud Key
+1 [TSR:398] Manifold Key
+1 [2X2:314] Sensei's Divining Top
+1 [DST:132] Myr Matrix
+1 [CLB:343] Vexing Puzzlebox
+1 [MH3:12] Null Elemental Blast
+1 [J22:834] Wastes
+SB: 1 [MAT:49] Karn, Legacy Reforged
+LAYOUT MAIN:(1,10)(CMC,false,50)|([SOM:179],[TMP:315],[EXO:143],[TSP:280],[OGW:174],[MB2:114],[KLD:247],[M12:224],[M15:242],[AFR:261],[BRO:258],[MBS:145],[MSC:120],[WWK:136],[BFZ:242],[BRC:28],[9ED:327],[9ED:328],[9ED:329],[4ED:363],[TMP:330],[FCA:64],[WTH:166],[6ED:322],[LCI:410a],[FDN:264],[KTK:245],[MH3:234],[BIG:29],[EOE:257],[ONE:256],[ONE:254],[SOC:422],[IKO:245],[J22:834])([SUM:274],[5ED:388],[FDN:724],[M11:219],[THB:236],[M14:209],[KTK:216],[DRC:136],[TSR:398],[2X2:314],[MH3:12])([ULG:126],[BRC:145],[MID:255],[PZA:15],[10E:321],[TMT:172],[M12:218])([SUM:235],[UDS:135],[LRW:259],[10E:342],[BRO:254],[M19:229],[BLC:264],[NEO:250],[DRC:19],[MKC:233],[MH3:7],[AER:175],[MMQ:295],[C20:68],[NEC:154],[BRR:75z],[CLB:343])([M20:233],[OTC:266],[TMC:38],[5DN:134],[NPH:164],[5DN:163],[TSB:110],[5ED:391],[WAR:1*],[M13:202],[DOM:219],[EXO:136],[ISD:236])([ZNR:244],[SOM:169],[BIG:28],[CMR:315],[SOI:265+d],[DST:132])([LCI:249],[NPH:148],[AER:171],[DST:130],[MH3:4])([MBS:136],[M13:200])([M14:206],[FRC:98])([KLD:222])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MAT:49])

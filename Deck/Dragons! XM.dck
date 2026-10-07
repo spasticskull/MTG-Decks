@@ -1,0 +1,102 @@
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [9ED:297] Fellwar Stone
+1 [GRN:233] Chromatic Lantern
+1 [M12:165] Birds of Paradise
+1 [EVE:66] Bloom Tender
+1 [ELD:190] Faeburrow Elder
+1 [FDN:536] Dragonlord's Servant
+1 [SCG:89] Dragonspeaker Shaman
+1 [MAT:46] Sarkhan, Soul Aflame
+1 [FIC:228] Herald's Horn
+1 [UDS:142] Urza's Incubator
+1 [M13:170] Farseek
+1 [5ED:316] Nature's Lore
+1 [FIC:315] Three Visits
+1 [NEM:117] Skyshroud Claim
+1 [LTR:001] The One Ring
+1 [5ED:329] Sylvan Library
+1 [KTK:207] Temur Ascendancy
+1 [FDN:220] Garruk's Uprising
+1 [RNA:130] Guardian Project
+1 [ELD:172] Return of the Wildspeaker
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [6ED:269] Worldly Tutor
+1 [DTK:154] Sarkhan's Triumph
+1 [5DN:123] Fist of Suns
+1 [ONS:185] Aggravated Assault
+1 [USG:218] Sneak Attack
+1 [ICE:54] Swords to Plowshares
+1 [CON:15] Path to Exile
+1 [MKM:187] Assassin's Trophy
+1 [SOI:242] Anguished Unmaking
+1 [NPH:103] Beast Within
+1 [EOC:49] Chaos Warp
+1 [RTR:35] Cyclonic Rift
+1 [ISD:130] Blasphemous Act
+1 [STA:11] Teferi's Protection
+1 [M21:188] Heroic Intervention
+1 [MH2:234] Scion of Draco
+1 [KHM:139] Goldspan Dragon
+1 [LCI:134] Bonehoard Dracosaur
+1 [CLB:207] Wrathful Red Dragon
+1 [OTJ:149] Terror of the Peaks
+1 [TDC:218] Hellkite Courser
+1 [FDN:665] Savage Ventmaw
+1 [FCA:12] Ancient Copper Dragon
+1 [CLB:366] Ancient Silver Dragon
+1 [CLB:111] Ancient Brass Dragon
+1 [AFR:197] Old Gnawbone
+1 [AFC:320] Klauth, Unrivaled Ancient
+1 [ZEN:131] Hellkite Charger
+1 [ISD:129] Balefire Dragon
+1 [FDN:549] Terror of Mount Velus
+1 [FRF:149] Atarka, World Render
+1 [DTK:217] Dragonlord Dromoka
+1 [DTK:216] Dragonlord Atarka
+1 [DTK:220] Dragonlord Silumgar
+1 [AFR:235] Tiamat
+1 [M3C:157] Morophon, the Boundless
+1 [TDC:230] Scourge of the Throne
+1 [ELD:333] Command Tower
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [SHM:278*] Reflecting Pool
+1 [LCI:410a] Cavern of Souls
+1 [FIC:411] Path of Ancestry
+1 [DTK:249] Haven of the Spirit Dragon
+1 [KHM:275] The World Tree
+1 [TMP:315] Ancient Tomb
+1 [NEO:266] Boseiju, Who Endures
+1 [ECL:262] Blood Crypt
+1 [EOE:251] Breeding Pool
+1 [EOE:254] Godless Shrine
+1 [ECL:265] Hallowed Fountain
+1 [ECL:266] Overgrown Tomb
+1 [EOE:256] Sacred Foundry
+1 [EOE:258] Stomping Ground
+1 [ECL:267] Steam Vents
+1 [ECL:268] Temple Garden
+1 [EOE:261] Watery Grave
+1 [IKO:248] Indatha Triome
+1 [IKO:250] Ketria Triome
+1 [IKO:251] Raugrin Triome
+1 [IKO:253] Savai Triome
+1 [IKO:259] Zagoth Triome
+1 [ZEN:211] Arid Mesa
+1 [KTK:230] Bloodstained Mire
+1 [KTK:233] Flooded Strand
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [KTK:239] Polluted Delta
+1 [ZEN:223] Scalding Tarn
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [TLA:286] Forest
+1 [TLA:285] Mountain
+1 [DMU:214] Rith, Liberated Primeval
+SB: 1 [PF25:15] The Ur-Dragon
+LAYOUT MAIN:(1,11)(CMC,false,50)|([ELD:333],[8ED:322],[JOU:163],[SHM:278*],[LCI:410a],[FIC:411],[DTK:249],[KHM:275],[TMP:315],[NEO:266],[ECL:262],[EOE:251],[EOE:254],[ECL:265],[ECL:266],[EOE:256],[EOE:258],[ECL:267],[ECL:268],[EOE:261],[IKO:248],[IKO:250],[IKO:251],[IKO:253],[IKO:259],[ZEN:211],[KTK:230],[KTK:233],[ZEN:219],[ZEN:220],[KTK:239],[ZEN:223],[ZEN:229],[KTK:248],[KTK:249],[TLA:286],[TLA:285])([SUM:274],[M12:165],[6ED:161],[6ED:269],[ICE:54],[CON:15])([ELD:331],[9ED:297],[EVE:66],[FDN:536],[M13:170],[5ED:316],[FIC:315],[5ED:329],[SUM:105],[MKM:187],[RTR:35],[M21:188])([GRN:233],[ELD:190],[SCG:89],[MAT:46],[FIC:228],[UDS:142],[KTK:207],[FDN:220],[DTK:154],[5DN:123],[ONS:185],[SOI:242],[NPH:103],[EOC:49],[STA:11])([NEM:117],[LTR:001],[RNA:130],[USG:218])([ELD:172],[KHM:139],[LCI:134],[CLB:207],[OTJ:149],[DMU:214])([TDC:218],[FDN:665],[FCA:12],[ZEN:131],[DTK:217],[DTK:220],[TDC:230])([CLB:111],[AFR:197],[AFC:320],[ISD:129],[FDN:549],[FRF:149],[DTK:216],[AFR:235],[M3C:157])([CLB:366])([ISD:130])([MH2:234])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PF25:15])

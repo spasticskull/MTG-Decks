@@ -1,0 +1,81 @@
+NAME:LifeGainOrz
+1 [M19:6] Ajani's Welcome
+1 [M14:3] Angelic Accord
+1 [ELD:331] Arcane Signet
+1 [LRW:3] Austere Command
+1 [OGW:151] Ayli, Eternal Pilgrim
+1 [GTC:6] Blind Obedience
+1 [AVR:86] Blood Artist
+1 [AKH:82] Bontu the Glorified
+1 [WWK:53] Butcher of Malakir
+1 [OGW:153] Cliffhaven Vampire
+1 [ELD:333] Command Tower
+1 [M20:206+] Corpse Knight
+1 [WAR:188] Cruel Celebrant
+1 [THB:258] Daxos, Blessed by the Sun
+1 [APC:95] Death Grasp
+1 [EVE:85] Deathbringer Liege
+1 [DGM:64] Debt to the Deathless
+1 [VOW:106] Doomed Dissenter
+1 [BFZ:210] Drana's Emissary
+1 [AKH:210] Dusk // Dawn
+1 [M14:209] Elixir of Immortality
+1 [M13:14] Faith's Reward
+1 [RIX:8] Famished Paladin
+1 [BFZ:26] Felidar Sovereign
+1 [HOU:15] Hour of Revelation
+1 [GTC:220] Immortal Servitude
+1 [M21:219] Indulging Patrician
+1 [ZEN:216] Kabira Crossroads
+1 [RNA:187] Kaya's Wrath
+1 [M21:111] Liliana's Steward
+1 [ZNR:112] Marauding Blight-Priest
+1 [HOU:18] Oketra's Last Mercy
+1 [FRF:79] Palace Siege
+1 [CON:15] Path to Exile
+1 [MBS:119] Peace Strider
+12 [FDN:273] Plains
+1 [DGM:27] Pontiff of Blight
+1 [M21:248] Radiant Fountain
+1 [FRF:22] Rally the Ancestors
+1 [CMR:533] Ravos, Soultender
+1 [DKA:18] Requiem Angel
+1 [SHM:19] Resplendent Mentor
+1 [RNA:228] Revival // Revenge
+1 [M13:29] Rhox Faithmender
+1 [DGM:6] Riot Control
+1 [M14:112] Sanguine Bond
+1 [MOM:272] Scoured Barrens
+1 [ISD:117] Skirsdag High Priest
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [KTK:202] Sorin, Solemn Visitor
+1 [WAR:217*] Sorin, Vengeful Bloodlord
+1 [ROE:44] Soul's Attendant
+1 [M15:37] Spirit Bonds
+12 [FDN:277] Swamp
+1 [M12:219] Swiftfoot Boots
+1 [DOM:108] Torgaar, Famine Incarnate
+1 [HOU:78] Torment of Scarabs
+1 [KHM:374] Valkyrie Harbinger
+1 [BFZ:124] Vampiric Rites
+1 [USG:166] Victimize
+1 [M21:127] Vito, Thorn of the Dusk Rose
+1 [GTC:206] Vizkopa Guildmage
+1 [M14:123] Xathrid Necromancer
+1 [BFZ:126] Zulaport Cutthroat
+1 [AVR:102] Exquisite Blood
+1 [PKLD:192s] Aetherflux Reservoir
+1 [GPT:157] Godless Shrine
+1 [ISD:242] Isolated Chapel
+1 [30A:277] Scrubland
+1 [LCC:351] Shineshadow Snarl
+1 [2XM:10] Boon Reflection
+1 [ORI:221] Alhammarret's Archive
+1 [LTR:246] The One Ring
+1 [MIC:31] Avacyn's Memorial
+1 [LCC:107] Chromatic Orrery
+1 [MH2:227] Kaldra Compleat
+SB: 1 [RNA:212] Teysa Karlov
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([MBS:119])([PKLD:192s],[ORI:221],[ELD:331],[MIC:31],[LCC:107],[M14:209],[DST:140],[SUM:274],[M12:219],[LTR:246],[MH2:227])([OGW:151],[AVR:86],[AKH:82],[WWK:53],[OGW:153],[M20:206+],[WAR:188],[EVE:85],[VOW:106],[BFZ:210],[RIX:8],[BFZ:26],[M21:219],[M21:111],[ZNR:112],[DGM:27],[CMR:533],[DKA:18],[SHM:19],[M13:29],[ISD:117],[ROE:44],[DOM:108],[KHM:374],[M21:127],[GTC:206],[M14:123],[BFZ:126])([THB:258])([M19:6],[M14:3],[GTC:6],[2XM:10],[AVR:102],[FRF:79],[M14:112],[M15:37],[HOU:78],[BFZ:124])([M13:14],[CON:15],[FRF:22],[DGM:6])([ELD:333],[GPT:157],[ISD:242],[ZEN:216],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[M21:248],[MOM:272],[30A:277],[LCC:351],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277])([KTK:202],[WAR:217*])([AKH:210],[RNA:228])([LRW:3],[APC:95],[DGM:64],[HOU:15],[GTC:220],[RNA:187],[HOU:18],[USG:166])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RNA:212])

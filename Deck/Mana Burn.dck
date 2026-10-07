@@ -1,0 +1,78 @@
+NAME:Mana Burn
+1 [ELD:331] Arcane Signet
+1 [SUM:282] Badlands
+1 [SUM:283] Bayou
+1 [CMR:270] Belbe, Corrupted Observer
+1 [ISD:130] Blasphemous Act
+1 [WWK:132] Bojuka Bog
+1 [WAR:79] Bolas's Citadel
+1 [SNC:134] Bootleggers' Stash
+1 [M21:133] Brash Taunter
+1 [STX:172] Culling Ritual
+1 [M21:177] Cultivate
+1 [PLC:85] Damnation
+1 [MMQ:129] Dark Ritual
+1 [SCG:64] Decree of Pain
+1 [SUM:105] Demonic Tutor
+1 [CLB:169] Descent into Avernus
+1 [TMP:223] Eladamri's Vineyard
+1 [AVR:102] Exquisite Blood
+1 [DKA:87] Faithless Looting
+1 [M13:170] Farseek
+1 [BNG:68] Fate Unraveler
+10 [DSK:276] Forest
+1 [ZEN:165] Harrow
+1 [AKH:135] Harsh Mentor
+1 [CHK:212] Heartbeat of Spring
+1 [EVE:68] Helix Pinnacle
+1 [CMR:315] Horizon Stone
+1 [M3C:234] Ignoble Hierarch
+1 [ELD:164] Kenrith's Transformation
+1 [TSP:202] Krosan Grip
+1 [CLU:141] Lightning Bolt
+1 [FUT:132] Magus of the Vineyard
+1 [CMM:241] Magus of the Wheel
+1 [5ED:249] Mana Flare
+1 [5ED:388] Mana Vault
+1 [SOK:162] Mikokoro, Center of the Sea
+9 [DSK:275] Mountain
+1 [INV:259] Overabundance
+1 [CLB:332] Patriar's Seal
+1 [ODY:214] Price of Glory
+1 [EXO:95] Price of Progress
+1 [XLN:154] Rampaging Ferocidon
+1 [M19:254] Reliquary Tower
+1 [M12:192] Rites of Flourishing
+1 [ZNR:201] Roiling Regrowth
+1 [ZNR:156] Roiling Vortex
+1 [CLB:336] Rug of Smothering
+1 [ALA:228] Savage Lands
+1 [CHK:268] Sensei's Divining Top
+1 [DMU:107] Sheoldred, the Apocalypse
+1 [5DN:150] Silent Arbiter
+1 [SUM:274] Sol Ring
+1 [5DN:156] Staff of Domination
+1 [CMA:87] Stranglehold
+9 [FDN:277] Swamp
+1 [M12:219] Swiftfoot Boots
+1 [GPT:156] Sword of the Paruns
+1 [SUM:287] Taiga
+1 [LRW:263] Thousand-Year Elixir
+1 [OTC:209] Three Visits
+1 [HOU:77] Torment of Hailfire
+1 [ONE:218] Tyvar, Jubilant Brawler
+1 [SHM:267] Umbral Mantle
+1 [THB:121] Underworld Dreams
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [RTR:111] Vandalblast
+1 [DIS:77] War's Toll
+1 [SUM:185] Wheel of Fortune
+1 [SHM:81] Wound Reflection
+1 [M3C:409] Yavimaya, Cradle of Growth
+1 [DGM:119] Zhur-Taa Ancient
+1 [DGM:120] Zhur-Taa Druid
+1 [SNC:261] Ziatora's Proving Ground
+1 [MID:255] Moonsilver Key
+SB: 1 [CMR:293] Yurlok of Scorch Thrash
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([CLB:336],[5DN:150])([ELD:331],[WAR:79],[SNC:134],[CMR:315],[5ED:388],[CLB:332],[CHK:268],[SUM:274],[5DN:156],[M12:219],[GPT:156],[LRW:263],[SHM:267],[MID:255])([CMR:270],[M21:133],[AKH:135],[M3C:234],[FUT:132],[CMM:241],[XLN:154],[DMU:107],[DGM:119],[DGM:120])([BNG:68])([CLB:169],[TMP:223],[AVR:102],[CHK:212],[EVE:68],[ELD:164],[5ED:249],[INV:259],[ODY:214],[M12:192],[ZNR:156],[CMA:87],[THB:121],[DIS:77],[SHM:81])([MMQ:129],[ZEN:165],[TSP:202],[CLU:141],[EXO:95],[ZNR:201])([SUM:282],[SUM:283],[WWK:132],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[SOK:162],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[M19:254],[ALA:228],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[SUM:287],[M15:248],[M3C:409],[SNC:261])([ONE:218])([ISD:130],[STX:172],[M21:177],[PLC:85],[SCG:64],[SUM:105],[DKA:87],[M13:170],[OTC:209],[HOU:77],[RTR:111],[SUM:185])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMR:293])

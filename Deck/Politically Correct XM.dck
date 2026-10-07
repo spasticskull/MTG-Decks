@@ -1,0 +1,102 @@
+1 [ELD:333] Command Tower
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [CON:142] Exotic Orchard
+1 [SHM:278*] Reflecting Pool
+1 [AKH:240] Cascading Cataracts
+1 [ODY:318] Crystal Quarry
+1 [TSP:269] Academy Ruins
+1 [KLD:247] Inventors' Fair
+1 [SOK:162] Mikokoro, Center of the Sea
+1 [WAR:248] Karn's Bastion
+1 [M19:254] Reliquary Tower
+1 [ZEN:211] Arid Mesa
+1 [KTK:230] Bloodstained Mire
+1 [KTK:233] Flooded Strand
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [KTK:239] Polluted Delta
+1 [ZEN:223] Scalding Tarn
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [SUM:289] Tundra
+1 [SUM:290] Underground Sea
+1 [SUM:282] Badlands
+1 [SUM:287] Taiga
+1 [SUM:285] Savannah
+1 [SUM:286] Scrubland
+1 [SUM:283] Bayou
+1 [SUM:288] Tropical Island
+1 [SUM:291] Volcanic Island
+1 [SUM:284] Plateau
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [MBC:78] Thought Vessel
+1 [5ED:388] Mana Vault
+1 [SUM:235] Basalt Monolith
+1 [M21:228] Chromatic Orrery
+1 [ATQ:43] Candelabra of Tawnos
+1 [BIG:28] Transmutation Font
+1 [M13:202] Clock of Omens
+1 [BLC:264] Academy Manufactor
+1 [DRC:19] Stridehangar Automaton
+1 [DST:130] Mycosynth Lattice
+1 [ONE:380] Encroaching Mycosynth
+1 [M14:206] Darksteel Forge
+1 [NEO:250] Mirror Box
+1 [AER:171] Planar Bridge
+1 [M13:203] Door to Nothingness
+1 [10E:330] Legacy Weapon
+1 [LRW:259] Rings of Brighthearth
+1 [LCI:249] Chimil, the Inner Sun
+1 [ISD:236] Witchbane Orb
+1 [MH1:57] Mirrodin Besieged
+1 [MAR:7] Wedding Ring
+1 [RNA:22] Smothering Tithe
+1 [PZ2:63] Kynaios and Tiro of Meletis
+1 [CMR:543] Zedruu the Greathearted
+1 [KLD:59] Padeem, Consul of Innovation
+1 [ROE:211] Tajuru Preserver
+1 [MAT:9] Training Grounds
+1 [RNA:158] Biomancer's Familiar
+1 [ALA:44] Filigree Sages
+1 [ONS:64] Aphetto Alchemist
+1 [GTC:231] Illusionist's Bracers
+1 [BRO:226] Urza, Prince of Kroog
+1 [FDN:258] Swiftfoot Boots
+1 [MRD:199] Lightning Greaves
+1 [FDN:156] Imprisoned in the Moon
+1 [ZEN:42] Archmage Ascension
+1 [5DN:163] Vedalken Orrery
+1 [NPH:164] Unwinding Clock
+1 [MKM:217] Leyline of the Guildpact
+1 [DST:129] Memnarch
+1 [M10:74] Telepathy
+1 [DIS:110] Experiment Kraj
+1 [SNC:15] Halo Fountain
+1 [LTR:240] Horn of Gondor
+1 [BRO:18] Myrel, Shield of Argive
+1 [SOI:265+a] Tamiyo's Journal
+1 [6ED:161] Vampiric Tutor
+1 [2X2:354] Imperial Seal
+1 [SUM:105] Demonic Tutor
+1 [6ED:19] Enlightened Tutor
+1 [6ED:83] Mystical Tutor
+1 [6ED:269] Worldly Tutor
+1 [PLS:106] Eladamri's Call
+1 [TSB:91] Coalition Victory
+1 [ALL:28] Force of Will
+1 [TLE:13] Force of Negation
+1 [TLE:307] Fierce Guardianship
+1 [LEG:65] Mana Drain
+1 [THS:65] Swan Song
+1 [WAR:193] Dovin's Veto
+1 [TLE:7] Teferi's Protection
+1 [M21:188] Heroic Intervention
+1 [ICE:54] Swords to Plowshares
+1 [SOI:242] Anguished Unmaking
+1 [RTR:35] Cyclonic Rift
+SB: 1 [ELD:303] Kenrith, the Returned King
+LAYOUT MAIN:(1,10)(CMC,false,50)|([ELD:333],[8ED:322],[JOU:163],[CON:142],[SHM:278*],[AKH:240],[ODY:318],[TSP:269],[KLD:247],[SOK:162],[WAR:248],[M19:254],[ZEN:211],[KTK:230],[KTK:233],[ZEN:219],[ZEN:220],[KTK:239],[ZEN:223],[ZEN:229],[KTK:248],[KTK:249],[SUM:289],[SUM:290],[SUM:282],[SUM:287],[SUM:285],[SUM:286],[SUM:283],[SUM:288],[SUM:291],[SUM:284])([SUM:274],[5ED:388],[ATQ:43],[MAT:9],[M10:74],[6ED:161],[2X2:354],[6ED:19],[6ED:83],[6ED:269],[THS:65],[ICE:54])([ELD:331],[MBC:78],[ROE:211],[RNA:158],[ONS:64],[GTC:231],[FDN:258],[MRD:199],[SUM:105],[PLS:106],[LEG:65],[WAR:193],[M21:188],[RTR:35])([SUM:235],[BLC:264],[DRC:19],[NEO:250],[LRW:259],[MH1:57],[FDN:156],[ZEN:42],[SNC:15],[LTR:240],[TLE:13],[TLE:307],[TLE:7],[SOI:242])([M13:202],[ONE:380],[ISD:236],[MAR:7],[RNA:22],[PZ2:63],[CMR:543],[KLD:59],[ALA:44],[BRO:226],[5DN:163],[NPH:164],[MKM:217],[BRO:18])([BIG:28],[M13:203],[SOI:265+a],[ALL:28])([DST:130],[AER:171],[LCI:249],[DIS:110])([M21:228],[10E:330],[DST:129])([TSB:91])([M14:206])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ELD:303])

@@ -1,0 +1,92 @@
+NAME:Pain
+1 [ELD:331] Arcane Signet
+1 [ELD:350] Ayara, First of Locthwain
+1 [AVR:86] Blood Artist
+1 [KTK:230] Bloodstained Mire
+1 [WWK:132] Bojuka Bog
+1 [WAR:79] Bolas's Citadel
+1 [THS:213] Burnished Hart
+1 [TOR:139] Cabal Coffers
+1 [ZNR:260] Clearwater Pathway
+1 [ELD:333] Command Tower
+1 [DSC:244] Commander's Sphere
+1 [WAR:46] Contentious Plan
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [RAV:81] Dark Confidant
+1 [MMQ:129] Dark Ritual
+1 [MH2:397] Dauthi Voidwalker
+1 [FUT:35] Delay
+1 [ICE:121] Demonic Consultation
+1 [SUM:105] Demonic Tutor
+1 [CLU:221] Dimir Signet
+1 [CON:142] Exotic Orchard
+1 [SOM:61] Exsanguinate
+1 [9ED:297] Fellwar Stone
+1 [CMM:489] Fierce Guardianship
+1 [CLU:111] Fleshbag Marauder
+1 [KTK:233] Flooded Strand
+1 [MB2:163] Flusterstorm
+1 [H1R:9] Force of Negation
+1 [ALL:28] Force of Will
+1 [USG:76] Gilded Drake
+1 [DOM:215] Gilded Lotus
+1 [M21:103] Grim Tutor
+7 [DSK:273] Island
+1 [WAR:248] Karn's Bastion
+1 [MRD:199] Lightning Greaves
+1 [TMP:294] Lotus Petal
+1 [MID:336] Malevolent Hermit
+1 [JOU:163] Mana Confluence
+1 [LEG:65] Mana Drain
+1 [ZEN:219] Marsh Flats
+1 [NPH:38] Mental Misstep
+1 [M21:57] Miscast
+1 [ZEN:220] Misty Rainforest
+1 [MID:113] Morbid Opportunist
+1 [ICE:87] Mystic Remora
+1 [ELD:247] Mystic Sanctuary
+1 [6ED:83] Mystical Tutor
+1 [MOM:68] Negate
+1 [DGM:88] Notion Thief
+1 [CMR:141] Opposition Agent
+1 [FUT:42] Pact of Negation
+1 [NPH:42] Phyrexian Metamorph
+1 [GRN:82] Plaguecrafter
+1 [KTK:239] Polluted Delta
+1 [PLC:44] Pongify
+1 [FRF:46] Reality Shift
+1 [TMP:151] Reanimate
+1 [M19:254] Reliquary Tower
+1 [PCY:45] Rhystic Study
+1 [CMR:561] Sakashima of a Thousand Faces
+1 [ZEN:223] Scalding Tarn
+1 [MID:122] Slaughter Specialist
+1 [MID:340] Sludge Monster
+1 [SUM:274] Sol Ring
+1 [STX:54] Solve the Equation
+1 [WAR:68] Spark Double
+1 [C20:47] Species Specialist
+1 [NEO:80] Spell Pierce
+1 [BFZ:249] Sunken Hollow
+6 [FDN:277] Swamp
+1 [THS:65] Swan Song
+1 [M12:219] Swiftfoot Boots
+1 [ELD:107] Syr Konrad, the Grim
+1 [ODY:164] Tainted Pact
+1 [MRD:253] Talisman of Dominance
+1 [THB:308] Thassa's Oracle
+1 [DSC:256] Thought Vessel
+1 [UDS:139] Thran Dynamo
+1 [HOU:77] Torment of Hailfire
+1 [AFR:261] Treasure Vault
+1 [SUM:290] Underground Sea
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [6ED:161] Vampiric Tutor
+1 [ZEN:229] Verdant Catacombs
+1 [CLU:283] Watery Grave
+1 [GN3:129] Swamp
+1 [GN3:128] Swamp
+SB: 1 [VOW:132] Toxrill, the Corrosive
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([THS:213],[NPH:42])([AFR:261])([ELD:331],[WAR:79],[DSC:244],[CLU:221],[9ED:297],[DOM:215],[MRD:199],[TMP:294],[SUM:274],[M12:219],[MRD:253],[DSC:256],[UDS:139])([ELD:350],[AVR:86],[RAV:81],[MH2:397],[CLU:111],[USG:76],[MID:336],[MID:113],[DGM:88],[CMR:141],[GRN:82],[CMR:561],[MID:122],[MID:340],[WAR:68],[C20:47],[ELD:107],[THB:308])([ICE:87],[PCY:45])([7ED:67],[RTR:35],[MMQ:129],[FUT:35],[ICE:121],[CMM:489],[MB2:163],[H1R:9],[ALL:28],[LEG:65],[NPH:38],[M21:57],[6ED:83],[MOM:68],[FUT:42],[PLC:44],[FRF:46],[NEO:80],[THS:65],[ODY:164],[6ED:161])([KTK:230],[WWK:132],[TOR:139],[ZNR:260],[ELD:333],[CON:142],[KTK:233],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[DSK:273],[WAR:248],[JOU:163],[ZEN:219],[ZEN:220],[ELD:247],[KTK:239],[M19:254],[ZEN:223],[BFZ:249],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[SUM:290],[M15:248],[ZEN:229],[CLU:283],[GN3:129],[GN3:128])([WAR:46],[SUM:105],[SOM:61],[M21:103],[TMP:151],[STX:54],[HOU:77])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([VOW:132])

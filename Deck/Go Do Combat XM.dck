@@ -1,0 +1,92 @@
+1 [ONS:185] Aggravated Assault
+1 [TMP:315] Ancient Tomb
+1 [ELD:331] Arcane Signet
+1 [SUM:235] Basalt Monolith
+1 [KHM:123] Birgi, God of Storytelling
+1 [DOM:211] Blackblade Reforged
+1 [ISD:130] Blasphemous Act
+1 [9ED:176] Blood Moon
+1 [FDN:619] Bolt Bend
+1 [MBS:101] Brass Squire
+1 [M12:224] Buried Ruin
+1 [LCI:410a] Cavern of Souls
+1 [KLD:110] Chandra, Torch of Defiance
+1 [EOC:49] Chaos Warp
+1 [MRD:152] Chrome Mox
+1 [EXO:143] City of Traitors
+1 [AKH:125] Combat Celebrant
+1 [FCA:64] Command Beacon
+1 [CMR:305] Commander's Plate
+1 [6ED:322] Crystal Vein
+1 [MH3:279] Cursed Mirror
+1 [M15:242] Darksteel Citadel
+1 [9ED:293] Defense Grid
+1 [CMM:214] Deflecting Swat
+1 [AFR:254] Den of the Bugbear
+1 [CHK:163] Desperate Ritual
+1 [NEO:141] Fable of the Mirror-Breaker
+1 [9ED:297] Fellwar Stone
+1 [USG:188] Gamble
+1 [TSP:274] Gemstone Caverns
+1 [M15:143] Generator Servant
+1 [J21:458] Goblin Engineer
+1 [ULG:80] Goblin Welder
+1 [MRD:282] Great Furnace
+1 [ULG:126] Grim Monolith
+1 [CMM:388] Hammer of Nazahn
+1 [EMN:204] Hanweir Battlements
+1 [DOM:217] Helm of the Host
+1 [MH2:281] Imperial Recruiter
+1 [KLD:247] Inventors' Fair
+1 [ELD:127] Irencrag Feat
+1 [MKC:156] Jeska's Will
+1 [MRD:199] Lightning Greaves
+1 [BRC:145] Liquimetal Torque
+1 [TMP:294] Lotus Petal
+1 [FUT:101] Magus of the Moon
+1 [5DN:75] Mana Geyser
+1 [5ED:388] Mana Vault
+1 [MRD:203] Mask of Memory
+1 [5DN:74] Magnetic Theft
+1 [UDS:135] Metalworker
+1 [10E:335] Mind Stone
+1 [ATQ:81] Mishra's Workshop
+1 [SOM:179] Mox Opal
+1 [HOU:104] Neheb, the Eternal
+1 [SPG:33] Port Razer
+1 [SNC:116] Professional Face-Breaker
+1 [M11:153] Pyretic Ritual
+1 [5ED:262] Pyroblast
+1 [4ED:218] Red Elemental Blast
+1 [CSP:96] Rite of Flame
+1 [FDN:264] Rogue's Passage
+1 [TMP:305] Ruby Medallion
+1 [CHK:268] Sensei's Divining Top
+1 [9ED:216] Seething Song
+1 [THB:236] Shadowspear
+1 [CHK:282] Shinka, the Bloodsoaked Keep
+1 [PLC:122] Simian Spirit Guide
+11 [KHM:282] Snow-Covered Mountain
+1 [SUM:274] Sol Ring
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [P22:4] Stranglehold
+1 [FDN:258] Swiftfoot Boots
+1 [MBS:138] Sword of Feast and Famine
+1 [ONE:256] The Mycosynth Gardens
+1 [LTR:001] The One Ring
+1 [FIC:368] Thought Vessel
+1 [UDS:139] Thran Dynamo
+1 [AFR:261] Treasure Vault
+1 [SLD:2007] Treasonous Ogre
+1 [MB2:114] Urza's Saga
+1 [ZNR:174] Valakut Awakening
+1 [ZEN:228] Valakut, the Molten Pinnacle
+1 [RTR:111] Vandalblast
+1 [PIP:1068] War Room
+1 [SUM:185] Wheel of Fortune
+1 [CMR:211] Wheel of Misfortune
+1 [USG:318] Worn Powerstone
+1 [SLD:4] Snow-Covered Mountain
+SB: 1 [CHK:169] Godo, Bandit Warlord
+LAYOUT MAIN:(1,7)(CMC,false,50)|([TMP:315],[M12:224],[LCI:410a],[MRD:152],[EXO:143],[FCA:64],[6ED:322],[M15:242],[AFR:254],[TSP:274],[MRD:282],[EMN:204],[KLD:247],[TMP:294],[ATQ:81],[SOM:179],[FDN:264],[CHK:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[NEO:276],[ONE:256],[AFR:261],[MB2:114],[ZEN:228],[PIP:1068],[SLD:4])([CMR:305],[USG:188],[ULG:80],[5ED:388],[5DN:74],[5ED:262],[4ED:218],[CSP:96],[CHK:268],[THB:236],[SUM:274],[RTR:111])([ELD:331],[DOM:211],[9ED:293],[CHK:163],[9ED:297],[M15:143],[J21:458],[ULG:126],[MRD:199],[BRC:145],[MRD:203],[10E:335],[M11:153],[TMP:305],[FDN:258],[FIC:368])([ONS:185],[SUM:235],[KHM:123],[9ED:176],[MBS:101],[EOC:49],[AKH:125],[MH3:279],[CMM:214],[NEO:141],[MH2:281],[MKC:156],[FUT:101],[UDS:135],[SNC:116],[9ED:216],[PLC:122],[MBS:138],[ZNR:174],[SUM:185],[CMR:211],[USG:318])([FDN:619],[KLD:110],[CMM:388],[DOM:217],[ELD:127],[P22:4],[LTR:001],[UDS:139],[SLD:2007])([5DN:75],[HOU:104],[SPG:33])([ISD:130])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CHK:169])

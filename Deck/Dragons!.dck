@@ -1,0 +1,101 @@
+NAME:Dragons!
+1 [ONS:185] Aggravated Assault
+1 [SNC:464] An Offer You Can't Refuse
+1 [CLB:111] Ancient Brass Dragon
+1 [CLB:161] Ancient Copper Dragon
+1 [TMP:315] Ancient Tomb
+1 [SOI:242] Anguished Unmaking
+1 [ELD:331] Arcane Signet
+1 [ZEN:211] Arid Mesa
+1 [MKM:187] Assassin's Trophy
+1 [FRF:149] Atarka, World Render
+1 [SUM:282] Badlands
+1 [SUM:283] Bayou
+1 [NPH:103] Beast Within
+1 [KTK:230] Bloodstained Mire
+1 [LCI:410a] Cavern of Souls
+1 [LTC:31] Cavern-Hoard Dragon
+1 [GRN:233] Chromatic Lantern
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [LCC:301] Commander's Sphere
+1 [ONE:163] Conduit of Worlds
+1 [7ED:67] Counterspell
+1 [FRF:65] Crux of Fate
+1 [M21:177] Cultivate
+1 [RTR:35] Cyclonic Rift
+1 [CLB:309] Decanter of Endless Water
+1 [CMM:214] Deflecting Swat
+1 [SUM:105] Demonic Tutor
+1 [ARB:53] Dragon Broodmother
+1 [M19:232] Dragon's Hoard
+1 [DTK:217] Dragonlord Dromoka
+1 [FRF:151] Dromoka, the Eternal
+1 [6ED:19] Enlightened Tutor
+1 [M13:170] Farseek
+1 [CMM:489] Fierce Guardianship
+1 [KTK:233] Flooded Strand
+1 [CHK:276] Forbidden Orchard
+2 [OTJ:276] Forest
+1 [LCC:128] Generous Gift
+1 [KHM:139] Goldspan Dragon
+1 [DTK:249] Haven of the Spirit Dragon
+1 [ZEN:131] Hellkite Charger
+1 [CMR:183] Hellkite Courser
+1 [GTC:94] Hellkite Tyrant
+1 [OTJ:273] Island
+1 [CLB:236] Jade Orb of Dragonkind
+1 [ARB:117] Karrthus, Tyrant of Jund
+1 [AFC:320] Klauth, Unrivaled Ancient
+1 [CHK:225] Kodama's Reach
+1 [JOU:163] Mana Confluence
+1 [LEG:65] Mana Drain
+1 [ZEN:219] Marsh Flats
+1 [CLB:284] Miirym, Sentinel Wyrm
+1 [ZEN:220] Misty Rainforest
+2 [BLB:274] Mountain
+1 [6ED:83] Mystical Tutor
+1 [5ED:316] Nature's Lore
+1 [FRF:156] Ojutai, Soul of Winter
+1 [AFR:197] Old Gnawbone
+1 [AFR:157] Orb of Dragonkind
+1 [SUM:284] Plateau
+1 [KTK:239] Polluted Delta
+1 [PCY:45] Rhystic Study
+1 [RNA:201] Rhythm of the Wild
+1 [DTK:231] Savage Ventmaw
+1 [SUM:285] Savannah
+1 [ZEN:223] Scalding Tarn
+1 [PZ2:65689] Scalelord Reckoner
+1 [TSP:246] Scion of the Ur-Dragon
+1 [SUM:286] Scrubland
+1 [THB:236] Shadowspear
+1 [FRF:157] Silumgar, the Drifting Death
+1 [RNA:22] Smothering Tithe
+1 [SUM:274] Sol Ring
+1 [WOE:33] Stroke of Midnight
+1 [THS:65] Swan Song
+1 [SUM:287] Taiga
+1 [LTC:532] Tempt with Discovery
+1 [OTJ:149] Terror of the Peaks
+1 [KHM:275] The World Tree
+1 [OTC:209] Three Visits
+1 [AFR:235] Tiamat
+1 [SUM:288] Tropical Island
+1 [SUM:289] Tundra
+1 [DMC:14] Two-Headed Hellkite
+1 [SUM:290] Underground Sea
+1 [MH2:259] Urza's Saga
+1 [RTR:110] Utvara Hellkite
+1 [6ED:161] Vampiric Tutor
+1 [ZEN:229] Verdant Catacombs
+1 [SNC:230] Void Rend
+1 [SUM:291] Volcanic Island
+1 [MH1:37] Winds of Abandon
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [6ED:269] Worldly Tutor
+1 [MOM:258] Zurgo and Ojutai
+SB: 1 [CMM:1065] The Ur-Dragon
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ELD:331],[GRN:233],[LCC:301],[ONE:163],[CLB:309],[M19:232],[CLB:236],[AFR:157],[THB:236],[SUM:274])([CLB:111],[CLB:161],[FRF:149],[LTC:31],[ARB:53],[DTK:217],[FRF:151],[KHM:139],[ZEN:131],[CMR:183],[GTC:94],[ARB:117],[AFC:320],[CLB:284],[FRF:156],[AFR:197],[DTK:231],[PZ2:65689],[TSP:246],[FRF:157],[OTJ:149],[AFR:235],[DMC:14],[RTR:110],[MOM:258])([MH2:259])([ONS:185],[PCY:45],[RNA:201],[RNA:22])([SNC:464],[SOI:242],[MKM:187],[NPH:103],[7ED:67],[RTR:35],[CMM:214],[6ED:19],[CMM:489],[LCC:128],[LEG:65],[6ED:83],[WOE:33],[THS:65],[6ED:161],[SNC:230],[6ED:269])([TMP:315],[ZEN:211],[SUM:282],[SUM:283],[KTK:230],[LCI:410a],[8ED:322],[ELD:333],[KTK:233],[CHK:276],[OTJ:276],[OTJ:276],[DTK:249],[OTJ:273],[JOU:163],[ZEN:219],[ZEN:220],[BLB:274],[BLB:274],[SUM:284],[KTK:239],[SUM:285],[ZEN:223],[SUM:286],[SUM:287],[KHM:275],[SUM:288],[SUM:289],[SUM:290],[ZEN:229],[SUM:291],[KTK:248],[KTK:249])([FRF:65],[M21:177],[SUM:105],[M13:170],[CHK:225],[5ED:316],[LTC:532],[OTC:209],[MH1:37])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:1065])

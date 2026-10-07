@@ -1,0 +1,72 @@
+1 [JUD:77] Anger
+1 [AVR:128] Battle Hymn
+1 [9ED:176] Blood Moon
+1 [RIX:92] Blood Sun
+1 [SHM:83] Bloodmark Mentor
+1 [M21:133] Brash Taunter
+1 [SPG:6] Breeches, Brazen Plunderer
+1 [ONS:191] Brightstone Ritual
+1 [NPH:132] Caged Sun
+1 [M10:207] Coat of Arms
+1 [M21:139] Conspicuous Snoop
+1 [M14:208] Door of Destinies
+1 [ORI:140] Dragon Fodder
+1 [TSP:152] Empty the Warrens
+1 [DKA:87] Faithless Looting
+1 [M13:129] Fervor
+1 [CLU:135] Frenzied Goblin
+1 [LGN:94] Gempalm Incinerator
+1 [TMP:179] Goblin Bombardment
+1 [ONS:318] Goblin Burrows
+1 [M12:138] Goblin Chieftain
+1 [10E:207*] Goblin King
+1 [USG:190] Goblin Lackey
+1 [7ED:191] Goblin Matron
+1 [6ED:186] Goblin Recruiter
+1 [M20:143] Goblin Ringleader
+1 [M19:144] Goblin Trashmaster
+1 [SCG:96] Goblin War Strike
+1 [DOM:130] Goblin Warchief
+1 [DRK:69] Goblin Wizard
+1 [M3C:213] Grenzo, Havoc Raiser
+1 [M19:145] Guttersnipe
+1 [M3C:296] Herald's Horn
+1 [AFR:147] Hobgoblin Bandit Lord
+1 [KTK:111] Hordeling Outburst
+1 [TSP:163] Ib Halfheart, Goblin Tactician
+1 [DTK:140] Impact Tremors
+1 [AKH:213] Insult // Injury
+1 [ONS:213] Insurrection
+1 [CLU:139] Krenko's Command
+1 [GTC:97] Legion Loyalist
+1 [MRD:199] Lightning Greaves
+1 [DIS:162] Magewright's Stone
+1 [ONS:218] Mana Echoes
+1 [MRD:99] Mass Hysteria
+1 [GTC:100] Massive Raid
+1 [STH:94] Mogg Maniac
+1 [TSP:170] Mogg War Marshal
+31 [DSK:275] Mountain
+1 [J22:575] Muxus, Goblin Grandee
+1 [DMR:133] Pashalik Mons
+1 [THS:135] Purphoros, God of the Forge
+1 [WWK:86] Quest for the Goblin Lord
+1 [AVR:151] Reforge the Soul
+1 [M19:254] Reliquary Tower
+1 [M13:145] Reverberate
+1 [TMP:305] Ruby Medallion
+1 [DOM:144] Skirk Prospector
+1 [DST:140] Skullclamp
+1 [USG:328] Smoldering Crater
+1 [SUM:274] Sol Ring
+1 [LRW:274] Spinerock Knoll
+1 [10E:239] Squee, Goblin Nabob
+1 [M12:219] Swiftfoot Boots
+1 [DSC:256] Thought Vessel
+1 [LRW:263] Thousand-Year Elixir
+1 [CMM:265] Treasure Nabber
+1 [RTR:111] Vandalblast
+1 [CM2:4] Daretti, Scrap Savant
+SB: 1 [M13:138] Krenko, Mob Boss
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([NPH:132],[M10:207],[M14:208],[M3C:296],[MRD:199],[DIS:162],[TMP:305],[DST:140],[SUM:274],[M12:219],[DSC:256],[LRW:263])([JUD:77],[SHM:83],[M21:133],[SPG:6],[M21:139],[CLU:135],[LGN:94],[M12:138],[USG:190],[7ED:191],[6ED:186],[M20:143],[M19:144],[DOM:130],[DRK:69],[M3C:213],[M19:145],[AFR:147],[TSP:163],[GTC:97],[STH:94],[TSP:170],[J22:575],[DMR:133],[DOM:144],[10E:239],[CMM:265],[10E:207*])([THS:135])([9ED:176],[RIX:92],[M13:129],[TMP:179],[DTK:140],[ONS:218],[MRD:99],[WWK:86])([AVR:128],[ONS:191],[GTC:100],[M13:145])([ONS:318],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[M19:254],[USG:328],[LRW:274])([CM2:4])([AKH:213])([ORI:140],[TSP:152],[DKA:87],[SCG:96],[KTK:111],[ONS:213],[CLU:139],[AVR:151],[RTR:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M13:138])

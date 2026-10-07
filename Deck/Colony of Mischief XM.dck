@@ -1,0 +1,65 @@
+22 [DOM:101] Rat Colony
+1 [ONE:282] Karumonix, the Rat King
+1 [WOE:339] Lord Skitter, Sewer King
+1 [CHK:124] Marrow-Gnawer
+1 [RTR:73] Pack Rat
+1 [ELD:100] Piper of the Swarm
+1 [7ED:125] Crypt Rats
+1 [GTC:74] Ogre Slumlord
+1 [C20:47] Species Specialist
+1 [GTC:61] Crypt Ghast
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [TMP:292] Jet Medallion
+1 [AKH:225] Bontu's Monument
+1 [LTR:001] The One Ring
+1 [CSP:142] Thrumming Stone
+1 [SOM:175] Mimic Vat
+1 [M14:209] Elixir of Immortality
+1 [MRD:199] Lightning Greaves
+1 [M10:207] Coat of Arms
+1 [ONS:133] Cover of Darkness
+1 [5ED:182] Necropotence
+1 [ACR:161] Black Market Connections
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [2X2:354] Imperial Seal
+1 [BRO:324] Diabolic Intent
+1 [MMQ:129] Dark Ritual
+1 [EXO:55] Culling the Weak
+1 [ICE:160] Songs of the Damned
+1 [CMM:147] Deadly Rollick
+1 [FDN:712] Feed the Swarm
+1 [MH3:277] Toxic Deluge
+1 [ONS:161] Patriarch's Bidding
+1 [TMP:142] Living Death
+1 [AER:71] Secret Salvage
+1 [J21:320] Echoing Return
+1 [TMP:315] Ancient Tomb
+1 [TOR:139] Cabal Coffers
+1 [DOM:238] Cabal Stronghold
+1 [ELD:241] Castle Locthwain
+1 [LCI:410a] Cavern of Souls
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [USG:322] Phyrexian Tower
+1 [TSP:278] Swarmyard
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [MB2:114] Urza's Saga
+1 [PIP:1068] War Room
+1 [ELD:249] Witch's Cottage
+1 [WWK:132] Bojuka Bog
+1 [M14:228] Mutavault
+17 [TLA:284] Swamp
+1 [OGW:166] Stoneforge Masterwork
+1 [UMA:232] Phyrexian Altar
+1 [WOE:340] Lord Skitter's Blessing
+1 [J22:19] Ashcoat of the Shadow Swarm
+1 [PIO:119] Whip of Erebos
+1 [AFC:95] Chittering Witch
+1 [TMT:84] Tunnel Rats
+1 [TMT:79] Splinter, Hamato Yoshi
+1 [SLD:36] Rat Colony
+SB: 1 [TMT:266] Rat King, Verminister
+LAYOUT MAIN:(1,6)(CMC,false,50)|([TMP:315],[TOR:139],[DOM:238],[ELD:241],[LCI:410a],[THS:223],[USG:322],[TSP:278],[NEO:278],[M15:248],[MB2:114],[PIP:1068],[ELD:249],[WWK:132],[M14:228],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284],[TLA:284])([SUM:274],[M14:209],[6ED:161],[2X2:354],[MMQ:129],[EXO:55],[ICE:160],[J21:320],[OGW:166])([DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[DOM:101],[RTR:73],[ELD:100],[ELD:331],[TMP:292],[MRD:199],[ONS:133],[SUM:105],[BRO:324],[FDN:712],[WOE:340],[TMT:84],[TMT:79],[SLD:36])([ONE:282],[WOE:339],[7ED:125],[AKH:225],[SOM:175],[5ED:182],[ACR:161],[MH3:277],[UMA:232])([C20:47],[GTC:61],[LTR:001],[CMM:147],[PIO:119],[AFC:95])([CHK:124],[GTC:74],[CSP:142],[M10:207],[ONS:161],[TMP:142],[AER:71],[J22:19])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TMT:266])

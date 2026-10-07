@@ -1,0 +1,88 @@
+NAME:Constuct Blues XM
+1 [VMA:289] Ancient Tomb
+1 [WOC:145] Arcane Signet
+1 [SLP:7] An Offer You Can't Refuse
+1 [SLD:1506] Academy Ruins
+1 [3ED:235] Basalt Monolith
+1 [EOC:150] Buried Ruin
+1 [TPR:237] City of Traitors
+1 [EMA:219] Chrome Mox
+1 [M13:202] Clock of Omens
+1 [3ED:53] Copy Artifact
+1 [3ED:54] Counterspell
+1 [WOC:22] Court of Vantress
+1 [SLD:1869] Cyclonic Rift
+1 [EOC:69] Cyberdrive Awakener
+1 [CM2:243] Darksteel Citadel
+1 [GN2:20] Dramatic Reversal
+1 [ELD:342] Emry, Lurker of the Loch
+1 [BIG:35] Esoteric Duplicator
+1 [EOC:72] Etherium Sculptor
+1 [EOC:137] Everflowing Chalice
+1 [HOP:9] Fabricate
+1 [SLD:1823] Fierce Guardianship
+1 [MH3:62] Flare of Denial
+1 [H1R:9] Force of Negation
+1 [VMA:69] Force of Will
+1 [CMM:950] Forsaken Monument
+1 [SLD:2106] Foundry Inspector
+1 [EOS:16] Gemstone Caverns
+1 [ULG:126] Grim Monolith
+1 [PKLD:247s] Inventors' Fair
+16 [KTK:254] Island
+1 [EMA:223] Isochron Scepter
+1 [MB2:255] Karn, Legacy Reforged
+1 [SLD:1419] Karn, Scion of Urza
+1 [EOC:74] Kappa Cannoneer
+1 [BRC:145] Liquimetal Torque
+1 [V09:7] Lotus Petal
+1 [VMA:78] Mana Drain
+1 [3ED:263] Mana Vault
+1 [HOP:11] Master of Etherium
+1 [J22:320] Mechanized Production
+1 [AER:39] Metallic Rebuke
+1 [CHK:279] Minamo, School at Water's Edge
+1 [WOC:148] Mind Stone
+1 [ELD:347] Mirrormade
+1 [DOM:224] Mox Amber
+1 [SLD:1072] Mox Opal
+1 [PM20:233p] Mystic Forge
+1 [DMR:59] Mystic Remora
+1 [ELD:247] Mystic Sanctuary
+1 [EMA:62] Mystical Tutor
+1 [BBD:241] Mycosynth Lattice
+1 [NEO:271] Otawara, Soaring City
+1 [J25:62] Padeem, Consul of Innovation
+1 [MB2:169] Pact of Negation
+1 [C14:120] Pongify
+1 [GTC:44] Rapid Hybridization
+1 [SLD:2029] Resculpt
+1 [DST:31] Reshape
+1 [DRC:136] Retrofitter Foundry
+1 [J22:114] Rhystic Study
+1 [CMR:335] Rings of Brighthearth
+1 [J25:63] Sai, Master Thopterist
+1 [HOU:182] Scavenger Grounds
+1 [SLD:864] Sculpting Steel
+1 [J22:820] Seat of the Synod
+1 [CHK:268] Sensei's Divining Top
+1 [BIG:36] Simulacrum Synthesizer
+1 [3ED:274] Sol Ring
+1 [THS:65] Swan Song
+1 [EOC:168] The Mycosynth Gardens
+1 [LTR:001] The One Ring
+1 [NEO:374] The Reality Chip
+1 [J21:261] Thought Monitor
+1 [CLB:879] Thought Vessel
+1 [ME4:69] Transmute Artifact
+1 [AFR:261] Treasure Vault
+1 [SOM:48] Trinket Mage
+1 [C18:228] Unwinding Clock
+1 [MB2:114] Urza's Saga
+1 [USG:314] Voltaic Key
+1 [CLB:929] War Room
+1 [AER:49] Whir of Invention
+1 [BIG:37] Worldwalker Helm
+SB: 1 [H1R:11] Urza, Lord High Artificer
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([EOC:69],[EOC:72],[SLD:2106],[MB2:255],[EOC:74],[HOP:11],[NEO:374],[J21:261])([CM2:243],[J22:820],[AFR:261])([WOC:145],[3ED:235],[EMA:219],[M13:202],[BIG:35],[EOC:137],[CMM:950],[ULG:126],[EMA:223],[BRC:145],[V09:7],[3ED:263],[WOC:148],[DOM:224],[SLD:1072],[PM20:233p],[BBD:241],[DRC:136],[CMR:335],[SLD:864],[CHK:268],[BIG:36],[3ED:274],[LTR:001],[CLB:879],[C18:228],[USG:314],[BIG:37])([ELD:342],[J25:62],[J25:63],[SOM:48])([MB2:114])([3ED:53],[WOC:22],[J22:320],[ELD:347],[DMR:59],[J22:114])([SLP:7],[3ED:54],[SLD:1869],[GN2:20],[SLD:1823],[MH3:62],[H1R:9],[VMA:69],[VMA:78],[AER:39],[EMA:62],[MB2:169],[C14:120],[GTC:44],[SLD:2029],[THS:65],[AER:49])([VMA:289],[SLD:1506],[EOC:150],[TPR:237],[EOS:16],[PKLD:247s],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[KTK:254],[CHK:279],[ELD:247],[NEO:271],[HOU:182],[EOC:168],[CLB:929])([SLD:1419])([HOP:9],[DST:31],[ME4:69])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([H1R:11])

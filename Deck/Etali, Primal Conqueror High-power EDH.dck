@@ -1,0 +1,93 @@
+NAME:Etali, Primal Conqueror High-power EDH
+1 [JMP:28] Allosaurus Shepherd
+1 [TMP:315] Ancient Tomb
+1 [M13:160] Arbor Elf
+1 [ELD:331] Arcane Signet
+1 [NPH:103] Beast Within
+1 [M12:165] Birds of Paradise
+1 [NEO:266] Boseiju, Who Endures
+1 [OTC:160] Chaos Warp
+1 [M15:172] Chord of Calling
+1 [BFZ:235] Cinder Glade
+1 [8ED:322] City of Brass
+1 [VIS:102] City of Solitude
+1 [RAV:257] Cloudstone Curio
+1 [ELD:333] Command Tower
+1 [ONE:249] Copperline Gorge
+1 [6ED:322] Crystal Vein
+1 [OTC:161] Cursed Mirror
+1 [CMM:214] Deflecting Swat
+1 [LTR:158] Delighted Halfling
+1 [AFR:138] Delina, Wild Mage
+1 [AFR:254] Den of the Bugbear
+1 [CHK:163] Desperate Ritual
+1 [C21:165] Dualcaster Mage
+1 [EMN:155] Eldritch Evolution
+1 [M15:173] Elvish Mystic
+1 [ALL:89] Elvish Spirit Guide
+1 [RIX:100] Etali, Primal Storm
+1 [EMN:7] Eternal Scourge
+1 [5DN:86] Eternal Witness
+1 [WWK:123] Everflowing Chalice
+1 [CON:142] Exotic Orchard
+1 [9ED:297] Fellwar Stone
+1 [WAR:160] Finale of Devastation
+1 [MMQ:246] Food Chain
+1 [OTP:29] Force of Vigor
+8 [OTJ:276] Forest
+1 [ICE:244] Fyndhorn Elves
+1 [USG:188] Gamble
+1 [TSP:274] Gemstone Caverns
+1 [TSB:119] Gemstone Mine
+1 [J21:693] Goblin Anarchomancer
+1 [7ED:191] Goblin Matron
+1 [MBS:81] Green Sun's Zenith
+1 [FUT:176] Grove of the Burnwillows
+1 [CLU:223] Gruul Signet
+1 [LRW:175] Heat Shimmer
+1 [MH2:281] Imperial Recruiter
+1 [MOM:190] Invasion of Ikoria
+1 [MKC:156] Jeska's Will
+1 [DMU:250] Karplusan Forest
+1 [CLU:141] Lightning Bolt
+1 [M19:314] Llanowar Elves
+1 [TMP:294] Lotus Petal
+1 [5ED:388] Mana Vault
+1 [AKH:175] Manglehorn
+1 [10E:335] Mind Stone
+4 [BLB:274] Mountain
+1 [5ED:316] Nature's Lore
+1 [OTC:199] Ohran Frostfang
+1 [ICE:210] Orcish Lumberjack
+1 [KLD:226] Panharmonicon
+1 [USG:270] Priest of Titania
+1 [MUL:151] Ragavan, Nimble Pilferer
+1 [C21:382] Rionya, Fire Dancer
+1 [CSP:96] Rite of Flame
+1 [MID:266] Rockfall Vale
+1 [9ED:216] Seething Song
+1 [M20:193] Shared Summons
+1 [PLC:122] Simian Spirit Guide
+1 [SUM:274] Sol Ring
+1 [AVR:194] Somberwald Sage
+1 [CLB:361] Spire Garden
+1 [DOM:146] Squee, the Immortal
+1 [CLU:281] Stomping Ground
+1 [LTC:354] Sword of Hearth and Home
+1 [MRD:254] Talisman of Impulse
+1 [FRF:141] Temur Sabertooth
+1 [LTR:001] The One Ring
+1 [OTC:209] Three Visits
+1 [ICE:270] Tinder Wall
+1 [MRD:134] Tooth and Nail
+1 [PZ2:65779] Treasonous Ogre
+1 [JOU:115] Twinflame
+1 [MH2:259] Urza's Saga
+1 [7ED:282] Wild Growth
+1 [6ED:269] Worldly Tutor
+1 [LTC:377] Yavimaya, Cradle of Growth
+1 [EMA:156] Abundant Growth
+1 [CMA:235] Thought Vessel
+SB: 1 [MOM:137] Etali, Primal Conqueror
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([ELD:331],[RAV:257],[OTC:161],[WWK:123],[9ED:297],[CLU:223],[TMP:294],[5ED:388],[10E:335],[KLD:226],[SUM:274],[LTC:354],[MRD:254],[LTR:001],[CMA:235])([MOM:190])([JMP:28],[M13:160],[M12:165],[LTR:158],[AFR:138],[C21:165],[M15:173],[ALL:89],[RIX:100],[EMN:7],[5DN:86],[ICE:244],[J21:693],[7ED:191],[MH2:281],[M19:314],[AKH:175],[OTC:199],[ICE:210],[USG:270],[MUL:151],[C21:382],[PLC:122],[AVR:194],[DOM:146],[FRF:141],[ICE:270],[PZ2:65779])([MH2:259])([VIS:102],[MMQ:246],[7ED:282],[EMA:156])([NPH:103],[OTC:160],[M15:172],[CMM:214],[CHK:163],[OTP:29],[CLU:141],[9ED:216],[M20:193],[6ED:269])([TMP:315],[NEO:266],[BFZ:235],[8ED:322],[ELD:333],[ONE:249],[6ED:322],[AFR:254],[CON:142],[OTJ:276],[OTJ:276],[OTJ:276],[OTJ:276],[OTJ:276],[OTJ:276],[OTJ:276],[OTJ:276],[TSP:274],[TSB:119],[FUT:176],[DMU:250],[BLB:274],[BLB:274],[BLB:274],[BLB:274],[MID:266],[CLB:361],[CLU:281],[LTC:377])([EMN:155],[WAR:160],[USG:188],[MBS:81],[LRW:175],[MKC:156],[5ED:316],[CSP:96],[OTC:209],[MRD:134],[JOU:115])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MOM:137])

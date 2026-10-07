@@ -1,0 +1,71 @@
+NAME:Liliana Zombie Tribal
+1 [ISD:87] Army of the Damned
+1 [DOM:238] Cabal Stronghold
+1 [M12:85] Call to the Grave
+1 [M12:86] Cemetery Reaper
+1 [EMN:83] Cemetery Recruitment
+1 [M10:207] Coat of Arms
+1 [WAR:82] Command the Dreadhorde
+1 [LGN:62] Corpse Harvester
+1 [BRO:382] Corrupt
+1 [ZEN:212] Crypt of Agadeem
+1 [EMN:87] Dark Salvation
+1 [M14:207] Darksteel Ingot
+1 [M19:90] Death Baron
+1 [SOI:107] Diregraf Colossus
+1 [M19:92] Diregraf Ghoul
+1 [AKH:88] Dread Wanderer
+1 [WAR:86] Dreadhorde Invasion
+1 [M15:94] Endless Obedience
+1 [ISD:99] Endless Ranks of the Dead
+1 [PZ2:70743] Entreat the Dead
+1 [SOI:111] From Under the Floorboards
+1 [EMN:203] Geier Reach Sanitarium
+1 [SOM:64] Geth, Lord of the Vault
+1 [WAR:92] God-Eternal Bontu
+1 [DKA:64] Gravecrawler
+1 [THB:355] Gray Merchant of Asphodel
+1 [M14:100] Grim Return
+1 [ISD:226] Grimoire of the Dead
+1 [RAV:88] Helldozer
+1 [M3C:296] Herald's Horn
+1 [TMP:292] Jet Medallion
+1 [DOM:95] Josu Vess, Lich Knight
+1 [M14:102] Liliana of the Dark Realms
+1 [M15:103] Liliana Vess
+1 [AKH:97] Liliana, Death's Majesty
+1 [WAR:97*] Liliana, Dreadhorde General
+1 [EMN:93] Liliana, the Last Hope
+1 [M19:106] Liliana, Untouched by Death
+1 [EMN:94] Liliana's Elite
+1 [SOI:120] Liliana's Indignation
+1 [AKH:98] Liliana's Mastery
+1 [M14:103] Liliana's Reaver
+1 [WAR:98] Liliana's Triumph
+1 [AKH:99] Lord of the Accursed
+1 [10E:155] Lord of the Undead
+1 [M15:107] Necromancer's Assistant
+1 [AKH:212] Never // Return
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [EMN:99] Oath of Liliana
+1 [M19:112] Open the Graves
+1 [M19:113] Phylactery Lich
+1 [AKH:104] Plague Belcher
+1 [DGM:27] Pontiff of Blight
+1 [STX:276] Professor Onyx
+1 [C14:29] Raving Dead
+1 [SOI:131] Relentless Dead
+1 [DTK:116] Risen Executioner
+1 [SCD:104] Scourge of Nel Toth
+1 [SUM:274] Sol Ring
+1 [ONS:171] Soulless One
+33 [FDN:277] Swamp
+1 [ORI:120] Tainted Remedy
+1 [ISD:121] Unbreathing Horde
+1 [TSB:52] Undead Warchief
+1 [M12:116] Vengeful Pharaoh
+1 [DKA:80] Zombie Apocalypse
+1 [TOR:89] Zombie Trailblazer
+SB: 1 [ORI:106] Liliana, Heretical Healer
+LAYOUT MAIN:(1,1)(NONE,false,50)|([ISD:87],[DOM:238],[M12:85],[M12:86],[EMN:83],[M10:207],[WAR:82],[LGN:62],[BRO:382],[ZEN:212],[EMN:87],[M14:207],[M19:90],[SOI:107],[M19:92],[AKH:88],[WAR:86],[M15:94],[ISD:99],[PZ2:70743],[SOI:111],[EMN:203],[SOM:64],[WAR:92],[DKA:64],[THB:355],[M14:100],[ISD:226],[RAV:88],[M3C:296],[TMP:292],[DOM:95],[M14:102],[M15:103],[AKH:97],[WAR:97*],[EMN:93],[M19:106],[EMN:94],[SOI:120],[AKH:98],[M14:103],[WAR:98],[AKH:99],[10E:155],[M15:107],[AKH:212],[THS:223],[EMN:99],[M19:112],[M19:113],[AKH:104],[DGM:27],[STX:276],[C14:29],[SOI:131],[DTK:116],[SCD:104],[SUM:274],[ONS:171],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[ORI:120],[ISD:121],[TSB:52],[M12:116],[DKA:80],[TOR:89])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ORI:106])

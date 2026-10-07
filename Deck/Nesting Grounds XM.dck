@@ -1,0 +1,102 @@
+1 [ELD:333] Command Tower
+1 [SHM:278*] Reflecting Pool
+1 [JOU:163] Mana Confluence
+1 [8ED:322] City of Brass
+1 [EOE:251] Breeding Pool
+1 [EOE:261] Watery Grave
+1 [ECL:266] Overgrown Tomb
+1 [IKO:259] Zagoth Triome
+1 [ZEN:220] Misty Rainforest
+1 [KTK:239] Polluted Delta
+1 [ZEN:229] Verdant Catacombs
+1 [MB2:114] Urza's Saga
+1 [DMU:261] Yavimaya Coast
+1 [BRO:267] Underground River
+1 [BRO:264] Llanowar Wastes
+1 [CMM:424] Rejuvenating Springs
+1 [CLB:357] Morphic Pool
+1 [CMM:435] Undergrowth Stadium
+1 [DOM:240] Hinterland Harbor
+1 [XLN:253] Drowned Catacomb
+1 [NEO:266] Boseiju, Who Endures
+1 [NEO:271] Otawara, Soaring City
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [EOS:31] Nesting Grounds
+1 [WAR:248] Karn's Bastion
+1 [M19:254] Reliquary Tower
+1 [TMP:315] Ancient Tomb
+1 [M3C:409] Yavimaya, Cradle of Growth
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [TLA:286] Forest
+1 [TLA:283] Island
+1 [TLA:284] Swamp
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [GRN:233] Chromatic Lantern
+1 [FUT:161] Coalition Relic
+1 [EOC:135] Empowered Autogenerator
+1 [BNG:157] Astral Cornucopia
+1 [WWK:123] Everflowing Chalice
+1 [MRD:150] Chalice of the Void
+1 [FDN:216] Doubling Season
+1 [ISD:199] Parallel Lives
+1 [WOT:59] Primal Vigor
+1 [MKC:198] Adrix and Nev, Twincasters
+1 [KHM:199] Vorinclex, Monstrous Raider
+1 [MH3:285] Branching Evolution
+1 [RTR:152] Corpsejack Menace
+1 [KTK:133] Hardened Scales
+1 [MOM:196] Kami of Whispered Hopes
+1 [IKO:237] The Ozolith
+1 [SLD:1331] Unbound Flourishing
+1 [LCI:258] Roaming Throne
+1 [DOM:217] Helm of the Host
+1 [CLB:615] Endless Evil
+1 [NEO:250] Mirror Box
+1 [CMR:561] Sakashima of a Thousand Faces
+1 [WAR:68] Spark Double
+1 [FDN:711] Rite of Replication
+1 [ONE:302] Tekuthal, Inquiry Dominus
+1 [SOM:145] Contagion Engine
+1 [ONE:242] Staff of Compleation
+1 [WAR:159] Evolution Sage
+1 [JOU:128] Hydra Broodmaster
+1 [CLU:195] Hydroid Krasis
+1 [M20:200] Voracious Hydra
+1 [M15:176] Genesis Hydra
+1 [ELD:235] Stonecoil Serpent
+1 [AER:181] Walking Ballista
+1 [FDN:173] Exsanguinate
+1 [HOU:77] Torment of Hailfire
+1 [KTK:211] Villainous Wealth
+1 [MBS:20] Blue Sun's Zenith
+1 [LTR:001] The One Ring
+1 [M14:209] Elixir of Immortality
+1 [KTK:85] Retribution of the Ancients
+1 [SOM:173] Lux Cannon
+1 [MKM:187] Assassin's Trophy
+1 [RTR:35] Cyclonic Rift
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [2X2:354] Imperial Seal
+1 [M21:103] Grim Tutor
+1 [BRO:324] Diabolic Intent
+1 [FDN:617] Wishclaw Talisman
+1 [6ED:269] Worldly Tutor
+1 [MBS:81] Green Sun's Zenith
+1 [WAR:160] Finale of Devastation
+1 [M15:172] Chord of Calling
+1 [7ED:67] Counterspell
+1 [LEG:65] Mana Drain
+1 [THS:65] Swan Song
+1 [ALL:22a] Arcane Denial
+1 [FDN:160] An Offer You Can't Refuse
+1 [FUT:42] Pact of Negation
+1 [ALL:28] Force of Will
+1 [TLE:13] Force of Negation
+1 [CMM:94] Fierce Guardianship
+1 [M21:188] Heroic Intervention
+1 [MOM:198] Ozolith, the Shattered Spire
+SB: 1 [DMC:176] Zaxara, the Exemplary
+LAYOUT MAIN:(1,7)(CMC,false,50)|([ELD:333],[SHM:278*],[JOU:163],[8ED:322],[EOE:251],[EOE:261],[ECL:266],[IKO:259],[ZEN:220],[KTK:239],[ZEN:229],[MB2:114],[DMU:261],[BRO:267],[BRO:264],[CMM:424],[CLB:357],[CMM:435],[DOM:240],[XLN:253],[NEO:266],[NEO:271],[NEO:278],[EOS:31],[WAR:248],[M19:254],[TMP:315],[M3C:409],[M15:248],[TLA:286],[TLA:283],[TLA:284],[BNG:157],[WWK:123],[MRD:150],[ELD:235],[AER:181],[FUT:42])([SUM:274],[KTK:133],[IKO:237],[M14:209],[KTK:85],[6ED:161],[2X2:354],[6ED:269],[MBS:81],[THS:65],[FDN:160])([ELD:331],[CLU:195],[M20:200],[M15:176],[FDN:173],[HOU:77],[MKM:187],[RTR:35],[SUM:105],[BRO:324],[FDN:617],[WAR:160],[7ED:67],[LEG:65],[ALL:22a],[M21:188],[MOM:198])([GRN:233],[FUT:161],[MH3:285],[MOM:196],[SLD:1331],[CLB:615],[NEO:250],[ONE:242],[WAR:159],[KTK:211],[MBS:20],[M21:103],[M15:172],[TLE:13],[CMM:94])([EOC:135],[ISD:199],[MKC:198],[RTR:152],[LCI:258],[DOM:217],[CMR:561],[WAR:68],[FDN:711],[ONE:302],[LTR:001],[SOM:173])([FDN:216],[WOT:59],[ALL:28])([KHM:199],[SOM:145],[JOU:128])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DMC:176])

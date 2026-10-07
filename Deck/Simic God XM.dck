@@ -1,0 +1,100 @@
+1 [TMP:315] Ancient Tomb
+1 [AVR:225] Alchemist's Refuge
+1 [KHM:251] Barkchannel Pathway
+1 [NEO:266] Boseiju, Who Endures
+1 [OTJ:267] Botanical Sanctum
+1 [EOE:251] Breeding Pool
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [VOW:262] Dreamroot Cascade
+1 [EVE:177] Flooded Grove
+1 [KTK:233] Flooded Strand
+3 [TLA:286] Forest
+1 [MKM:262] Hedge Maze
+1 [DOM:240] Hinterland Harbor
+1 [TLA:283] Island
+1 [JOU:163] Mana Confluence
+1 [ZEN:220] Misty Rainforest
+1 [ELD:247] Mystic Sanctuary
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [NEO:271] Otawara, Soaring City
+1 [KTK:239] Polluted Delta
+1 [SPG:38] Prismatic Vista
+1 [SHM:278*] Reflecting Pool
+1 [CMM:424] Rejuvenating Springs
+1 [ZEN:223] Scalding Tarn
+1 [SUM:288] Tropical Island
+1 [ACR:116] Waterlogged Grove
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [DMU:261] Yavimaya Coast
+1 [M3C:409] Yavimaya, Cradle of Growth
+1 [SUM:274] Sol Ring
+1 [5ED:388] Mana Vault
+1 [ELD:331] Arcane Signet
+1 [CLU:228] Simic Signet
+1 [DRC:140] Talisman of Curiosity
+1 [SUM:235] Basalt Monolith
+1 [ULG:126] Grim Monolith
+1 [M14:209] Elixir of Immortality
+1 [MRD:188] Isochron Scepter
+1 [ULG:123] Crawlspace
+1 [5DN:150] Silent Arbiter
+1 [LCI:249] Chimil, the Inner Sun
+1 [LTR:001] The One Ring
+1 [ATQ:11] Power Artifact
+1 [TMP:80] Propaganda
+1 [FDN:161] Omniscience
+1 [ZEN:42] Archmage Ascension
+1 [PCY:45] Rhystic Study
+1 [IKO:319] Shark Typhoon
+1 [5ED:329] Sylvan Library
+1 [ICE:87] Mystic Remora
+1 [5ED:316] Nature's Lore
+1 [FIC:315] Three Visits
+1 [ULG:98] Crop Rotation
+1 [KLD:44] Dramatic Reversal
+1 [GTC:34] Enter the Infinite
+1 [USG:96] Show and Tell
+1 [6ED:83] Mystical Tutor
+1 [CMM:110] Personal Tutor
+1 [SCG:38] Long-Term Plans
+1 [6ED:269] Worldly Tutor
+1 [M10:52] Fabricate
+1 [H1R:10] Tribute Mage
+1 [CMM:120] Spellseeker
+1 [RAV:46] Drift of Phantasms
+1 [WAR:160] Finale of Devastation
+1 [STX:54] Solve the Equation
+1 [8ED:91] Merchant Scroll
+1 [NPH:118] Noxious Revival
+1 [VOW:47] Alchemist's Retrieval
+1 [MMQ:61] Brainstorm
+1 [M12:73] Ponder
+1 [FDN:512] Opt
+1 [DKA:52] Thought Scour
+1 [ULG:32] Frantic Search
+1 [MBS:20] Blue Sun's Zenith
+1 [FDN:151] Aetherize
+1 [PLC:44] Pongify
+1 [OTJ:323] Three Steps Ahead
+1 [FUT:42] Pact of Negation
+1 [ALL:28] Force of Will
+1 [TLE:13] Force of Negation
+1 [CMM:94] Fierce Guardianship
+1 [LEG:65] Mana Drain
+1 [7ED:67] Counterspell
+1 [ALL:22a] Arcane Denial
+1 [THS:65] Swan Song
+1 [MB2:163] Flusterstorm
+1 [FDN:160] An Offer You Can't Refuse
+1 [ISD:61] Laboratory Maniac
+1 [OGW:3] Endbringer
+1 [WAR:232*] Kiora, Behemoth Beckoner
+1 [BFZ:213] Kiora, Master of the Depths
+1 [WAR:54*] Jace, Wielder of Mysteries
+1 [WWK:31] Jace, the Mind Sculptor
+1 [RTR:35] Cyclonic Rift
+SB: 1 [JOU:152] Kruphix, God of Horizons
+LAYOUT MAIN:(1,9)(CMC,false,50)|([TMP:315],[AVR:225],[KHM:251],[NEO:266],[OTJ:267],[EOE:251],[8ED:322],[ELD:333],[VOW:262],[EVE:177],[KTK:233],[TLA:286],[TLA:286],[TLA:286],[MKM:262],[DOM:240],[TLA:283],[JOU:163],[ZEN:220],[ELD:247],[THS:223],[NEO:271],[KTK:239],[SPG:38],[SHM:278*],[CMM:424],[ZEN:223],[SUM:288],[ACR:116],[KTK:248],[KTK:249],[DMU:261],[M3C:409],[FUT:42])([SUM:274],[5ED:388],[M14:209],[ICE:87],[ULG:98],[6ED:83],[CMM:110],[6ED:269],[NPH:118],[VOW:47],[MMQ:61],[M12:73],[FDN:512],[DKA:52],[PLC:44],[OTJ:323],[THS:65],[MB2:163],[FDN:160])([ELD:331],[CLU:228],[DRC:140],[ULG:126],[MRD:188],[ATQ:11],[5ED:329],[5ED:316],[FIC:315],[KLD:44],[WAR:160],[8ED:91],[LEG:65],[7ED:67],[ALL:22a],[RTR:35])([SUM:235],[ULG:123],[TMP:80],[ZEN:42],[PCY:45],[USG:96],[SCG:38],[M10:52],[H1R:10],[CMM:120],[RAV:46],[STX:54],[ULG:32],[MBS:20],[TLE:13],[CMM:94],[ISD:61],[WAR:232*])([5DN:150],[LTR:001],[FDN:151],[BFZ:213],[WAR:54*],[WWK:31])([ALL:28])([LCI:249],[IKO:319],[OGW:3])([FDN:161])([GTC:34])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([JOU:152])

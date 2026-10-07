@@ -1,0 +1,102 @@
+1 [M12:165] Birds of Paradise
+1 [RAV:161] Elves of Deep Shadow
+1 [LTR:158] Delighted Halfling
+1 [ECL:166] Bloom Tender
+1 [USG:270] Priest of Titania
+1 [NPH:159] Spellskite
+1 [MB2:27] Displacer Kitten
+1 [SOS:3] Sundering Archaic
+1 [10E:296] Seedborn Muse
+1 [FUT:136] Riftsweeper
+1 [CSP:61] Haakon, Stromgald Scourge
+1 [DKA:64] Gravecrawler
+1 [SCG:59] Carrion Feeder
+1 [M19:121] Stitcher's Supplier
+1 [RIX:81] Pitiless Plunderer
+1 [MH3:110] Warren Soultrader
+1 [PLC:145] Essence Warden
+1 [ALA:71] Deathgreeter
+1 [AVR:86] Blood Artist
+1 [THB:314] Gravebreaker Lamia
+1 [VOW:118] Headless Rider
+1 [ONE:305] Drivnod, Carnage Dominus
+1 [DOM:95] Josu Vess, Lich Knight
+1 [MKM:148] Aftermath Analyst
+1 [M15:198] Satyr Wayfinder
+1 [TMC:59] Sol Ring
+1 [5ED:388] Mana Vault
+1 [ULG:126] Grim Monolith
+1 [TMP:294] Lotus Petal
+1 [MIR:307] Lion's Eye Diamond
+1 [STH:138] Mox Diamond
+1 [MRD:152] Chrome Mox
+1 [TMC:57] Arcane Signet
+1 [CLU:221] Dimir Signet
+1 [CLU:222] Golgari Signet
+1 [CLU:228] Simic Signet
+1 [MRD:253] Talisman of Dominance
+1 [SOC:432] Talisman of Resilience
+1 [SOC:430] Talisman of Curiosity
+1 [KHM:240] Maskwood Nexus
+1 [MBS:117] Myr Turbine
+1 [INV:306] Phyrexian Altar
+1 [6ED:274] Ashnod's Altar
+1 [TMP:276] Altar of Dementia
+1 [SHM:267] Umbral Mantle
+1 [ISD:236] Witchbane Orb
+1 [FDN:258] Swiftfoot Boots
+1 [NEO:250] Mirror Box
+1 [M13:200] Akroma's Memorial
+1 [TSB:107] Claws of Gix
+1 [KTK:227] Ugin's Nexus
+1 [5DN:163] Vedalken Orrery
+1 [EXO:136] Null Brooch
+1 [NPH:148] Omen Machine
+1 [TLA:261] The Walls of Ba Sing Se
+1 [WAR:94] Kaya's Ghostform
+1 [USG:250] Exploration
+1 [VOW:362] Necroduality
+1 [FDN:216] Doubling Season
+1 [10E:144] Grave Pact
+1 [ULG:56] No Mercy
+1 [EXO:129] Survival of the Fittest
+1 [ISD:71] Rooftop Storm
+1 [ODY:132] Entomb
+1 [ODY:118] Buried Alive
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [2X2:354] Imperial Seal
+1 [BRO:324] Diabolic Intent
+1 [M21:103] Grim Tutor
+1 [TMP:70] Intuition
+1 [TMC:63] Command Tower
+1 [TMC:66] Exotic Orchard
+1 [TMC:62] City of Brass
+1 [JOU:163] Mana Confluence
+1 [SHM:278*] Reflecting Pool
+1 [CHK:276] Forbidden Orchard
+1 [EOE:261] Watery Grave
+1 [ECL:350b] Overgrown Tomb
+1 [EOE:251] Breeding Pool
+1 [IKO:259] Zagoth Triome
+1 [KTK:239] Polluted Delta
+1 [ZEN:229] Verdant Catacombs
+1 [ZEN:220] Misty Rainforest
+1 [SPG:38] Prismatic Vista
+1 [CLB:357] Morphic Pool
+1 [CMM:424] Rejuvenating Springs
+1 [TMC:80] Undergrowth Stadium
+1 [TMP:315] Ancient Tomb
+1 [TSP:274] Gemstone Caverns
+1 [USG:322] Phyrexian Tower
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [NEO:271] Otawara, Soaring City
+1 [NEO:266] Boseiju, Who Endures
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [M3C:409] Yavimaya, Cradle of Growth
+1 [SOS:271] Forest
+1 [SOS:269] Swamp
+1 [SOS:268] Island
+SB: 1 [FDN:243] Muldrotha, the Gravetide
+LAYOUT MAIN:(1,9)(CMC,false,50)|([TMP:294],[MIR:307],[STH:138],[MRD:152],[TSB:107],[TMC:63],[TMC:66],[TMC:62],[JOU:163],[SHM:278*],[CHK:276],[EOE:261],[ECL:350b],[EOE:251],[IKO:259],[KTK:239],[ZEN:229],[ZEN:220],[SPG:38],[CLB:357],[CMM:424],[TMC:80],[TMP:315],[TSP:274],[USG:322],[NEO:278],[NEO:271],[NEO:266],[M15:248],[M3C:409],[SOS:271],[SOS:269],[SOS:268])([M12:165],[RAV:161],[LTR:158],[DKA:64],[SCG:59],[M19:121],[PLC:145],[ALA:71],[TMC:59],[5ED:388],[WAR:94],[USG:250],[ODY:132],[6ED:161],[2X2:354])([ECL:166],[USG:270],[NPH:159],[FUT:136],[AVR:86],[MKM:148],[M15:198],[ULG:126],[TMC:57],[CLU:221],[CLU:222],[CLU:228],[MRD:253],[SOC:432],[SOC:430],[TMP:276],[FDN:258],[EXO:129],[SUM:105],[BRO:324])([CSP:61],[MH3:110],[VOW:118],[INV:306],[6ED:274],[SHM:267],[NEO:250],[ODY:118],[M21:103],[TMP:70])([MB2:27],[RIX:81],[DOM:95],[KHM:240],[ISD:236],[5DN:163],[EXO:136],[VOW:362],[10E:144],[ULG:56])([10E:296],[THB:314],[ONE:305],[MBS:117],[KTK:227],[FDN:216])([SOS:3],[NPH:148],[ISD:71])([M13:200])([TLA:261])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FDN:243])

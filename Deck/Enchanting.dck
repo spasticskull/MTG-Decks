@@ -1,0 +1,94 @@
+NAME:Enchanting
+1 [BBD:195] Doubling Season
+1 [VMA:311] Savannah
+1 [VMA:322] Tundra
+1 [VMA:321] Tropical Island
+1 [BLC:291] Adarkar Wastes
+1 [BLC:355] Yavimaya Coast
+1 [BRO:259] Brushland
+1 [DSK:330] Floodfarm Verge
+1 [DSK:332] Hushwood Verge
+1 [DFT:375] Willowrush Verge
+1 [SLD:123] Hallowed Fountain
+1 [SLD:132] Breeding Pool
+1 [SLD:127] Temple Garden
+1 [DOM:240] Hinterland Harbor
+1 [BLC:335] Sunpetal Grove
+1 [M13:225] Glacial Fortress
+1 [MH2:250] Misty Rainforest
+1 [MH3:235] Windswept Heath
+1 [MH3:220] Flooded Strand
+1 [TSP:270] Calciform Pools
+1 [CMA:268] Saltcrusted Steppe
+1 [USG:325] Serra's Sanctum
+1 [MH1:241] Hall of Heliod's Generosity
+1 [PRM:59655] Gaea's Cradle
+1 [PRM:36855] Land Tax
+1 [CMM:57] Smothering Tithe
+1 [DMR:159] Exploration
+1 [MIC:31] Avacyn's Memorial
+1 [AKH:2] Anointed Procession
+1 [C13:162] Primal Vigor
+1 [BLC:140] Hoofprints of the Stag
+1 [A25:23] Luminarch Ascension
+1 [VIS:129] Femeref Enchantress
+1 [EMA:158] Argothian Enchantress
+1 [EMA:19] Mesa Enchantress
+1 [EMA:194] Yavimaya Enchantress
+1 [SLD:1004] Verduran Enchantress
+1 [WOC:125] Enchantress's Presence
+1 [NEC:135] Arcanist's Owl
+1 [J22:796] Shambling Suit
+1 [C15:57] Ajani's Chosen
+1 [CMM:898] Herald of the Pantheon
+1 [IKO:11] Drannith Magistrate
+1 [NEO:213] Weaver of Harmony
+1 [C18:42] Kestia, the Cultivator
+1 [OTC:113] Shark Typhoon
+3 [HOU:186] Island
+4 [WOE:266] Forest
+5 [WOE:262] Plains
+1 [WOC:84] Arcane Denial
+1 [BFZ:76] Dispel
+1 [GN3:25] Counterspell
+1 [NEO:52] Essence Capture
+1 [DMU:49] Essence Scatter
+1 [CMR:80] Mana Drain
+1 [AFC:85] Imprisoned in the Moon
+1 [INR:13] Bound by Moonsilver
+1 [SNC:66] Witness Protection
+1 [FUT:159] Akroma's Memorial
+1 [PLC:44] Pongify
+1 [BBD:110] Swords to Plowshares
+1 [PRM:77949] Blackblade Reforged
+1 [CMM:943] The Chain Veil
+1 [SNC:240] Luxior, Giada's Gift
+1 [BNG:150] Kiora's Follower
+1 [SOK:38] Freed from the Real
+1 [M21:228] Chromatic Orrery
+1 [EVE:68] Helix Pinnacle
+1 [MH2:171] Sanctum Weaver
+1 [DSK:176] Enduring Vitality
+1 [MRD:20] Second Sunrise
+1 [WOC:149] Sol Ring
+1 [LCC:102] Wedding Ring
+1 [LTR:246] The One Ring
+1 [BFZ:167] From Beyond
+1 [MH3:61] Emrakul's Messenger
+1 [AFC:197] Arcane Signet
+1 [SLD:1338] Court of Grace
+1 [WOC:30] Court of Vantress
+1 [PWAR:221p] Teferi, Time Raveler
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [PEMN:190s] Tamiyo, Field Researcher
+1 [NEO:306] Tamiyo, Compleated Sage
+1 [J21:132] Serra the Benevolent
+1 [ONE:56] Ichormoon Gauntlet
+1 [ONE:23] Mondrak, Glory Dominus
+1 [ONE:71] Tekuthal, Inquiry Dominus
+1 [ONE:195] Zopandrel, Hunger Dominus
+1 [UMA:236] Ancient Tomb
+1 [MH3:6] Emrakul, the World Anew
+SB: 1 [C18:40] Estrid, the Masked
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([NEC:135],[J22:796])([MIC:31],[FUT:159],[PRM:77949],[CMM:943],[SNC:240],[M21:228],[WOC:149],[LCC:102],[LTR:246],[AFC:197],[ONE:56])([VIS:129],[EMA:158],[EMA:19],[EMA:194],[SLD:1004],[C15:57],[CMM:898],[IKO:11],[BNG:150],[MH3:61],[ONE:23],[ONE:71],[ONE:195],[MH3:6])([NEO:213],[C18:42],[MH2:171],[DSK:176])([BBD:195],[PRM:36855],[CMM:57],[DMR:159],[AKH:2],[C13:162],[A25:23],[WOC:125],[OTC:113],[AFC:85],[INR:13],[SNC:66],[SOK:38],[EVE:68],[BFZ:167],[SLD:1338],[WOC:30])([WOC:84],[BFZ:76],[GN3:25],[NEO:52],[DMU:49],[CMR:80],[PLC:44],[BBD:110],[MRD:20])([BLC:140])([VMA:311],[VMA:322],[VMA:321],[BLC:291],[BLC:355],[BRO:259],[DSK:330],[DSK:332],[DFT:375],[SLD:123],[SLD:132],[SLD:127],[DOM:240],[BLC:335],[M13:225],[MH2:250],[MH3:235],[MH3:220],[TSP:270],[CMA:268],[USG:325],[MH1:241],[PRM:59655],[HOU:186],[HOU:186],[HOU:186],[WOE:266],[WOE:266],[WOE:266],[WOE:266],[WOE:262],[WOE:262],[WOE:262],[WOE:262],[WOE:262],[UMA:236])([PWAR:221p],[DOM:207],[PEMN:190s],[NEO:306],[J21:132])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C18:40])

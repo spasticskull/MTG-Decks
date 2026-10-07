@@ -1,0 +1,92 @@
+1 [7ED:191] Goblin Matron
+1 [ORI:151] Goblin Piledriver
+1 [DOM:130] Goblin Warchief
+1 [CHK:175] Kiki-Jiki, Mirror Breaker
+1 [10E:219] Mogg Fanatic
+1 [THS:135] Purphoros, God of the Forge
+1 [DOM:144] Skirk Prospector
+1 [M21:139] Conspicuous Snoop
+1 [ONS:207] Goblin Sharpshooter
+1 [10E:207*] Goblin King
+1 [M20:143] Goblin Ringleader
+1 [ULG:80] Goblin Welder
+1 [PZ2:65779] Treasonous Ogre
+1 [FEM:54a] Goblin Chirurgeon
+1 [GTC:97] Legion Loyalist
+1 [AER:164] Metallic Mimic
+1 [M12:138] Goblin Chieftain
+1 [6ED:186] Goblin Recruiter
+1 [J21:458] Goblin Engineer
+1 [MH2:281] Imperial Recruiter
+1 [J22:575] Muxus, Goblin Grandee
+1 [PLC:122] Simian Spirit Guide
+1 [MUL:151] Ragavan, Nimble Pilferer
+1 [NEO:145] Goro-Goro, Disciple of Ryusei
+1 [DMU:142] Rundvelt Hordemaster
+1 [M3C:61] Siege-Gang Lieutenant
+1 [6ED:274] Ashnod's Altar
+1 [MRD:199] Lightning Greaves
+1 [TMP:294] Lotus Petal
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [SHM:267] Umbral Mantle
+1 [5ED:388] Mana Vault
+1 [INV:306] Phyrexian Altar
+1 [5DN:156] Staff of Domination
+1 [LRW:263] Thousand-Year Elixir
+1 [MRD:152] Chrome Mox
+1 [STH:138] Mox Diamond
+1 [SOM:179] Mox Opal
+1 [DIS:162] Magewright's Stone
+1 [TMP:276] Altar of Dementia
+1 [ULG:126] Grim Monolith
+1 [LRW:259] Rings of Brighthearth
+1 [RAV:257] Cloudstone Curio
+1 [MOR:145] Thornbite Staff
+1 [LTR:001] The One Ring
+1 [LTR:250] Sting, the Glinting Dagger
+1 [MH3:213] Winter Moon
+1 [CLU:141] Lightning Bolt
+1 [4ED:218] Red Elemental Blast
+1 [SUM:153] Fork
+1 [5ED:262] Pyroblast
+1 [9ED:216] Seething Song
+1 [CMM:214] Deflecting Swat
+1 [ONS:191] Brightstone Ritual
+1 [AVR:128] Battle Hymn
+1 [KHM:153] Tibalt's Trickery
+1 [MH3:119] Flare of Duplication
+1 [SUM:185] Wheel of Fortune
+1 [USG:188] Gamble
+1 [MKC:156] Jeska's Will
+1 [TMP:179] Goblin Bombardment
+1 [FDN:717] Impact Tremors
+1 [9ED:176] Blood Moon
+1 [ONS:218] Mana Echoes
+1 [MRD:99] Mass Hysteria
+1 [MB2:114] Urza's Saga
+1 [LTR:145] Rising of the Day
+11 [DFT:286] Mountain
+1 [MRD:282] Great Furnace
+1 [M12:224] Buried Ruin
+1 [EXO:143] City of Traitors
+1 [KTK:230] Bloodstained Mire
+1 [CHK:282] Shinka, the Bloodsoaked Keep
+1 [OTC:279] Command Beacon
+1 [6ED:322] Crystal Vein
+1 [LCI:410a] Cavern of Souls
+1 [TMP:315] Ancient Tomb
+1 [KLD:247] Inventors' Fair
+1 [ZEN:211] Arid Mesa
+1 [ZEN:223] Scalding Tarn
+1 [KTK:249] Wooded Foothills
+1 [SPG:38] Prismatic Vista
+1 [TSP:274] Gemstone Caverns
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [MH3:215] Arena of Glory
+1 [CMM:653] Arcane Signet
+1 [SLD:1712] Coat of Arms
+1 [LCI:258] Roaming Throne
+SB: 1 [FDN:204] Krenko, Mob Boss
+LAYOUT MAIN:(1,11)(CARD_TYPE,false,50)|([AER:164],[LCI:258])([MRD:282])([TMP:276],[6ED:274],[MRD:152],[RAV:257],[ULG:126],[MRD:199],[TMP:294],[DIS:162],[5ED:388],[STH:138],[SOM:179],[INV:306],[LRW:259],[DST:140],[SUM:274],[5DN:156],[LTR:250],[LTR:001],[LRW:263],[SHM:267],[MH3:213],[CMM:653],[SLD:1712])([M21:139],[M12:138],[FEM:54a],[J21:458],[10E:207*],[7ED:191],[ORI:151],[6ED:186],[M20:143],[ONS:207],[DOM:130],[ULG:80],[NEO:145],[MH2:281],[CHK:175],[GTC:97],[10E:219],[J22:575],[MUL:151],[DMU:142],[M3C:61],[PLC:122],[DOM:144],[PZ2:65779])([THS:135])([MB2:114])([9ED:176],[TMP:179],[FDN:717],[ONS:218],[MRD:99],[LTR:145])([AVR:128],[ONS:191],[CMM:214],[MH3:119],[SUM:153],[CLU:141],[5ED:262],[4ED:218],[9ED:216],[KHM:153])([MOR:145])([TMP:315],[MH3:215],[ZEN:211],[KTK:230],[M12:224],[LCI:410a],[EXO:143],[OTC:279],[6ED:322],[TSP:274],[KLD:247],[DFT:286],[DFT:286],[DFT:286],[DFT:286],[DFT:286],[DFT:286],[DFT:286],[DFT:286],[DFT:286],[DFT:286],[DFT:286],[THS:223],[SPG:38],[ZEN:223],[CHK:282],[KTK:249])([USG:188],[MKC:156],[SUM:185])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FDN:204])

@@ -1,0 +1,98 @@
+1 [CSP:61] Haakon, Stromgald Scourge
+1 [M20:105] Knight of the Ebon Legion
+1 [ELD:286] Foulmire Knight
+1 [J21:759] Universal Automaton
+1 [OTC:128] Changeling Outcast
+1 [DKA:64] Gravecrawler
+1 [SCG:59] Carrion Feeder
+1 [SOC:118] Ophiomancer
+1 [MID:108] Jadar, Ghoulcaller of Nephalia
+1 [RIX:81] Pitiless Plunderer
+1 [WAR:204] Mayhem Devil
+1 [AVR:86] Blood Artist
+1 [ELD:107] Syr Konrad, the Grim
+1 [FCA:11] Yawgmoth, Thran Physician
+1 [CLB:292] Raphael, Fiendish Savior
+1 [MKC:132] Overseer of the Damned
+1 [HOU:73] Razaketh, the Foulblooded
+1 [FDN:184] Rune-Scarred Demon
+1 [MOM:110] Hoarding Broodlord
+1 [KHM:349] Burning-Rune Demon
+1 [FRF:62] Archfiend of Depravity
+1 [M20:122] Vilis, Broker of Blood
+1 [ROE:7] It That Betrays
+1 [WWK:53] Butcher of Malakir
+1 [INV:306] Phyrexian Altar
+1 [6ED:274] Ashnod's Altar
+1 [ZEN:199] Eldrazi Monument
+1 [AFR:124] Vorpal Sword
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [DIS:165] Rakdos Signet
+1 [MRD:255] Talisman of Indulgence
+1 [5ED:388] Mana Vault
+1 [ULG:126] Grim Monolith
+1 [SOM:179] Mox Opal
+1 [FDN:617] Wishclaw Talisman
+1 [DST:140] Skullclamp
+1 [THB:236] Shadowspear
+1 [10E:144] Grave Pact
+1 [JOU:65] Dictate of Erebos
+1 [RTR:67] Grave Betrayal
+1 [ULG:56] No Mercy
+1 [FDN:717] Impact Tremors
+1 [M19:107] Liliana's Contract
+1 [MSC:155] Black Market Connections
+1 [M12:120] Zombie Infestation
+1 [TMP:179] Goblin Bombardment
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [2X2:354] Imperial Seal
+1 [BRO:324] Diabolic Intent
+1 [USG:188] Gamble
+1 [ODY:132] Entomb
+1 [ODY:118] Buried Alive
+1 [DOM:93] Final Parting
+1 [MBC:72] Chaos Warp
+1 [TLE:311] Deflecting Swat
+1 [TLE:309] Deadly Rollick
+1 [FDN:712] Feed the Swarm
+1 [OGW:12] Warping Wail
+1 [MSC:161] Toxic Deluge
+1 [TMP:151] Reanimate
+1 [TMP:142] Living Death
+1 [LCI:91] Bitter Triumph
+1 [TMP:315] Ancient Tomb
+1 [SUM:282] Badlands
+1 [TRK:278] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [ELD:333] Command Tower
+1 [MSC:252] Luxury Suite
+1 [MID:263] Haunted Ridge
+1 [ONE:248] Blackcleave Cliffs
+1 [DMU:256] Sulfurous Springs
+1 [SHM:272] Graven Cairns
+1 [TOR:142] Tainted Peak
+1 [BFZ:247] Smoldering Marsh
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [CON:142] Exotic Orchard
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [TOR:139] Cabal Coffers
+1 [USG:322] Phyrexian Tower
+1 [MMQ:320] High Market
+1 [M20:247] Field of the Dead
+1 [SOI:281] Westvale Abbey
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [ZEN:229] Verdant Catacombs
+1 [ZEN:219] Marsh Flats
+1 [KTK:239] Polluted Delta
+1 [ZNR:111] Malakir Rebirth
+1 [ZNR:336] Agadeem's Awakening
+4 [TRK:321] Swamp
+2 [TRK:323] Mountain
+1 [BLC:279] Maskwood Nexus
+SB: 1 [MKM:320z] Rakdos, Patron of Chaos
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([J21:759])([INV:306],[6ED:274],[ZEN:199],[AFR:124],[SUM:274],[ELD:331],[DIS:165],[MRD:255],[5ED:388],[ULG:126],[SOM:179],[FDN:617],[DST:140],[THB:236],[BLC:279])([CSP:61],[M20:105],[ELD:286],[OTC:128],[DKA:64],[SCG:59],[SOC:118],[MID:108],[RIX:81],[WAR:204],[AVR:86],[ELD:107],[FCA:11],[CLB:292],[MKC:132],[HOU:73],[FDN:184],[MOM:110],[KHM:349],[FRF:62],[M20:122],[ROE:7],[WWK:53])([10E:144],[JOU:65],[RTR:67],[ULG:56],[FDN:717],[M19:107],[MSC:155],[M12:120],[TMP:179])([6ED:161],[ODY:132],[MBC:72],[TLE:311],[TLE:309],[OGW:12],[LCI:91],[ZNR:111])([TMP:315],[SUM:282],[TRK:278],[KTK:230],[ELD:333],[MSC:252],[MID:263],[ONE:248],[DMU:256],[SHM:272],[TOR:142],[BFZ:247],[8ED:322],[JOU:163],[CON:142],[M15:248],[TOR:139],[USG:322],[MMQ:320],[M20:247],[SOI:281],[NEO:278],[NEO:276],[ZEN:229],[ZEN:219],[KTK:239],[TRK:321],[TRK:321],[TRK:321],[TRK:321],[TRK:323],[TRK:323])([SUM:105],[2X2:354],[BRO:324],[USG:188],[ODY:118],[DOM:93],[FDN:712],[MSC:161],[TMP:151],[TMP:142],[ZNR:336])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MKM:320z])

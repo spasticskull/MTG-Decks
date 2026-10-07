@@ -1,0 +1,99 @@
+NAME:Eldrazi
+1 [WTH:166] Scorched Ruins
+1 [M19:254] Reliquary Tower
+1 [BFZ:242] Sanctum of Ugin
+1 [WWK:136] Eye of Ugin
+1 [LCI:410a] Cavern of Souls
+1 [M12:224] Buried Ruin
+1 [TMP:315] Ancient Tomb
+1 [ODY:320] Deserted Temple
+1 [MH2:259] Urza's Saga
+1 [ATQ:81] Mishra's Workshop
+1 [SPG:38] Prismatic Vista
+1 [ROE:227] Eldrazi Temple
+1 [M21:246] Fabled Passage
+1 [DRK:117] Maze of Ith
+1 [KLD:247] Inventors' Fair
+5 [OGW:183a] Wastes
+1 [WWK:123] Everflowing Chalice
+1 [CHK:268] Sensei's Divining Top
+1 [LCC:304] Herald's Horn
+1 [NEM:127] Belbe's Portal
+1 [CMM:743] Darksteel Monolith
+1 [M20:233] Mystic Forge
+1 [LTR:001] The One Ring
+1 [ZNR:244] Forsaken Monument
+1 [UDS:139] Thran Dynamo
+1 [ROE:1] All Is Dust
+1 [MKC:53] Ugin's Mastery
+1 [10E:335] Mind Stone
+1 [UDS:142] Urza's Incubator
+1 [FUT:160] Cloud Key
+1 [LCI:249] Chimil, the Inner Sun
+1 [5ED:388] Mana Vault
+1 [2ED:244] Forcefield
+1 [DOM:215] Gilded Lotus
+1 [9ED:297] Fellwar Stone
+1 [SOM:201] Semblance Anvil
+1 [SUM:274] Sol Ring
+1 [ULG:123] Crawlspace
+1 [BRC:145] Liquimetal Torque
+1 [SUM:235] Basalt Monolith
+1 [M12:214] Quicksilver Amulet
+1 [OGW:6] Matter Reshaper
+1 [ROE:13] Ulamog's Crusher
+1 [BFZ:4] Conduit of Ruin
+1 [BFZ:17] Void Winnower
+1 [UDS:135] Metalworker
+1 [CMM:704] Zhulodok, Void Gorger
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [EMN:6] Emrakul, the Promised End
+1 [AER:181] Walking Ballista
+1 [BRO:233] Cityscape Leveler
+1 [BFZ:1] Bane of Bala Ged
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [BFZ:3] Breaker of Armies
+1 [ROE:8] Not of This World
+1 [ROE:7] It That Betrays
+1 [OGW:1] Deceiver of Form
+1 [OGW:7] Reality Smasher
+1 [LCI:258] Roaming Throne
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [OGW:2] Eldrazi Mimic
+1 [TMP:296] Manakin
+1 [OGW:164] Hedron Crawler
+1 [MBS:99] Blightsteel Colossus
+1 [BFZ:11] Oblivion Sower
+1 [BFZ:7] Eldrazi Devastator
+1 [CMM:715] Flayer of Loyalties
+1 [STX:286] Wandering Archaic
+1 [OGW:3] Endbringer
+1 [ROE:2] Artisan of Kozilek
+1 [WAR:2*] Ugin, the Ineffable
+1 [M21:1] Ugin, the Spirit Dragon
+1 [PIP:1068] War Room
+1 [EXO:143] City of Traitors
+1 [6ED:322] Crystal Vein
+1 [M15:242] Darksteel Citadel
+1 [ISD:240] Ghost Quarter
+1 [BFZ:245] Shrine of the Forsaken Gods
+1 [4ED:363] Strip Mine
+1 [TMP:330] Wasteland
+1 [DOM:249] Zhalfirin Void
+1 [SOM:179] Mox Opal
+1 [ZEN:201] Expedition Map
+1 [BRO:258] Blast Zone
+1 [IKO:245] Bonders' Enclave
+1 [OTC:279] Command Beacon
+1 [TSP:280] Urza's Factory
+1 [9ED:327] Urza's Mine
+1 [9ED:329] Urza's Tower
+1 [BRC:28] Urza's Workshop
+1 [CMM:714] Desecrate Reality
+1 [DOM:217] Helm of the Host
+1 [C20:237] Arcane Signet
+1 [40K:259] Thought Vessel
+1 [CMM:716] Rise of the Eldrazi
+SB: 1 [OGW:4] Kozilek, the Great Distortion
+LAYOUT MAIN:(1,12)(CARD_TYPE,false,50)|([UDS:135],[AER:181],[BRO:233],[LCI:258],[TMP:296],[OGW:164],[MBS:99])([M15:242])([WWK:123],[CHK:268],[LCC:304],[NEM:127],[CMM:743],[M20:233],[LTR:001],[ZNR:244],[UDS:139],[10E:335],[UDS:142],[FUT:160],[LCI:249],[5ED:388],[2ED:244],[DOM:215],[9ED:297],[SOM:201],[SUM:274],[ULG:123],[BRC:145],[SUM:235],[M12:214],[SOM:179],[ZEN:201],[DOM:217],[C20:237],[40K:259])([OGW:6],[ROE:13],[BFZ:4],[BFZ:17],[CMM:704],[ROE:6],[EMN:6],[BFZ:1],[ROE:12],[BFZ:3],[ROE:7],[OGW:1],[OGW:7],[BFZ:15],[OGW:2],[BFZ:11],[BFZ:7],[CMM:715],[STX:286],[OGW:3],[ROE:2])([MH2:259])([MKC:53])([CMM:714])([WTH:166],[M19:254],[BFZ:242],[WWK:136],[LCI:410a],[M12:224],[TMP:315],[ODY:320],[ATQ:81],[SPG:38],[ROE:227],[M21:246],[DRK:117],[KLD:247],[OGW:183a],[OGW:183a],[OGW:183a],[OGW:183a],[OGW:183a],[PIP:1068],[EXO:143],[6ED:322],[ISD:240],[BFZ:245],[4ED:363],[TMP:330],[DOM:249],[BRO:258],[IKO:245],[OTC:279],[TSP:280],[9ED:327],[9ED:329],[BRC:28])([M21:1],[WAR:2*])([ROE:8])([ROE:1])([CMM:716])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([OGW:4])

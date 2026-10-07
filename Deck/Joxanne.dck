@@ -1,0 +1,89 @@
+NAME:Joxanne
+1 [ONS:185] Aggravated Assault
+1 [WWK:121] Amulet of Vigor
+1 [TMP:315] Ancient Tomb
+1 [MKM:186] Anzrag, the Quake-Mole
+1 [ELD:331] Arcane Signet
+1 [MH3:215] Arena of Glory
+1 [ROE:177] Bear Umbra
+1 [NPH:103] Beast Within
+1 [SNC:102] Big Score
+1 [CLB:301] Blade of Selves
+1 [ISD:130] Blasphemous Act
+1 [NEO:266] Boseiju, Who Endures
+1 [BFZ:235] Cinder Glade
+1 [BRO:233] Cityscape Leveler
+1 [ELD:333] Command Tower
+1 [AVR:214] Conjurer's Closet
+1 [ONE:249] Copperline Gorge
+1 [STX:308] Crackle with Power
+1 [ZNR:261] Cragcrown Pathway
+1 [CMM:214] Deflecting Swat
+1 [AFR:138] Delina, Wild Mage
+1 [MKM:122] Demand Answers
+1 [2X2:107] Dockside Extortionist
+1 [MOM:137] Etali, Primal Conqueror
+1 [5DN:86] Eternal Witness
+1 [MH3:152] Fanatic of Rhonas
+1 [M21:143] Fiery Emancipation
+1 [SHM:271] Fire-Lit Thicket
+1 [OTP:29] Force of Vigor
+8 [DSK:276] Forest
+1 [CSP:81] Fury of the Horde
+1 [USG:188] Gamble
+1 [M21:186] Garruk's Uprising
+1 [J21:693] Goblin Anarchomancer
+1 [KHM:139] Goldspan Dragon
+1 [M21:188] Heroic Intervention
+1 [MKC:156] Jeska's Will
+1 [CMM:1066] Jeweled Lotus
+1 [NCC:173] Jolene, the Plunder Queen
+1 [CLB:186] Karlach, Fury of Avernus
+1 [DMU:250] Karplusan Forest
+1 [ISD:243] Kessig Wolf Run
+1 [LTC:493] Legolas's Quick Reflexes
+1 [SPG:17a] Mana Crypt
+1 [AKH:175] Manglehorn
+8 [DSK:275] Mountain
+1 [WWK:108] Nature's Claim
+1 [5ED:316] Nature's Lore
+1 [CMM:308] Obscuring Haze
+1 [OTC:199] Ohran Frostfang
+1 [AFR:197] Old Gnawbone
+1 [KLD:226] Panharmonicon
+1 [ISD:199] Parallel Lives
+1 [LTR:181] Peregrin Took
+1 [SNC:116] Professional Face-Breaker
+1 [MUL:151] Ragavan, Nimble Pilferer
+1 [KLD:126] Reckless Fireweaver
+1 [4ED:218] Red Elemental Blast
+1 [RNA:201] Rhythm of the Wild
+1 [LCI:258] Roaming Throne
+1 [MID:266] Rockfall Vale
+1 [ORI:250] Rogue's Passage
+1 [XLN:256] Rootbound Crag
+1 [DST:67] Savage Beating
+1 [SUM:274] Sol Ring
+1 [CLB:361] Spire Garden
+1 [CLU:281] Stomping Ground
+1 [M12:219] Swiftfoot Boots
+1 [5ED:329] Sylvan Library
+1 [THB:347*] Temple of Abandon
+1 [LTR:001] The One Ring
+1 [OTC:209] Three Visits
+1 [ONE:151] Thrill of Possibility
+1 [BLC:243] Tireless Provisioner
+1 [KHM:197] Toski, Bearer of Secrets
+1 [AFR:261] Treasure Vault
+1 [AFR:164] Unexpected Windfall
+1 [MB2:114] Urza's Saga
+1 [RTR:111] Vandalblast
+1 [SOM:132] Viridian Revel
+1 [KTK:249] Wooded Foothills
+1 [ROE:172] World at War
+1 [6ED:269] Worldly Tutor
+1 [AFC:329] Wulfgar of Icewind Dale
+1 [BNG:156] Xenagos, God of Revels
+SB: 1 [OTJ:228] Roxanne, Starfall Savant
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([BRO:233],[LCI:258])([AFR:261])([WWK:121],[ELD:331],[CLB:301],[AVR:214],[CMM:1066],[SPG:17a],[KLD:226],[SUM:274],[M12:219],[LTR:001])([MKM:186],[AFR:138],[2X2:107],[MOM:137],[5DN:86],[MH3:152],[J21:693],[KHM:139],[NCC:173],[CLB:186],[AKH:175],[OTC:199],[AFR:197],[LTR:181],[SNC:116],[MUL:151],[KLD:126],[BLC:243],[KHM:197],[AFC:329])([BNG:156])([MB2:114])([ONS:185],[ROE:177],[M21:143],[M21:186],[ISD:199],[RNA:201],[5ED:329],[SOM:132])([NPH:103],[SNC:102],[CMM:214],[MKM:122],[OTP:29],[M21:188],[LTC:493],[WWK:108],[CMM:308],[4ED:218],[DST:67],[ONE:151],[AFR:164],[6ED:269])([TMP:315],[MH3:215],[NEO:266],[BFZ:235],[ELD:333],[ONE:249],[ZNR:261],[SHM:271],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DMU:250],[ISD:243],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[MID:266],[ORI:250],[XLN:256],[CLB:361],[CLU:281],[THB:347*],[KTK:249])([ISD:130],[STX:308],[CSP:81],[USG:188],[MKC:156],[5ED:316],[OTC:209],[RTR:111],[ROE:172])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([OTJ:228])

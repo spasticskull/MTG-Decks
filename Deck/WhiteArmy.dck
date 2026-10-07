@@ -1,0 +1,77 @@
+NAME:WhiteArmy
+1 [XLN:1] Adanto Vanguard
+1 [M3C:165] Akroma's Will
+1 [AVR:2] Angel of Jubilation
+1 [ZNR:315] Archon of Emeria
+1 [10E:6] Aura of Silence
+1 [AKH:5] Aven Mindcensor
+1 [MOR:1] Ballyrush Banneret
+1 [M21:280] Basri Ket
+1 [LTC:162] Bastion Protector
+1 [GTC:6] Blind Obedience
+1 [GRN:2] Bounty Agent
+1 [M14:10] Brave the Elements
+1 [BNG:5] Brimaz, King of Oreskos
+1 [BRO:4] Calamity's Wake
+1 [ONS:10] Catapult Master
+1 [ONS:11] Catapult Squad
+1 [MID:10] Cathar Commando
+1 [LCI:410a] Cavern of Souls
+1 [ORI:11] Consul's Lieutenant
+1 [M21:13] Containment Priest
+1 [DOM:213] Damping Sphere
+1 [ONS:315] Daru Encampment
+1 [DMU:16] Defiler of Faith
+1 [ODY:18] Devoted Caretaker
+1 [CHK:275] Eiganjo Castle
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [NPH:9] Elesh Norn, Grand Cenobite
+1 [THS:9] Elspeth, Sun's Champion
+1 [J21:75] Esper Sentinel
+1 [10E:15*] Field Marshal
+1 [CMM:24] Flawless Maneuver
+1 [MH1:10] Force of Virtue
+1 [WAR:13*] Gideon Blackblade
+1 [AKH:14] Gideon of the Trials
+1 [M12:18] Gideon's Lawkeeper
+1 [MB2:147] Giver of Runes
+1 [GRN:13] Haazda Marshal
+1 [MBS:8] Hero of Bladehold
+1 [4ED:34] Land Tax
+1 [ROE:33] Linvala, Keeper of Silence
+1 [DRK:117] Maze of Ith
+1 [AER:164] Metallic Mimic
+1 [LRW:31] Mirror Entity
+1 [ULG:14] Mother of Runes
+1 [M14:228] Mutavault
+1 [AFR:29] Paladin Class
+1 [CON:15] Path to Exile
+27 [FDN:273] Plains
+1 [RTR:17] Precinct Captain
+1 [M20:34] Raise the Alarm
+1 [KHM:20] Rally the Ranks
+1 [J21:115] Ranger-Captain of Eos
+1 [BRO:23] Recruitment Officer
+1 [DMU:29] Resolute Reinforcements
+1 [MMQ:44] Reverent Mantra
+1 [M20:35] Rule of Law
+1 [BRO:25] Siege Veteran
+1 [DST:140] Skullclamp
+1 [RIX:21] Skymarcher Aspirant
+1 [MKC:84] Smuggler's Share
+1 [SUM:274] Sol Ring
+1 [ICE:54] Swords to Plowshares
+1 [STA:11] Teferi's Protection
+1 [VOW:318] Thalia, Guardian of Thraben
+1 [EMN:46] Thalia, Heretic Cathar
+1 [AKH:237] Throne of the God-Pharaoh
+1 [XLN:42] Tocatli Honor Guard
+1 [DMU:38] Valiant Veteran
+1 [M10:39] Veteran Swordsmith
+1 [MIR:45] Vigilant Martyr
+1 [BRO:42] Yotian Frontliner
+1 [LCI:344] Roaming Throne
+1 [C17:208] Door of Destinies
+SB: 1 [BRO:18] Myrel, Shield of Argive
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([J21:75],[AER:164],[BRO:42],[LCI:344])([DOM:213],[DST:140],[SUM:274],[AKH:237],[C17:208])([XLN:1],[AVR:2],[ZNR:315],[AKH:5],[MOR:1],[LTC:162],[GRN:2],[BNG:5],[ONS:10],[ONS:11],[MID:10],[ORI:11],[M21:13],[DMU:16],[ODY:18],[NPH:9],[M12:18],[MB2:147],[GRN:13],[MBS:8],[ROE:33],[LRW:31],[ULG:14],[RTR:17],[J21:115],[BRO:23],[DMU:29],[BRO:25],[RIX:21],[VOW:318],[EMN:46],[XLN:42],[DMU:38],[M10:39],[MIR:45],[10E:15*])([10E:6],[GTC:6],[MH1:10],[4ED:34],[AFR:29],[KHM:20],[M20:35],[MKC:84])([M3C:165],[M14:10],[BRO:4],[CMM:24],[CON:15],[M20:34],[MMQ:44],[ICE:54],[STA:11])([LCI:410a],[ONS:315],[CHK:275],[NEO:268],[DRK:117],[M14:228],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273],[FDN:273])([M21:280],[THS:9],[AKH:14],[WAR:13*])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BRO:18])

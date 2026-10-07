@@ -1,0 +1,82 @@
+NAME:Asheya
+1 [ZNR:178] Ancient Greenwarden
+1 [M13:160] Arbor Elf
+1 [MKM:151] Archdruid's Charm
+1 [USG:233] Argothian Elder
+1 [MID:168] Augur of Autumn
+1 [WWK:96] Avenger of Zendikar
+1 [BRO:170] Awaken the Woods
+1 [M21:173] Azusa, Lost but Seeking
+1 [CLU:158] Beast Whisperer
+1 [NPH:103] Beast Within
+1 [DOM:211] Blackblade Reforged
+1 [NEO:266] Boseiju, Who Endures
+1 [OTJ:157] Bristly Bill, Spine Sower
+1 [MKM:155] Case of the Locked Hothouse
+1 [ELD:240] Castle Garenbrig
+1 [OTC:279] Command Beacon
+1 [ONE:163] Conduit of Worlds
+1 [BNG:119] Courser of Kruphix
+1 [ULG:98] Crop Rotation
+1 [M21:177] Cultivate
+1 [VOW:195] Cultivator Colossus
+1 [AFR:180] Druid Class
+1 [M12:171] Dungrove Elder
+1 [OGW:131] Embodiment of Insight
+1 [TMP:283] Emerald Medallion
+1 [LTR:163] Entish Restoration
+1 [5DN:86] Eternal Witness
+1 [USG:250] Exploration
+1 [BLB:252] Fabled Passage
+1 [WAR:160] Finale of Devastation
+22 [DSK:276] Forest
+1 [USG:321] Gaea's Cradle
+1 [M21:186] Garruk's Uprising
+1 [MBS:81] Green Sun's Zenith
+1 [DMC:27] Greensleeves, Maro-Sorcerer
+1 [ZEN:165] Harrow
+1 [M21:188] Heroic Intervention
+1 [CHK:225] Kodama's Reach
+1 [LTR:172] Last March of the Ents
+1 [PBBD:21s] Ley Weaver
+1 [M20:179] Leyline of Abundance
+1 [MRD:199] Lightning Greaves
+1 [ZNR:193] Lotus Cobra
+1 [BLB:183] Lumra, Bellow of the Woods
+1 [DOM:174] Multani, Yavimaya's Avatar
+1 [DSC:289] Myriad Landscape
+1 [5ED:316] Nature's Lore
+1 [ONE:175] Nissa, Ascended Animist
+1 [MAT:122] Nissa, Resurgent Animist
+1 [WAR:169*] Nissa, Who Shakes the World
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [BFZ:181] Oran-Rief Hydra
+1 [M14:190] Primeval Bounty
+1 [VIS:117] Quirion Ranger
+1 [ZEN:178] Rampaging Baloths
+1 [M19:196] Reclamation Sage
+1 [M19:254] Reliquary Tower
+1 [BFZ:186] Retreat to Kazandu
+1 [ZNR:203] Scute Swarm
+1 [10E:296] Seedborn Muse
+1 [SUM:274] Sol Ring
+1 [MH3:171] Springheart Nantuko
+1 [BRC:27] Staff of Titania
+1 [ELD:161] The Great Henge
+1 [OTC:209] Three Visits
+1 [LRW:238] Timber Protector
+1 [BLC:243] Tireless Provisioner
+1 [SOI:233] Tireless Tracker
+1 [DSC:202] Titania, Nature's Force
+1 [SOI:235] Ulvenwald Hydra
+1 [BFZ:197] Undergrowth Champion
+1 [TSP:281] Vesuva
+1 [WOE:197] Virtue of Strength
+1 [PIP:1068] War Room
+1 [RNA:149] Wilderness Reclamation
+1 [6ED:269] Worldly Tutor
+1 [M3C:409] Yavimaya, Cradle of Growth
+1 [ORI:209] Zendikar's Roil
+SB: 1 [ZNR:179] Ashaya, Soul of the Wild
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([DOM:211],[ONE:163],[TMP:283],[MRD:199],[SUM:274],[BRC:27],[ELD:161])([ZNR:178],[M13:160],[USG:233],[MID:168],[WWK:96],[M21:173],[CLU:158],[OTJ:157],[VOW:195],[M12:171],[OGW:131],[5DN:86],[DMC:27],[PBBD:21s],[ZNR:193],[BLB:183],[DOM:174],[MAT:122],[BFZ:181],[VIS:117],[ZEN:178],[M19:196],[ZNR:203],[10E:296],[LRW:238],[BLC:243],[SOI:233],[DSC:202],[SOI:235],[BFZ:197])([BNG:119],[MH3:171])([MKM:155],[AFR:180],[USG:250],[M21:186],[M20:179],[M14:190],[BFZ:186],[WOE:197],[RNA:149],[ORI:209])([MKM:151],[NPH:103],[ULG:98],[LTR:163],[ZEN:165],[M21:188],[6ED:269])([NEO:266],[ELD:240],[OTC:279],[BLB:252],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[DSK:276],[USG:321],[DSC:289],[THS:223],[M19:254],[TSP:281],[PIP:1068],[M3C:409])([ONE:175],[WAR:169*])([BRO:170],[M21:177],[WAR:160],[MBS:81],[CHK:225],[LTR:172],[5ED:316],[OTC:209])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ZNR:179])

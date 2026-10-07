@@ -1,0 +1,95 @@
+1 [NPH:111] Glistener Elf
+1 [SOM:112] Blight Mamba
+1 [SOM:166] Ichorclaw Myr
+1 [MBS:125] Plague Myr
+1 [SOM:185] Necropede
+1 [SOM:117] Cystbearer
+1 [MBS:90] Rot Wolf
+1 [SOM:128] Tangle Angler
+1 [SOM:126] Putrefax
+1 [ONE:192] Venerated Rotpriest
+1 [ONE:159] Bloated Contaminator
+1 [NEO:183] Fang of Shigeki
+1 [GTC:139] Wasteland Viper
+1 [AER:117] Narnam Renegade
+1 [EMN:159] Gnarlwood Dryad
+1 [NEO:198] Kappa Tech-Wrecker
+1 [M12:165] Birds of Paradise
+1 [FDN:227] Llanowar Elves
+1 [M15:173] Elvish Mystic
+1 [ICE:244] Fyndhorn Elves
+1 [LTR:158] Delighted Halfling
+1 [JUD:133] Sylvan Safekeeper
+1 [SUM:274] Sol Ring
+1 [ULG:126] Grim Monolith
+1 [DOM:224] Mox Amber
+1 [ELD:331] Arcane Signet
+1 [ECL:260] Springleaf Drum
+1 [7ED:282] Wild Growth
+1 [DIS:99] Utopia Sprawl
+1 [2ED:186] Berserk
+1 [MMQ:254] Invigorate
+1 [J21:631] Scale Up
+1 [TSP:204] Might of Old Krosa
+1 [WWK:104] Groundswell
+1 [MSH:167] Giant Growth
+1 [NPH:116] Mutagenic Growth
+1 [ZEN:193] Vines of Vastwood
+1 [ECL:167] Blossoming Defense
+1 [ONE:190] Tyvar's Stand
+1 [TDM:159] Snakeskin Veil
+1 [BRO:182] Gaea's Gift
+1 [NEO:211] Tamiyo's Safekeeping
+1 [LTC:493] Legolas's Quick Reflexes
+1 [M20:198] Veil of Summer
+1 [M12:164] Autumn's Veil
+1 [M13:185] Rancor
+1 [BRO:169] Audacity
+1 [KLD:160] Larger Than Life
+1 [6ED:269] Worldly Tutor
+1 [SPG:59] Sylvan Tutor
+1 [FUT:139] Summoner's Pact
+1 [WAR:160] Finale of Devastation
+1 [ULG:98] Crop Rotation
+1 [FDN:724] Expedition Map
+1 [NPH:123] Triumph of the Hordes
+1 [LEG:179] Concordant Crossroads
+1 [5ED:329] Sylvan Library
+1 [WWK:108] Nature's Claim
+1 [MAR:77] Force of Vigor
+8 [HOB:198] Forest
+1 [ZEN:220] Misty Rainforest
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [SPG:38] Prismatic Vista
+1 [MBS:145] Inkmoth Nexus
+1 [ONE:254] Mirrex
+1 [TSB:120] Pendelhaven
+1 [NEO:266] Boseiju, Who Endures
+1 [M3C:409] Yavimaya, Cradle of Growth
+1 [TMP:315] Ancient Tomb
+1 [EXO:143] City of Traitors
+1 [USG:321] Gaea's Cradle
+1 [THS:153] Bow of Nylea
+1 [SLD:1806] Dolmen Gate
+1 [DDE:23] Whispersilk Cloak
+1 [SLD:915] Silver Shroud Costume
+1 [DOM:231] Sorcerer's Wand
+1 [SLC:21] Urza's Saga
+1 [EOS:21] Inventors' Fair
+1 [MH3:234] Urza's Cave
+1 [3ED:263] Mana Vault
+1 [ONC:132] Grafted Exoskeleton
+1 [TMC:135] Commander's Plate
+1 [2X2:304] Darksteel Plate
+1 [AFC:217] Swiftfoot Boots
+1 [7ED:330] Forest
+1 [UMA:164] Fauna Shaman
+1 [ELD:322] Steelbane Hydra
+1 [J20:7] Birthing Pod
+1 [ROE:211] Tajuru Preserver
+1 [SLD:1872] Heroic Intervention
+SB: 1 [FDN:637] Fynn, the Fangbearer
+LAYOUT MAIN:(1,6)(CMC,false,50)|([DOM:224],[FUT:139],[HOB:198],[HOB:198],[HOB:198],[HOB:198],[HOB:198],[HOB:198],[HOB:198],[HOB:198],[ZEN:220],[ZEN:229],[KTK:248],[KTK:249],[SPG:38],[MBS:145],[ONE:254],[TSB:120],[NEO:266],[M3C:409],[TMP:315],[EXO:143],[USG:321],[SLC:21],[EOS:21],[MH3:234],[7ED:330])([NPH:111],[ONE:192],[NEO:183],[GTC:139],[AER:117],[EMN:159],[M12:165],[FDN:227],[M15:173],[ICE:244],[LTR:158],[JUD:133],[SUM:274],[ECL:260],[7ED:282],[DIS:99],[2ED:186],[J21:631],[TSP:204],[WWK:104],[MSH:167],[NPH:116],[ZEN:193],[ECL:167],[ONE:190],[TDM:159],[NEO:211],[LTC:493],[M20:198],[M12:164],[M13:185],[BRO:169],[6ED:269],[SPG:59],[ULG:98],[FDN:724],[LEG:179],[WWK:108],[DOM:231],[3ED:263],[TMC:135])([SOM:112],[SOM:166],[MBS:125],[SOM:185],[NEO:198],[ULG:126],[ELD:331],[BRO:182],[KLD:160],[WAR:160],[5ED:329],[SLD:1806],[SLD:915],[AFC:217],[UMA:164],[ELD:322],[ROE:211],[SLD:1872])([SOM:117],[MBS:90],[ONE:159],[MMQ:254],[THS:153],[DDE:23],[2X2:304])([SOM:128],[NPH:123],[MAR:77],[ONC:132],[J20:7])([SOM:126])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FDN:637])

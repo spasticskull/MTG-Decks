@@ -1,0 +1,89 @@
+1 [TMP:315] Ancient Tomb
+1 [EXO:143] City of Traitors
+1 [6ED:322] Crystal Vein
+1 [ATQ:81] Mishra's Workshop
+1 [MB2:114] Urza's Saga
+1 [KLD:247] Inventors' Fair
+1 [MRD:282] Great Furnace
+1 [LCI:410a] Cavern of Souls
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [CHK:282] Shinka, the Bloodsoaked Keep
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [AER:184] Spire of Industry
+1 [M12:224] Buried Ruin
+14 [HOB:197] Mountain
+1 [DOM:144] Skirk Prospector
+1 [FEM:54a] Goblin Chirurgeon
+1 [PLC:122] Simian Spirit Guide
+1 [M19:142] Goblin Instigator
+1 [TSP:170] Mogg War Marshal
+1 [M21:139] Conspicuous Snoop
+1 [DMU:142] Rundvelt Hordemaster
+1 [J21:458] Goblin Engineer
+1 [ULG:80] Goblin Welder
+1 [7ED:191] Goblin Matron
+1 [6ED:186] Goblin Recruiter
+1 [MH2:281] Imperial Recruiter
+1 [DOM:130] Goblin Warchief
+1 [M12:138] Goblin Chieftain
+1 [DMR:133] Pashalik Mons
+1 [M19:144] Goblin Trashmaster
+1 [J22:575] Muxus, Goblin Grandee
+1 [J25:557] Goblin Goliath
+1 [NPH:81] Chancellor of the Forge
+1 [CON:75] Voracious Dragon
+1 [SOS:3] Sundering Archaic
+1 [TMC:59] Sol Ring
+1 [TMC:57] Arcane Signet
+1 [5ED:388] Mana Vault
+1 [ULG:126] Grim Monolith
+1 [SUM:235] Basalt Monolith
+1 [MIR:307] Lion's Eye Diamond
+1 [TMP:294] Lotus Petal
+1 [MRD:152] Chrome Mox
+1 [STH:138] Mox Diamond
+1 [DOM:224] Mox Amber
+1 [SOM:179] Mox Opal
+1 [CHK:268] Sensei's Divining Top
+1 [DST:140] Skullclamp
+1 [6ED:274] Ashnod's Altar
+1 [INV:306] Phyrexian Altar
+1 [ZEN:198] Carnage Altar
+1 [SHM:267] Umbral Mantle
+1 [GPT:156] Sword of the Paruns
+1 [MOR:145] Thornbite Staff
+1 [LRW:263] Thousand-Year Elixir
+1 [DIS:162] Magewright's Stone
+1 [CLB:332] Patriar's Seal
+1 [NPH:164] Unwinding Clock
+1 [5DN:156] Staff of Domination
+1 [HOC:44] The One Ring
+1 [EXO:136] Null Brooch
+1 [M10:207] Coat of Arms
+1 [OGW:166] Stoneforge Masterwork
+1 [2ED:245] Gauntlet of Might
+1 [ZEN:199] Eldrazi Monument
+1 [M13:200] Akroma's Memorial
+1 [TSB:107] Claws of Gix
+1 [THB:236] Shadowspear
+1 [LTR:245] Mithril Coat
+1 [TMC:135] Commander's Plate
+1 [FDN:258] Swiftfoot Boots
+1 [MRD:199] Lightning Greaves
+1 [THS:124] Hammer of Purphoros
+1 [ONS:218] Mana Echoes
+1 [FDN:717] Impact Tremors
+1 [TMP:179] Goblin Bombardment
+1 [THS:135] Purphoros, God of the Forge
+1 [ONS:185] Aggravated Assault
+1 [ONC:15] Roar of Resistance
+1 [USG:188] Gamble
+1 [ONS:191] Brightstone Ritual
+1 [SOA:44] Jeska's Will
+1 [SCG:96] Goblin War Strike
+1 [TMC:47] Blasphemous Act
+1 [MSC:164] Chaos Warp
+1 [TLE:311] Deflecting Swat
+SB: 1 [FDN:204] Krenko, Mob Boss
+LAYOUT MAIN:(1,9)(CMC,false,50)|([TMP:315],[EXO:143],[6ED:322],[ATQ:81],[MB2:114],[KLD:247],[MRD:282],[LCI:410a],[THS:223],[CHK:282],[NEO:276],[AER:184],[M12:224],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[MIR:307],[TMP:294],[MRD:152],[STH:138],[DOM:224],[SOM:179],[TSB:107])([DOM:144],[FEM:54a],[ULG:80],[TMC:59],[5ED:388],[CHK:268],[DST:140],[OGW:166],[THB:236],[TMC:135],[USG:188],[ONS:191],[SCG:96])([M19:142],[TSP:170],[M21:139],[DMU:142],[J21:458],[6ED:186],[TMC:57],[ULG:126],[ZEN:198],[MOR:145],[DIS:162],[FDN:258],[MRD:199],[FDN:717],[TMP:179],[ONC:15])([PLC:122],[7ED:191],[MH2:281],[DOM:130],[M12:138],[DMR:133],[SUM:235],[6ED:274],[INV:306],[SHM:267],[LRW:263],[CLB:332],[5DN:156],[LTR:245],[THS:124],[ONS:185],[SOA:44],[MSC:164],[TLE:311])([M19:144],[GPT:156],[NPH:164],[HOC:44],[EXO:136],[2ED:245],[ONS:218],[THS:135])([CON:75],[M10:207],[ZEN:199])([J22:575],[J25:557],[SOS:3])([NPH:81],[M13:200])([TMC:47])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FDN:204])

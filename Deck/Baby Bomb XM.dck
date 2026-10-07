@@ -1,0 +1,102 @@
+1 [ELD:333] Command Tower
+1 [CON:142] Exotic Orchard
+1 [SHM:278*] Reflecting Pool
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [AKH:240] Cascading Cataracts
+1 [SNC:254] Raffine's Tower
+1 [SNC:257] Spara's Headquarters
+1 [SNC:261] Ziatora's Proving Ground
+1 [SNC:250] Jetmir's Garden
+1 [SNC:260] Xander's Lounge
+1 [IKO:248] Indatha Triome
+1 [IKO:250] Ketria Triome
+1 [IKO:251] Raugrin Triome
+1 [IKO:253] Savai Triome
+1 [IKO:259] Zagoth Triome
+1 [KTK:239] Polluted Delta
+1 [KTK:233] Flooded Strand
+1 [KTK:248] Windswept Heath
+1 [KTK:230] Bloodstained Mire
+1 [KTK:249] Wooded Foothills
+1 [ZEN:220] Misty Rainforest
+1 [ZEN:219] Marsh Flats
+1 [ZEN:223] Scalding Tarn
+1 [ZEN:229] Verdant Catacombs
+1 [SPG:38] Prismatic Vista
+1 [CSP:145] Dark Depths
+1 [GTC:248] Thespian's Stage
+1 [TSP:281] Vesuva
+1 [LCI:271] Echoing Deeps
+1 [FCA:64] Command Beacon
+1 [KLD:247] Inventors' Fair
+1 [MMQ:320] High Market
+1 [USG:322] Phyrexian Tower
+1 [SOK:163] Miren, the Moaning Well
+1 [NEO:266] Boseiju, Who Endures
+1 [UDS:1] Academy Rector
+1 [5DN:86] Eternal Witness
+1 [BNG:150] Kiora's Follower
+1 [ONS:64] Aphetto Alchemist
+1 [ALA:44] Filigree Sages
+1 [WWK:20] Stoneforge Mystic
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [GRN:233] Chromatic Lantern
+1 [M14:207] Darksteel Ingot
+1 [ZNR:252] Skyclave Relic
+1 [M21:228] Chromatic Orrery
+1 [EOC:135] Empowered Autogenerator
+1 [EOE:241] The Eternity Elevator
+1 [HOC:44] The One Ring
+1 [MSH:251] The Ten Rings
+1 [M14:206] Darksteel Forge
+1 [DST:130] Mycosynth Lattice
+1 [5ED:391] Nevinyrral's Disk
+1 [M19:229] Crucible of Worlds
+1 [M14:209] Elixir of Immortality
+1 [TMP:276] Altar of Dementia
+1 [6ED:274] Ashnod's Altar
+1 [INV:306] Phyrexian Altar
+1 [MBS:104] Darksteel Plate
+1 [HOC:43] Mithril Coat
+1 [SHM:267] Umbral Mantle
+1 [M12:222] Worldslayer
+1 [AFR:124] Vorpal Sword
+1 [FDN:724] Expedition Map
+1 [THS:14] Gift of Immortality
+1 [SOK:38] Freed from the Real
+1 [SCG:45] Pemmin's Aura
+1 [5ED:140] Animate Dead
+1 [VIS:64] Necromancy
+1 [APC:114] Pernicious Deed
+1 [AKH:4] Approach of the Second Sun
+1 [10E:61] Wrath of God
+1 [PLC:85] Damnation
+1 [RTR:201] Supreme Verdict
+1 [ISD:130] Blasphemous Act
+1 [MSC:161] Toxic Deluge
+1 [MID:333] Vanquish the Horde
+1 [MBS:15] Phyrexian Rebirth
+1 [PIP:331] Nuclear Fallout
+1 [TMC:18] Game Over
+1 [EOE:228] Singularity Rupture
+1 [RTR:35] Cyclonic Rift
+1 [NEO:13] Farewell
+1 [ROE:1] All Is Dust
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [6ED:19] Enlightened Tutor
+1 [6ED:83] Mystical Tutor
+1 [BRO:324] Diabolic Intent
+1 [TLE:7] Teferi's Protection
+1 [TSP:3] Angel's Grace
+1 [THS:65] Swan Song
+1 [WAR:193] Dovin's Veto
+1 [TLE:307] Fierce Guardianship
+1 [TMP:151] Reanimate
+1 [MBS:88] Praetor's Counsel
+1 [UMA:6] Kozilek, Butcher of Truth
+SB: 1 [CON:101] Child of Alara
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([ALA:44])([TMP:276],[ELD:331],[6ED:274],[GRN:233],[M21:228],[M19:229],[M14:206],[M14:207],[MBS:104],[M14:209],[EOC:135],[FDN:724],[HOC:43],[DST:130],[5ED:391],[INV:306],[ZNR:252],[SUM:274],[EOE:241],[HOC:44],[MSH:251],[SHM:267],[AFR:124],[M12:222])([UDS:1],[ONS:64],[5DN:86],[BNG:150],[WWK:20],[UMA:6])([5ED:140],[SOK:38],[THS:14],[VIS:64],[SCG:45],[APC:114])([TSP:3],[RTR:35],[WAR:193],[6ED:19],[TLE:307],[6ED:83],[THS:65],[TLE:7],[6ED:161])([ROE:1])([KTK:230],[NEO:266],[AKH:240],[8ED:322],[FCA:64],[ELD:333],[CSP:145],[LCI:271],[CON:142],[KTK:233],[MMQ:320],[IKO:248],[KLD:247],[SNC:250],[IKO:250],[JOU:163],[ZEN:219],[SOK:163],[ZEN:220],[USG:322],[KTK:239],[SPG:38],[SNC:254],[IKO:251],[SHM:278*],[IKO:253],[ZEN:223],[SNC:257],[GTC:248],[ZEN:229],[TSP:281],[KTK:248],[KTK:249],[SNC:260],[IKO:259],[SNC:261])([AKH:4],[ISD:130],[PLC:85],[SUM:105],[BRO:324],[NEO:13],[TMC:18],[PIP:331],[MBS:15],[MBS:88],[TMP:151],[EOE:228],[RTR:201],[MSC:161],[MID:333],[10E:61])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CON:101])

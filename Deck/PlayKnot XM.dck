@@ -1,0 +1,84 @@
+1 [EXO:33] Ertai, Wizard Adept
+1 [EVE:22] Glen Elendra Archmage
+1 [TSB:34] Voidmage Prodigy
+1 [ODY:89] Patron Wizard
+1 [STX:295] Archmage Emeritus
+1 [WAR:52] Flux Channeler
+1 [ONE:302] Tekuthal, Inquiry Dominus
+1 [MOM:350] Chrome Host Seedshark
+1 [SUM:274] Sol Ring
+1 [5ED:388] Mana Vault
+1 [ULG:126] Grim Monolith
+1 [ELD:331] Arcane Signet
+1 [MSC:222] Thought Vessel
+1 [WWK:123] Everflowing Chalice
+1 [BNG:157] Astral Cornucopia
+1 [EOC:135] Empowered Autogenerator
+1 [ELD:345] The Magic Mirror
+1 [M14:209] Elixir of Immortality
+1 [ISD:231] Runechanter's Pike
+1 [SHM:267] Umbral Mantle
+1 [DST:114] Darksteel Reactor
+1 [HOC:44] The One Ring
+1 [SOM:145] Contagion Engine
+1 [ROE:225] Sphinx-Bone Wand
+1 [IKO:319] Shark Typhoon
+1 [KLD:56] Metallurgic Summonings
+1 [IKO:61] Ominous Seas
+1 [SOM:35] Inexorable Tide
+1 [ZEN:42] Archmage Ascension
+1 [PCY:45] Rhystic Study
+1 [ICE:87] Mystic Remora
+1 [AFR:81] Wizard Class
+1 [CLB:663] Artificer Class
+1 [TMT:34] Does Machines
+1 [BLC:14] Fortune Teller's Talent
+1 [BLB:75] Stormchaser's Talent
+1 [FDN:160] An Offer You Can't Refuse
+1 [ALL:22a] Arcane Denial
+1 [7ED:67] Counterspell
+1 [LEG:65] Mana Drain
+1 [ALL:28] Force of Will
+1 [TLE:13] Force of Negation
+1 [TLE:307] Fierce Guardianship
+1 [FUT:42] Pact of Negation
+1 [THS:65] Swan Song
+1 [SOA:18] Flusterstorm
+1 [NPH:38] Mental Misstep
+1 [VOW:87] Wash Away
+1 [FUT:35] Delay
+1 [RAV:63] Remand
+1 [7ED:88] Memory Lapse
+1 [EXO:35] Forbid
+1 [TSP:79] Spell Burst
+1 [MBS:25] Fuel for the Cause
+1 [ONE:67] Reject Imperfection
+1 [LRW:56] Cryptic Command
+1 [AER:31] Disallow
+1 [ONE:278] Experimental Augury
+1 [AKH:211] Commit // Memory
+1 [6ED:83] Mystical Tutor
+19 [HOB:195] Island
+1 [TMP:315] Ancient Tomb
+1 [TSP:269] Academy Ruins
+1 [M12:224] Buried Ruin
+1 [WAR:245] Emergence Zone
+1 [ONS:322] Riptide Laboratory
+1 [WAR:248] Karn's Bastion
+1 [CHK:279] Minamo, School at Water's Edge
+1 [ELD:247] Mystic Sanctuary
+1 [NEO:271] Otawara, Soaring City
+1 [M19:254] Reliquary Tower
+1 [ZNR:333] Sea Gate Restoration
+1 [FUT:173] Tolaria West
+1 [MB2:114] Urza's Saga
+1 [SOC:422] War Room
+1 [EOE:241] The Eternity Elevator
+1 [OTJ:250] Tomb Trawler
+1 [SCG:38] Long-Term Plans
+1 [CHK:268] Sensei's Divining Top
+1 [ONS:64] Aphetto Alchemist
+1 [GTC:231] Illusionist's Bracers
+SB: 1 [AER:28] Baral, Chief of Compliance
+LAYOUT MAIN:(1,10)(CMC,false,50)|([WWK:123],[BNG:157],[FUT:42],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[HOB:195],[TMP:315],[TSP:269],[M12:224],[WAR:245],[ONS:322],[WAR:248],[CHK:279],[ELD:247],[NEO:271],[M19:254],[FUT:173],[MB2:114],[SOC:422])([SUM:274],[5ED:388],[M14:209],[ICE:87],[AFR:81],[BLC:14],[BLB:75],[FDN:160],[THS:65],[SOA:18],[NPH:38],[VOW:87],[TSP:79],[6ED:83],[CHK:268])([TSB:34],[ULG:126],[ELD:331],[MSC:222],[ISD:231],[IKO:61],[CLB:663],[TMT:34],[ALL:22a],[7ED:67],[LEG:65],[FUT:35],[RAV:63],[7ED:88],[ONE:278],[OTJ:250],[ONS:64],[GTC:231])([EXO:33],[ODY:89],[WAR:52],[MOM:350],[SHM:267],[ZEN:42],[PCY:45],[TLE:13],[TLE:307],[EXO:35],[ONE:67],[AER:31],[SCG:38])([EVE:22],[STX:295],[ONE:302],[EOC:135],[DST:114],[HOC:44],[MBS:25],[LRW:56])([KLD:56],[SOM:35],[ALL:28],[EOE:241])([SOM:145],[IKO:319])([ROE:225],[ZNR:333])([ELD:345])([AKH:211])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AER:28])

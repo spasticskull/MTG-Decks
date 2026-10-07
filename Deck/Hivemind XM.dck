@@ -1,0 +1,102 @@
+1 [M15:211] Sliver Hivelord
+1 [FUT:158] Sliver Legion
+1 [STH:129] Sliver Queen
+1 [PF25:3] The First Sliver
+1 [CMM:707] Sliver Gravemother
+1 [M3C:157] Morophon, the Boundless
+1 [CMM:741] Hatchery Sliver
+1 [TSP:196] Gemhide Sliver
+1 [M14:184] Manaweft Sliver
+1 [CMM:919] Cloudshredder Sliver
+1 [STH:127] Crystalline Sliver
+1 [M15:50] Diffusion Sliver
+1 [STH:128] Hibernation Sliver
+1 [LGN:136] Quick Sliver
+1 [LGN:137] Root Sliver
+1 [TMP:234] Horned Sliver
+1 [M14:117] Syphon Sliver
+1 [M15:205] Venom Sliver
+1 [FUT:155] Virulent Sliver
+1 [PLC:159] Necrotic Sliver
+1 [LGN:120] Brood Sliver
+1 [M14:9] Bonescythe Sliver
+1 [LGN:52] Shifting Sliver
+1 [PLC:30] Sinew Sliver
+1 [M14:189] Predatory Sliver
+1 [TSP:177] Sedge Sliver
+1 [FUT:118] Homing Sliver
+1 [TSP:96] Basal Sliver
+1 [LRW:51] Amoeboid Changeling
+1 [SUM:274] Sol Ring
+1 [5ED:388] Mana Vault
+1 [STH:138] Mox Diamond
+1 [SOM:179] Mox Opal
+1 [ELD:331] Arcane Signet
+1 [9ED:297] Fellwar Stone
+1 [GRN:233] Chromatic Lantern
+1 [HOC:44] The One Ring
+1 [EOE:247] Thrumming Hivepool
+1 [MAT:9] Training Grounds
+1 [PCY:45] Rhystic Study
+1 [RNA:22] Smothering Tithe
+1 [ONS:218] Mana Echoes
+1 [MSC:150] Kindred Discovery
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [2X2:354] Imperial Seal
+1 [6ED:269] Worldly Tutor
+1 [6ED:19] Enlightened Tutor
+1 [PLS:106] Eladamri's Call
+1 [RTR:35] Cyclonic Rift
+1 [ICE:54] Swords to Plowshares
+1 [TLE:307] Fierce Guardianship
+1 [TLE:306] Flawless Maneuver
+1 [TLE:7] Teferi's Protection
+1 [NPH:123] Triumph of the Hordes
+1 [SOM:80] Tainted Strike
+1 [MSC:156] Kindred Dominance
+1 [ELD:333] Command Tower
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [SHM:278*] Reflecting Pool
+1 [CON:142] Exotic Orchard
+1 [LCI:410a] Cavern of Souls
+1 [M15:247] Sliver Hive
+1 [XLN:258] Unclaimed Territory
+1 [FDN:267] Secluded Courtyard
+1 [CON:141] Ancient Ziggurat
+1 [TSP:274] Gemstone Caverns
+1 [KTK:233] Flooded Strand
+1 [KTK:239] Polluted Delta
+1 [KTK:230] Bloodstained Mire
+1 [KTK:249] Wooded Foothills
+1 [KTK:248] Windswept Heath
+1 [ZEN:219] Marsh Flats
+1 [ZEN:223] Scalding Tarn
+1 [ZEN:229] Verdant Catacombs
+1 [ZEN:211] Arid Mesa
+1 [ZEN:220] Misty Rainforest
+1 [SUM:289] Tundra
+1 [SUM:290] Underground Sea
+1 [SUM:282] Badlands
+1 [SUM:287] Taiga
+1 [SUM:285] Savannah
+1 [SUM:286] Scrubland
+1 [SUM:291] Volcanic Island
+1 [SUM:288] Tropical Island
+1 [SUM:283] Bayou
+1 [SUM:284] Plateau
+1 [PRM:82004] Chromatic Orrery
+1 [HOU:73] Razaketh, the Foulblooded
+1 [CLB:865] Maskwood Nexus
+1 [BBD:212] Seedborn Muse
+1 [TPR:206] Acidic Sliver
+1 [CNS:206] Vedalken Orrery
+1 [TSR:249] Darkheart Sliver
+1 [CMM:881] Spiteful Sliver
+1 [SLD:627] Telekinetic Sliver
+1 [CMM:733] Lazotep Sliver
+1 [CMM:734] Capricious Sliver
+SB: 1 [SLD:10] Sliver Overlord
+LAYOUT MAIN:(1,9)(CMC,false,50)|([CON:141],[ZEN:211],[SUM:282],[SUM:283],[KTK:230],[LCI:410a],[8ED:322],[ELD:333],[CON:142],[KTK:233],[TSP:274],[JOU:163],[ZEN:219],[ZEN:220],[STH:138],[SOM:179],[SUM:284],[KTK:239],[SHM:278*],[SUM:285],[ZEN:223],[SUM:286],[FDN:267],[M15:247],[SUM:287],[SUM:288],[SUM:289],[XLN:258],[SUM:290],[ZEN:229],[SUM:291],[KTK:248],[KTK:249])([6ED:19],[2X2:354],[5ED:388],[SUM:274],[ICE:54],[SOM:80],[MAT:9],[6ED:161],[FUT:155],[6ED:269])([LRW:51],[ELD:331],[CMM:919],[STH:127],[RTR:35],[SUM:105],[M15:50],[PLS:106],[9ED:297],[TSP:196],[CMM:741],[STH:128],[M14:184],[M14:189],[LGN:136],[PLC:30],[M15:205],[TPR:206],[TSR:249])([TSP:96],[GRN:233],[TLE:307],[TLE:306],[FUT:118],[TMP:234],[PLC:159],[PCY:45],[TSP:177],[M14:117],[TLE:7],[CMM:881])([M14:9],[ONS:218],[LGN:137],[LGN:52],[RNA:22],[HOC:44],[NPH:123],[CLB:865],[CNS:206],[SLD:627],[CMM:733],[CMM:734])([LGN:120],[MSC:150],[CMM:707],[M15:211],[FUT:158],[STH:129],[PF25:3],[BBD:212])([EOE:247])([MSC:156],[M3C:157],[PRM:82004])([HOU:73])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SLD:10])

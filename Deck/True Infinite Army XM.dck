@@ -1,0 +1,102 @@
+1 [MKC:210] Esix, Fractal Bloom
+1 [BLC:82] Chatterfang, Squirrel General
+1 [SNC:195] Jinnie Fay, Jetmir's Second
+1 [BLC:2] Hazel of the Rootbloom
+1 [BLC:264] Academy Manufactor
+1 [LTR:181] Peregrin Took
+1 [FDN:204] Krenko, Mob Boss
+1 [ONE:23] Mondrak, Glory Dominus
+1 [LCI:26] Ojer Taq, Deepest Foundation
+1 [MKC:198] Adrix and Nev, Twincasters
+1 [SHM:237] Rhys the Redeemed
+1 [LCI:258] Roaming Throne
+1 [TDM:138] Craterhoof Behemoth
+1 [EVE:66] Bloom Tender
+1 [KHM:240] Maskwood Nexus
+1 [BIG:36] Simulacrum Synthesizer
+1 [ONE:380] Encroaching Mycosynth
+1 [LTR:001] The One Ring
+1 [BIG:28] Transmutation Font
+1 [SOI:265+a] Tamiyo's Journal
+1 [TDC:319] Idol of Oblivion
+1 [SUM:274] Sol Ring
+1 [ELD:331] Arcane Signet
+1 [FDN:216] Doubling Season
+1 [AKH:2] Anointed Procession
+1 [RNA:22] Smothering Tithe
+1 [SNC:134] Bootleggers' Stash
+1 [SOI:200] Cryptolith Rite
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [2X2:354] Imperial Seal
+1 [6ED:19] Enlightened Tutor
+1 [6ED:269] Worldly Tutor
+1 [PLS:106] Eladamri's Call
+1 [BRO:324] Diabolic Intent
+1 [M10:52] Fabricate
+1 [THB:24] Idyllic Tutor
+1 [5ED:316] Nature's Lore
+1 [FIC:315] Three Visits
+1 [M13:170] Farseek
+1 [CMM:94] Fierce Guardianship
+1 [STA:11] Teferi's Protection
+1 [M21:188] Heroic Intervention
+1 [ICE:54] Swords to Plowshares
+1 [MKM:187] Assassin's Trophy
+1 [SOI:242] Anguished Unmaking
+1 [RTR:35] Cyclonic Rift
+1 [EOC:128] Wake the Past
+1 [ELD:333] Command Tower
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [SHM:278*] Reflecting Pool
+1 [CON:142] Exotic Orchard
+1 [CHK:276] Forbidden Orchard
+1 [LCI:410a] Cavern of Souls
+1 [XLN:258] Unclaimed Territory
+1 [FDN:267] Secluded Courtyard
+1 [FIC:411] Path of Ancestry
+1 [KTK:233] Flooded Strand
+1 [KTK:239] Polluted Delta
+1 [KTK:230] Bloodstained Mire
+1 [KTK:249] Wooded Foothills
+1 [KTK:248] Windswept Heath
+1 [ZEN:219] Marsh Flats
+1 [ZEN:229] Verdant Catacombs
+1 [ZEN:211] Arid Mesa
+1 [ZEN:220] Misty Rainforest
+1 [ZEN:223] Scalding Tarn
+1 [SUM:288] Tropical Island
+1 [SUM:290] Underground Sea
+1 [SUM:291] Volcanic Island
+1 [SUM:289] Tundra
+1 [SUM:283] Bayou
+1 [SUM:287] Taiga
+1 [SUM:285] Savannah
+1 [SUM:286] Scrubland
+1 [SUM:284] Plateau
+1 [SUM:282] Badlands
+1 [USG:321] Gaea's Cradle
+1 [TMP:315] Ancient Tomb
+1 [MB2:114] Urza's Saga
+1 [NEO:266] Boseiju, Who Endures
+1 [WOE:314] Experimental Confectioner
+1 [ONS:218] Mana Echoes
+1 [SHM:267] Umbral Mantle
+1 [NEO:403] Mirror Box
+1 [RAV:257] Cloudstone Curio
+1 [VOW:362] Necroduality
+1 [TLE:47] Captain Sisay
+1 [TSR:262] Akroma's Memorial
+1 [ISD:71] Rooftop Storm
+1 [CLB:560] Displacer Kitten
+1 [SOC:109] Flickering Ward
+1 [LCC:106] Chimil, the Inner Sun
+1 [TLA:261] The Walls of Ba Sing Se
+1 [J25:151] Chromatic Lantern
+1 [LCC:107] Chromatic Orrery
+1 [DIS:110] Experiment Kraj
+1 [AER:171] Planar Bridge
+SB: 1 [M3C:157] Morophon, the Boundless
+LAYOUT MAIN:(1,9)(CMC,false,50)|([ELD:333],[8ED:322],[JOU:163],[SHM:278*],[CON:142],[CHK:276],[LCI:410a],[XLN:258],[FDN:267],[FIC:411],[KTK:233],[KTK:239],[KTK:230],[KTK:249],[KTK:248],[ZEN:219],[ZEN:229],[ZEN:211],[ZEN:220],[ZEN:223],[SUM:288],[SUM:290],[SUM:291],[SUM:289],[SUM:283],[SUM:287],[SUM:285],[SUM:286],[SUM:284],[SUM:282],[USG:321],[TMP:315],[MB2:114],[NEO:266])([SHM:237],[SUM:274],[6ED:161],[2X2:354],[6ED:19],[6ED:269],[ICE:54],[SOC:109])([EVE:66],[TDC:319],[ELD:331],[SOI:200],[SUM:105],[PLS:106],[BRO:324],[5ED:316],[FIC:315],[M13:170],[M21:188],[MKM:187],[RTR:35])([BLC:82],[SNC:195],[BLC:264],[LTR:181],[BIG:36],[M10:52],[THB:24],[CMM:94],[STA:11],[SOI:242],[WOE:314],[SHM:267],[NEO:403],[RAV:257],[J25:151])([BLC:2],[FDN:204],[ONE:23],[MKC:198],[LCI:258],[KHM:240],[ONE:380],[LTR:001],[AKH:2],[RNA:22],[ONS:218],[VOW:362],[TLE:47],[CLB:560])([BIG:28],[SOI:265+a],[FDN:216])([MKC:210],[LCI:26],[SNC:134],[ISD:71],[LCC:106],[DIS:110],[AER:171])([EOC:128],[TSR:262],[LCC:107])([TDM:138],[TLA:261])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M3C:157])

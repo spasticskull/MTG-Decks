@@ -1,0 +1,96 @@
+NAME:Planeswalker Pals
+1 [DMU:243] Adarkar Wastes
+1 [ELD:331] Arcane Signet
+1 [J20:1] Arena Rector
+1 [ZEN:211] Arid Mesa
+1 [BRO:257] Battlefield Forge
+1 [ISD:130] Blasphemous Act
+1 [KTK:230] Bloodstained Mire
+1 [M20:127] Chandra, Awakened Inferno
+1 [CMM:735] Chandra, Legacy of Fire
+1 [KLD:110] Chandra, Torch of Defiance
+1 [MB2:79] Comet, Stellar Pup
+1 [ELD:333] Command Tower
+1 [M19:229] Crucible of Worlds
+1 [RTR:35] Cyclonic Rift
+1 [MB2:80] Dack Fayden
+1 [CMM:844] Deepglow Skate
+1 [EMN:20] Deploy the Gatewatch
+1 [MB2:27] Displacer Kitten
+1 [2X2:107] Dockside Extortionist
+1 [NEO:268] Eiganjo, Seat of the Empire
+1 [THS:9] Elspeth, Sun's Champion
+1 [6ED:19] Enlightened Tutor
+1 [PZ2:65785] Expropriate
+1 [NEO:13] Farewell
+1 [KTK:233] Flooded Strand
+1 [WAR:52] Flux Channeler
+1 [CLU:277] Hallowed Fountain
+1 [KHM:260] Hengegate Pathway
+1 [CHK:254] Honor-Worn Shaku
+1 [WAR:247] Interplanar Beacon
+3 [DSK:273] Island
+1 [WWK:31] Jace, the Mind Sculptor
+1 [SOI:69] Jace, Unraveler of Secrets
+1 [CMM:738] Jaya's Phoenix
+1 [MKC:156] Jeska's Will
+1 [CMM:709] Leori, Sparktouched Hunter
+1 [SPG:17a] Mana Crypt
+1 [LEG:65] Mana Drain
+1 [ZEN:219] Marsh Flats
+1 [STX:153] Mila, Crafty Companion
+1 [ZEN:220] Misty Rainforest
+2 [DSK:275] Mountain
+1 [SOI:247] Nahiri, the Harbinger
+1 [IKO:195] Narset of the Ancient Way
+1 [DTK:225] Narset Transcendent
+1 [WAR:61*] Narset, Parter of Veils
+1 [ZNR:263] Needleverge Pathway
+1 [DOM:200] Oath of Teferi
+1 [CMM:722] Onakke Oathkeeper
+3 [FDN:273] Plains
+1 [SUM:284] Plateau
+1 [KTK:239] Polluted Delta
+1 [DGM:94] Ral Zarek
+1 [IKO:251] Raugrin Triome
+1 [ZNR:264] Riverglide Pathway
+1 [CLU:279] Sacred Foundry
+1 [WAR:234*] Saheeli, Sublime Artificer
+1 [WAR:143*] Sarkhan the Masterless
+1 [ZEN:223] Scalding Tarn
+1 [CLB:360] Sea of Clouds
+1 [DMU:255] Shivan Reef
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [SUM:274] Sol Ring
+1 [WAR:68] Spark Double
+1 [CMM:427] Spectator Seating
+1 [CLU:280] Steam Vents
+1 [MOM:349] Sunfall
+1 [CLU:211] Supreme Verdict
+1 [ICE:54] Swords to Plowshares
+1 [M3C:307] Talisman of Conviction
+1 [M3C:308] Talisman of Creativity
+1 [MRD:256] Talisman of Progress
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [M21:275] Teferi, Master of Time
+1 [CMM:125] Teferi, Temporal Archmage
+1 [WAR:221*] Teferi, Time Raveler
+1 [MID:245] Teferi, Who Slows the Sunset
+1 [STA:11] Teferi's Protection
+1 [AVR:38] Terminus
+1 [CMM:725] Teyo, Geometric Tactician
+1 [M15:215] The Chain Veil
+1 [ONE:11] The Eternal Wanderer
+1 [ELD:199] The Royal Scions
+1 [NEO:303] The Wandering Emperor
+1 [CMM:434] Training Center
+1 [SUM:289] Tundra
+1 [DOM:39] Urza's Ruinous Blast
+1 [SUM:291] Volcanic Island
+1 [CMM:729] Vronos, Masked Inquisitor
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [10E:61] Wrath of God
+SB: 1 [CMM:706] Commodore Guff
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ELD:331],[M19:229],[CHK:254],[SPG:17a],[SUM:274],[M3C:307],[M3C:308],[MRD:256],[M15:215])([J20:1],[CMM:844],[MB2:27],[2X2:107],[WAR:52],[CMM:738],[CMM:709],[STX:153],[CMM:722],[WAR:68])([DOM:200])([RTR:35],[6ED:19],[LEG:65],[ICE:54],[STA:11])([DMU:243],[ZEN:211],[BRO:257],[KTK:230],[ELD:333],[NEO:268],[KTK:233],[CLU:277],[KHM:260],[WAR:247],[DSK:273],[DSK:273],[DSK:273],[ZEN:219],[ZEN:220],[DSK:275],[DSK:275],[ZNR:263],[FDN:273],[FDN:273],[FDN:273],[SUM:284],[KTK:239],[IKO:251],[ZNR:264],[CLU:279],[ZEN:223],[CLB:360],[DMU:255],[NEO:276],[CMM:427],[CLU:280],[CMM:434],[SUM:289],[SUM:291],[KTK:248],[KTK:249])([M20:127],[CMM:735],[KLD:110],[MB2:79],[MB2:80],[THS:9],[WWK:31],[SOI:69],[SOI:247],[IKO:195],[DTK:225],[WAR:61*],[DGM:94],[WAR:234*],[WAR:143*],[DOM:207],[M21:275],[CMM:125],[WAR:221*],[MID:245],[CMM:725],[ONE:11],[ELD:199],[NEO:303],[CMM:729])([ISD:130],[EMN:20],[PZ2:65785],[NEO:13],[MKC:156],[MOM:349],[CLU:211],[AVR:38],[DOM:39],[10E:61])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMM:706])

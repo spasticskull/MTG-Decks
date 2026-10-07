@@ -1,0 +1,102 @@
+1 [ONS:64] Aphetto Alchemist
+1 [RNA:158] Biomancer's Familiar
+1 [ECL:166] Bloom Tender
+1 [ECC:20] Dread Tiller
+1 [5DN:86] Eternal Witness
+1 [ELD:190] Faeburrow Elder
+1 [SOM:33] Grand Architect
+1 [SHM:252] Grim Poppet
+1 [CSP:61] Haakon, Stromgald Scourge
+1 [BNG:150] Kiora's Follower
+1 [ZNR:193] Lotus Cobra
+1 [CON:31] Master Transmuter
+1 [LRW:31] Mirror Entity
+1 [M3C:157] Morophon, the Boundless
+1 [SHM:257] Painter's Servant
+1 [SHM:258] Pili-Pala
+1 [DSC:5] Rendmaw, Creaking Nest
+1 [LCI:258] Roaming Throne
+1 [EVE:172] Scarecrone
+1 [OTC:266] Scaretiller
+1 [M20:238] Scuttlemutt
+1 [M13:218] Stuffy Doll
+1 [SHM:264] Tatterkite
+1 [DSK:236] The Swarmweaver
+1 [TLA:261] The Walls of Ba Sing Se
+1 [DFT:109] Wickerfolk Indomitable
+1 [DFT:110] Wreckage Wickerfolk
+1 [SUM:274] Sol Ring
+1 [5ED:388] Mana Vault
+1 [SOM:179] Mox Opal
+1 [ELD:331] Arcane Signet
+1 [GRN:233] Chromatic Lantern
+1 [M21:228] Chromatic Orrery
+1 [SUM:235] Basalt Monolith
+1 [KHM:240] Maskwood Nexus
+1 [KLD:226] Panharmonicon
+1 [LRW:259] Rings of Brighthearth
+1 [GTC:231] Illusionist's Bracers
+1 [SHM:267] Umbral Mantle
+1 [TMP:290] Grindstone
+1 [RAV:257] Cloudstone Curio
+1 [DOM:217] Helm of the Host
+1 [ISD:71] Rooftop Storm
+1 [MAT:9] Training Grounds
+1 [SOK:38] Freed from the Real
+1 [SOI:200] Cryptolith Rite
+1 [M14:206] Darksteel Forge
+1 [USG:299] Lifeline
+1 [RAV:267] Pariah's Shield
+1 [SCG:17] Guilty Conscience
+1 [5DN:107] Blasting Station
+1 [KTK:216] Altar of the Brood
+1 [BFZ:82] Retreat to Coralhelm
+1 [ICE:350] Zuran Orb
+1 [FDN:711] Rite of Replication
+1 [HOC:44] The One Ring
+1 [PCY:45] Rhystic Study
+1 [SUM:105] Demonic Tutor
+1 [6ED:161] Vampiric Tutor
+1 [6ED:19] Enlightened Tutor
+1 [M10:52] Fabricate
+1 [RTR:35] Cyclonic Rift
+1 [TLE:7] Teferi's Protection
+1 [M21:188] Heroic Intervention
+1 [THS:65] Swan Song
+1 [ELD:333] Command Tower
+1 [8ED:322] City of Brass
+1 [JOU:163] Mana Confluence
+1 [SHM:278*] Reflecting Pool
+1 [CON:142] Exotic Orchard
+1 [CHK:276] Forbidden Orchard
+1 [LCI:410a] Cavern of Souls
+1 [FDN:267] Secluded Courtyard
+1 [MSC:254] Path of Ancestry
+1 [TMP:315] Ancient Tomb
+1 [TSP:269] Academy Ruins
+1 [M12:224] Buried Ruin
+1 [MB2:114] Urza's Saga
+1 [KLD:247] Inventors' Fair
+1 [ZEN:211] Arid Mesa
+1 [KTK:230] Bloodstained Mire
+1 [KTK:233] Flooded Strand
+1 [ZEN:219] Marsh Flats
+1 [ZEN:220] Misty Rainforest
+1 [KTK:239] Polluted Delta
+1 [ZEN:223] Scalding Tarn
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [ECL:349b] Blood Crypt
+1 [EOE:251] Breeding Pool
+1 [EOE:254] Godless Shrine
+1 [ECL:347b] Hallowed Fountain
+1 [ECL:350b] Overgrown Tomb
+1 [EOE:256] Sacred Foundry
+1 [ECL:348b] Steam Vents
+1 [EOE:258] Stomping Ground
+1 [ECL:351b] Temple Garden
+1 [EOE:261] Watery Grave
+SB: 1 [SHM:260] Reaper King
+LAYOUT MAIN:(1,10)(CMC,false,50)|([SOM:179],[ICE:350],[ELD:333],[8ED:322],[JOU:163],[SHM:278*],[CON:142],[CHK:276],[LCI:410a],[FDN:267],[MSC:254],[TMP:315],[TSP:269],[M12:224],[MB2:114],[KLD:247],[ZEN:211],[KTK:230],[KTK:233],[ZEN:219],[ZEN:220],[KTK:239],[ZEN:223],[ZEN:229],[KTK:248],[KTK:249],[ECL:349b],[EOE:251],[EOE:254],[ECL:347b],[ECL:350b],[EOE:256],[ECL:348b],[EOE:258],[ECL:351b],[EOE:261])([SUM:274],[5ED:388],[TMP:290],[MAT:9],[SCG:17],[KTK:216],[6ED:161],[6ED:19],[THS:65])([ONS:64],[RNA:158],[ECL:166],[BNG:150],[ZNR:193],[SHM:257],[SHM:258],[DFT:110],[ELD:331],[GTC:231],[SOI:200],[SUM:105],[RTR:35],[M21:188])([ECC:20],[5DN:86],[ELD:190],[SOM:33],[CSP:61],[LRW:31],[EVE:172],[M20:238],[SHM:264],[GRN:233],[SUM:235],[LRW:259],[SHM:267],[RAV:257],[SOK:38],[5DN:107],[BFZ:82],[PCY:45],[M10:52],[TLE:7])([CON:31],[LCI:258],[OTC:266],[DSK:236],[DFT:109],[KHM:240],[KLD:226],[DOM:217],[FDN:711],[HOC:44])([DSC:5],[M13:218],[USG:299],[RAV:267])([ISD:71])([SHM:252],[M3C:157],[M21:228])([TLA:261])([M14:206])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SHM:260])

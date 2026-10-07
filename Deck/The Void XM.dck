@@ -1,0 +1,102 @@
+1 [TMP:315] Ancient Tomb
+1 [ROE:227] Eldrazi Temple
+1 [WWK:136] Eye of Ugin
+1 [BFZ:245] Shrine of the Forsaken Gods
+1 [SCG:143] Temple of the False God
+1 [MH3:233] Ugin's Labyrinth
+1 [9ED:327] Urza's Mine
+1 [9ED:328] Urza's Power Plant
+1 [9ED:329] Urza's Tower
+1 [MB2:114] Urza's Saga
+1 [BRC:28] Urza's Workshop
+1 [MH3:234] Urza's Cave
+1 [MRD:280] Cloudpost
+1 [SOM:227] Glimmerpost
+1 [GTC:248] Thespian's Stage
+1 [TSP:281] Vesuva
+1 [ODY:320] Deserted Temple
+1 [6ED:322] Crystal Vein
+1 [EXO:143] City of Traitors
+1 [BFZ:242] Sanctum of Ugin
+1 [KLD:247] Inventors' Fair
+1 [BRO:258] Blast Zone
+1 [HOU:182] Scavenger Grounds
+1 [M12:224] Buried Ruin
+1 [KTK:245] Tomb of the Spirit Dragon
+1 [PIP:1068] War Room
+1 [RIX:185] Arch of Orazca
+1 [IKO:245] Bonders' Enclave
+1 [ONE:254] Mirrex
+1 [OGW:174] Mirrorpool
+1 [ONE:256] The Mycosynth Gardens
+1 [KHM:272] Tyrite Sanctum
+1 [DMU:252] Plaza of Heroes
+1 [M19:254] Reliquary Tower
+1 [FDN:264] Rogue's Passage
+1 [LTC:365] Homeward Path
+1 [DRK:117] Maze of Ith
+1 [FIN:1] Summon: Bahamut
+1 [ROE:7] It That Betrays
+1 [CMM:712] Abstruse Archaic
+1 [STX:286] Wandering Archaic
+1 [MH3:7] Glaring Fleshraker
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [MH3:15] Ulamog, the Defiler
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [OGW:4] Kozilek, the Great Distortion
+1 [MH3:10] Kozilek, the Broken Reality
+1 [ROE:9] Pathrazer of Ulamog
+1 [ROE:2] Artisan of Kozilek
+1 [BFZ:17] Void Winnower
+1 [BFZ:3] Breaker of Armies
+1 [BRO:233] Cityscape Leveler
+1 [EMN:6] Emrakul, the Promised End
+1 [MH3:4] Echoes of Eternity
+1 [ROE:3] Eldrazi Conscription
+1 [CMR:305] Commander's Plate
+1 [MH3:210] Idol of False Gods
+1 [NEO:250] Mirror Box
+1 [8ED:311] Planar Portal
+1 [AER:171] Planar Bridge
+1 [LRW:259] Rings of Brighthearth
+1 [ZNR:245] Lithoform Engine
+1 [M14:224] Strionic Resonator
+1 [LTR:001] The One Ring
+1 [ZNR:244] Forsaken Monument
+1 [BRO:240] Portal to Phyrexia
+1 [SUM:235] Basalt Monolith
+1 [ULG:126] Grim Monolith
+1 [5ED:388] Mana Vault
+1 [SUM:274] Sol Ring
+1 [FIC:368] Thought Vessel
+1 [10E:335] Mind Stone
+1 [UDS:139] Thran Dynamo
+1 [FDN:726] Hedron Archive
+1 [WWK:123] Everflowing Chalice
+1 [M11:219] Voltaic Key
+1 [M20:230] Manifold Key
+1 [NPH:164] Unwinding Clock
+1 [MBS:114] Mirrorworks
+1 [10E:342] Sculpting Steel
+1 [SOM:195] Prototype Portal
+1 [DOM:217] Helm of the Host
+1 [HOU:165] Mirage Mirror
+1 [SOK:153] Blood Clock
+1 [FDN:724] Expedition Map
+1 [ROE:1] All Is Dust
+1 [CMM:716] Rise of the Eldrazi
+1 [MH3:11] Kozilek's Command
+1 [M3C:32] Eldrazi Confluence
+1 [M3C:33] Eldritch Immunity
+1 [OGW:12] Warping Wail
+1 [BFZ:14] Titan's Presence
+1 [BFZ:13] Scour from Existence
+1 [STX:3] Introduction to Annihilation
+1 [ROE:8] Not of This World
+1 [2X2:314] Sensei's Divining Top
+1 [PM20:233s] Mystic Forge
+1 [M12:208] Elixir of Immortality
+SB: 1 [FIN:2] Ultima, Origin of Oblivion
+LAYOUT MAIN:(1,14)(CMC,false,50)|([TMP:315],[ROE:227],[WWK:136],[BFZ:245],[SCG:143],[MH3:233],[9ED:327],[9ED:328],[9ED:329],[MB2:114],[BRC:28],[MH3:234],[MRD:280],[SOM:227],[GTC:248],[TSP:281],[ODY:320],[6ED:322],[EXO:143],[BFZ:242],[KLD:247],[BRO:258],[HOU:182],[M12:224],[KTK:245],[PIP:1068],[RIX:185],[IKO:245],[ONE:254],[OGW:174],[ONE:256],[KHM:272],[DMU:252],[M19:254],[FDN:264],[LTC:365],[DRK:117],[WWK:123])([CMR:305],[5ED:388],[SUM:274],[M11:219],[M20:230],[FDN:724],[M3C:33],[2X2:314],[M12:208])([MH3:210],[M14:224],[ULG:126],[FIC:368],[10E:335],[MH3:11],[OGW:12])([MH3:7],[NEO:250],[LRW:259],[SUM:235],[10E:342],[HOU:165],[BFZ:14])([CMM:712],[ZNR:245],[LTR:001],[UDS:139],[FDN:726],[NPH:164],[SOM:195],[DOM:217],[SOK:153],[M3C:32],[PM20:233s])([STX:286],[ZNR:244],[MBS:114],[STX:3])([MH3:4],[8ED:311],[AER:171])([ROE:1],[BFZ:13],[ROE:8])([BFZ:3],[BRO:233],[ROE:3])([FIN:1],[MH3:10],[ROE:2],[BFZ:17],[BRO:240])([BFZ:15],[MH3:15],[ROE:6],[OGW:4])([ROE:12],[ROE:9])([ROE:7],[CMM:716])([EMN:6])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FIN:2])

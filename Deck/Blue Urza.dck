@@ -1,0 +1,88 @@
+NAME:Blue Urza
+1 [BIG:6] Simulacrum Synthesizer
+1 [BIG:5] Esoteric Duplicator
+1 [C14:279] Trading Post
+1 [WWK:122] Basilisk Collar
+1 [GK2:109] Rapid Hybridization
+1 [C14:120] Pongify
+1 [C13:262] Surveyor's Scope
+1 [CMR:337] Scroll Rack
+1 [MH3:76] Ugin's Binding
+1 [MM3:35] Cyclonic Rift
+1 [MRD:45] Override
+1 [GN3:25] Counterspell
+1 [MH3:12] Null Elemental Blast
+1 [SOM:46] Stoic Rebuttal
+1 [KLD:43] Disappearing Act
+1 [VMA:69] Force of Will
+1 [GTC:52] Spell Rupture
+1 [MH3:214] Archway of Innovation
+1 [BRO:313] Drafna, Founder of Lat-Nam
+1 [DRC:17] Aetherflux Conduit
+1 [PKLD:192s] Aetherflux Reservoir
+1 [DRC:18] Aetheric Amplifier
+1 [BIG:7] Worldwalker Helm
+1 [BLC:264] Academy Manufactor
+1 [M13:202] Clock of Omens
+1 [2XM:275] Mox Opal
+1 [DOM:224] Mox Amber
+1 [AKH:235] Pyramid of the Pantheon
+1 [CLB:298] Arcane Signet
+1 [J22:820] Seat of the Synod
+1 [ACR:15] Crystal Skull, Isu Spyglass
+1 [2XM:235] Blightsteel Colossus
+1 [KLR:60] Padeem, Consul of Innovation
+1 [AER:38] Mechanized Production
+1 [BIG:28] Transmutation Font
+1 [CMM:407] Sapphire Medallion
+1 [V10:10] Mox Diamond
+1 [2XM:41] Arcum Dagsson
+1 [RIX:180] The Immortal Sun
+1 [LCI:249] Chimil, the Inner Sun
+1 [PM19:69p] Sai, Master Thopterist
+1 [MH1:57] Mirrodin Besieged
+1 [PWAR:248] Karn's Bastion
+1 [MBS:117] Myr Turbine
+1 [HOP:111] Darksteel Forge
+1 [C18:216] Prototype Portal
+1 [C18:228] Unwinding Clock
+1 [ONE:47] Encroaching Mycosynth
+1 [ONE:256] The Mycosynth Gardens
+1 [BBD:241] Mycosynth Lattice
+1 [V16:7] Memnarch
+1 [ELD:43] Emry, Lurker of the Loch
+1 [DFT:72] Unstoppable Plan
+1 [PKLD:247s] Inventors' Fair
+1 [CMR:80] Mana Drain
+1 [STX:259] Strixhaven Stadium
+1 [KTK:245] Tomb of the Spirit Dragon
+1 [CMM:950] Forsaken Monument
+1 [CMM:94] Fierce Guardianship
+1 [CLB:865] Maskwood Nexus
+1 [2XM:232] Basalt Monolith
+1 [ISD:236] Witchbane Orb
+1 [WOC:30] Court of Vantress
+1 [C14:233] Caged Sun
+1 [CMM:410] Sol Ring
+1 [ONE:254] Mirrex
+1 [MBS:145] Inkmoth Nexus
+1 [MM2:236] Blinkmoth Nexus
+1 [BLC:178] Triskaidekaphile
+1 [C16:301] Homeward Path
+1 [VMA:305] Mishra's Workshop
+1 [VMA:289] Ancient Tomb
+16 [VOW:270] Island
+1 [2XM:309] Academy Ruins
+1 [40K:291] Reliquary Tower
+1 [V15:13] Platinum Angel
+1 [J22:361] Thopter Spy Network
+1 [MMA:56] Pact of Negation
+1 [EMN:65] Imprisoned in the Moon
+1 [M13:204] Elixir of Immortality
+1 [C19:54] Empowered Autogenerator
+1 [MKM:57] Forensic Gadgeteer
+1 [J22:800] Tamiyo's Journal
+1 [C21:261] Sculpting Steel
+SB: 1 [DMR:423] Urza, Lord High Artificer
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([BLC:264],[2XM:235],[V16:7],[V15:13])([J22:820])([BIG:6],[BIG:5],[C14:279],[WWK:122],[C13:262],[CMR:337],[DRC:17],[PKLD:192s],[DRC:18],[BIG:7],[M13:202],[2XM:275],[DOM:224],[AKH:235],[CLB:298],[ACR:15],[BIG:28],[CMM:407],[V10:10],[RIX:180],[LCI:249],[MBS:117],[HOP:111],[C18:216],[C18:228],[ONE:47],[BBD:241],[STX:259],[CMM:950],[CLB:865],[2XM:232],[ISD:236],[C14:233],[CMM:410],[M13:204],[C19:54],[J22:800],[C21:261])([BRO:313],[KLR:60],[2XM:41],[PM19:69p],[ELD:43],[BLC:178],[MKM:57])([AER:38],[MH1:57],[DFT:72],[WOC:30],[J22:361],[EMN:65])([GK2:109],[C14:120],[MH3:76],[MM3:35],[MRD:45],[GN3:25],[MH3:12],[SOM:46],[KLD:43],[VMA:69],[GTC:52],[CMR:80],[CMM:94],[MMA:56])([MH3:214],[PWAR:248],[ONE:256],[PKLD:247s],[KTK:245],[ONE:254],[MBS:145],[MM2:236],[C16:301],[VMA:305],[VMA:289],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[VOW:270],[2XM:309],[40K:291])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DMR:423])

@@ -1,0 +1,93 @@
+1 [BLC:264] Academy Manufactor
+1 [ONS:185] Aggravated Assault
+1 [SUM:235] Basalt Monolith
+1 [MRD:147] Bosh, Iron Golem
+1 [MSC:164] Chaos Warp
+1 [M21:228] Chromatic Orrery
+1 [TMT:172] Chrome Dome
+1 [MRD:152] Chrome Mox
+1 [M13:202] Clock of Omens
+1 [SOC:242] Cursed Mirror
+1 [CMM:213] Daretti, Scrap Savant
+1 [M14:206] Darksteel Forge
+1 [TLE:311] Deflecting Swat
+1 [EOC:29] Depthshaker Titan
+1 [SPG:153] Dualcaster Mage
+1 [DKA:87] Faithless Looting
+1 [BRC:13] Farid, Enterprising Salvager
+1 [USG:188] Gamble
+1 [SNC:107] Glittering Stockpile
+1 [J21:458] Goblin Engineer
+1 [ULG:80] Goblin Welder
+1 [CHK:169] Godo, Bandit Warlord
+1 [KHM:139] Goldspan Dragon
+1 [ULG:126] Grim Monolith
+1 [EMN:130a] Hanweir Garrison
+1 [GTC:94] Hellkite Tyrant
+1 [DOM:217] Helm of the Host
+1 [FDN:626] Hoarding Dragon
+1 [GTC:231] Illusionist's Bracers
+1 [TMT:270] Improvised Arsenal
+1 [SOA:44] Jeska's Will
+1 [USG:298] Karn, Silver Golem
+1 [5DN:134] Krark-Clan Ironworks
+1 [SOM:169] Kuldotha Forgemaster
+1 [BIG:12] Legion Extruder
+1 [MRD:199] Lightning Greaves
+1 [TMP:294] Lotus Petal
+1 [5ED:388] Mana Vault
+1 [EOE:145] Memorial Vault
+1 [UDS:135] Metalworker
+1 [BIG:14] Molten Duplication
+1 [MID:255] Moonsilver Key
+1 [STH:138] Mox Diamond
+1 [SOM:179] Mox Opal
+1 [DST:130] Mycosynth Lattice
+1 [HOU:104] Neheb, the Eternal
+1 [5ED:391] Nevinyrral's Disk
+1 [AER:171] Planar Bridge
+1 [5ED:262] Pyroblast
+1 [TMT:106] Ravenous Robots
+1 [KLD:126] Reckless Fireweaver
+1 [LRW:259] Rings of Brighthearth
+1 [CM2:116] Scrap Mastery
+1 [DST:69] Slobad, Goblin Tinkerer
+1 [SUM:274] Sol Ring
+1 [M12:218] Sundial of the Infinite
+1 [SOI:265+a] Tamiyo's Journal
+1 [EOE:241] The Eternity Elevator
+1 [FIN:135] The Fire Crystal
+1 [M3C:217] The Reaver Cleaver
+1 [LRW:263] Thousand-Year Elixir
+1 [BIG:28] Transmutation Font
+1 [SHM:267] Umbral Mantle
+1 [ONE:153] Urabrask's Forge
+1 [RTR:111] Vandalblast
+1 [DST:156] Voltaic Construct
+1 [AER:181] Walking Ballista
+1 [SUM:185] Wheel of Fortune
+1 [TMP:315] Ancient Tomb
+1 [MH3:215] Arena of Glory
+1 [M12:224] Buried Ruin
+1 [EXO:143] City of Traitors
+1 [6ED:322] Crystal Vein
+1 [M15:242] Darksteel Citadel
+1 [6ED:323] Dwarven Ruins
+1 [EMN:203] Geier Reach Sanitarium
+1 [MRD:282] Great Furnace
+1 [CHK:277] Hall of the Bandit Lord
+1 [EMN:204] Hanweir Battlements
+1 [KLD:247] Inventors' Fair
+1 [ATQ:81] Mishra's Workshop
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [ZNR:161] Shatterskull Smashing
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [LRW:274] Spinerock Knoll
+1 [AFR:261] Treasure Vault
+1 [MB2:114] Urza's Saga
+1 [ZNR:174] Valakut Awakening
+1 [SOC:422] War Room
+10 [HOB:197] Mountain
+SB: 1 [MOC:277] Feldon of the Third Path
+LAYOUT MAIN:(1,10)(CMC,false,50)|([MRD:152],[TMP:294],[STH:138],[SOM:179],[AER:181],[TMP:315],[MH3:215],[M12:224],[EXO:143],[6ED:322],[M15:242],[6ED:323],[EMN:203],[MRD:282],[CHK:277],[EMN:204],[KLD:247],[ATQ:81],[THS:223],[NEO:276],[LRW:274],[AFR:261],[MB2:114],[SOC:422],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197],[HOB:197])([DKA:87],[USG:188],[ULG:80],[5ED:388],[5ED:262],[SUM:274],[RTR:111])([TMT:172],[J21:458],[ULG:126],[GTC:231],[TMT:270],[BIG:12],[MRD:199],[BIG:14],[MID:255],[TMT:106],[KLD:126],[DST:69],[M12:218],[ZNR:161])([BLC:264],[ONS:185],[SUM:235],[MSC:164],[SOC:242],[TLE:311],[SPG:153],[BRC:13],[SNC:107],[EMN:130a],[SOA:44],[UDS:135],[LRW:259],[M3C:217],[LRW:263],[SHM:267],[ONE:153],[SUM:185],[ZNR:174])([M13:202],[CMM:213],[DOM:217],[5DN:134],[EOE:145],[5ED:391],[FIN:135],[DST:156])([KHM:139],[FDN:626],[USG:298],[SOM:169],[HOU:104],[CM2:116],[SOI:265+a],[EOE:241],[BIG:28])([CHK:169],[GTC:94],[DST:130],[AER:171])([M21:228],[EOC:29])([MRD:147])([M14:206])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MOC:277])

@@ -1,0 +1,62 @@
+NAME:Knights Sidar
+1 [M13:200] Akroma's Memorial
+1 [M3C:165] Akroma's Will
+1 [TMP:315] Ancient Tomb
+1 [LTC:491] Anduril, Narsil Reforged
+1 [ELD:331] Arcane Signet
+1 [ZEN:211] Arid Mesa
+1 [MIC:31] Avacyn's Memorial
+1 [ACR:161] Black Market Connections
+1 [KTK:230] Bloodstained Mire
+1 [LCI:410a] Cavern of Souls
+1 [LCI:249] Chimil, the Inner Sun
+1 [MRD:152] Chrome Mox
+1 [8ED:322] City of Brass
+1 [ELD:333] Command Tower
+1 [SUM:105] Demonic Tutor
+1 [BFZ:76] Dispel
+1 [6ED:19] Enlightened Tutor
+1 [LCC:269] Etchings of the Chosen
+1 [CON:142] Exotic Orchard
+1 [MH3:26] Flare of Fortitude
+1 [KTK:233] Flooded Strand
+1 [CLU:276] Godless Shrine
+1 [ONE:229] Graaz, Unstoppable Juggernaut
+1 [ULG:126] Grim Monolith
+1 [CLU:277] Hallowed Fountain
+1 [DFT:280] Island
+1 [CMM:958] Kaldra Compleat
+1 [M11:20] Knight Exemplar
+1 [ELD:328] Knights' Charge
+1 [4ED:34] Land Tax
+1 [TMP:142] Living Death
+1 [ZEN:219] Marsh Flats
+1 [MOM:246] Marshal of Zhalfir
+1 [SOM:176] Mindslaver
+1 [ZEN:220] Misty Rainforest
+1 [WOE:21] Moonshaker Cavalry
+1 [CLB:357] Morphic Pool
+1 [ONS:161] Patriarch's Bidding
+1 [NPH:165] Phyrexia's Core
+1 [KTK:239] Polluted Delta
+1 [M11:70] Preordain
+1 [SNC:254] Raffine's Tower
+1 [PCY:45] Rhystic Study
+1 [SUM:286] Scrubland
+1 [AER:71] Secret Salvage
+10 [KHM:276] Snow-Covered Plains
+5 [KHM:280] Snow-Covered Swamp
+1 [SUM:274] Sol Ring
+1 [ICE:54] Swords to Plowshares
+1 [STA:11] Teferi's Protection
+29 [ACR:10] Templar Knight
+1 [RIX:180] The Immortal Sun
+1 [LTR:001] The One Ring
+1 [CSP:142] Thrumming Stone
+1 [6ED:161] Vampiric Tutor
+1 [MID:333] Vanquish the Horde
+1 [CMM:436] Vault of Champions
+1 [CLU:283] Watery Grave
+SB: 1 [MOC:5] Sidar Jabari of Zhalfir
+LAYOUT MAIN:(1,1)(NONE,false,50)|([M13:200],[M3C:165],[TMP:315],[LTC:491],[ELD:331],[ZEN:211],[MIC:31],[ACR:161],[KTK:230],[LCI:410a],[LCI:249],[MRD:152],[8ED:322],[ELD:333],[SUM:105],[BFZ:76],[6ED:19],[LCC:269],[CON:142],[MH3:26],[KTK:233],[CLU:276],[ONE:229],[ULG:126],[CLU:277],[DFT:280],[CMM:958],[M11:20],[ELD:328],[4ED:34],[TMP:142],[ZEN:219],[MOM:246],[SOM:176],[ZEN:220],[WOE:21],[CLB:357],[ONS:161],[NPH:165],[KTK:239],[M11:70],[SNC:254],[PCY:45],[SUM:286],[AER:71],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:276],[KHM:280],[KHM:280],[KHM:280],[KHM:280],[KHM:280],[SUM:274],[ICE:54],[STA:11],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[ACR:10],[RIX:180],[LTR:001],[CSP:142],[6ED:161],[MID:333],[CMM:436],[CLU:283])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MOC:5])

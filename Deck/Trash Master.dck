@@ -1,0 +1,88 @@
+NAME:Trash Master
+1 [J22:829] Urza's Mine
+1 [J22:830] Urza's Power Plant
+1 [MH2:259] Urza's Saga
+1 [J22:831] Urza's Tower
+1 [BRC:28] Urza's Workshop
+1 [M19:245] Skyscanner
+1 [MBS:125] Plague Myr
+1 [NCC:372] Mimic Vat
+1 [KLD:248] Sequestered Stash
+1 [SNC:107] Glittering Stockpile
+1 [RIX:178] Gleaming Barrier
+1 [KHM:244] Replicating Ring
+1 [C14:59] Arcane Lighthouse
+1 [MOM:261] Kitesail
+1 [AFC:220] Unstable Obelisk
+1 [MRD:206] Mindslaver
+1 [SOM:145] Contagion Engine
+1 [40K:231] Caged Sun
+1 [CMM:943] The Chain Veil
+1 [CMA:211] Bonehoard
+1 [DOM:210] Amaranthine Wall
+1 [ULG:122] Beast of Burden
+1 [PEMN:130s] Hanweir Garrison
+1 [PEMN:204s] Hanweir Battlements
+1 [KTK:227] Ugin's Nexus
+1 [SLD:1572] Darksteel Plate
+1 [M3C:397] Tomb of the Spirit Dragon
+1 [BFZ:13] Scour from Existence
+1 [MBS:105] Decimator Web
+1 [C13:260] Spine of Ish Sah
+1 [DST:114] Darksteel Reactor
+1 [SOM:150] Darksteel Juggernaut
+1 [CMM:415] Thran Dynamo
+1 [V10:4] Ivory Tower
+1 [5DN:110] Clock of Omens
+1 [USG:311] Thran Turbine
+1 [MBS:117] Myr Turbine
+1 [CMM:409] Shimmer Myr
+1 [DST:130] Mycosynth Lattice
+1 [HOP:115] Iron Myr
+1 [SOM:166] Ichorclaw Myr
+1 [MBS:116] Myr Sire
+1 [CMM:967] Palladium Myr
+1 [C19:54] Empowered Autogenerator
+1 [VOC:168] Sol Ring
+1 [THS:214] Colossus of Akros
+1 [VOC:159] Arcane Signet
+1 [WHO:299] Rogue's Passage
+1 [JMP:490] Warmonger's Chariot
+1 [BIG:93] Transmutation Font
+1 [J22:800] Tamiyo's Journal
+1 [MKC:221] Academy Manufactor
+1 [GN3:120] Sword of Vengeance
+1 [ZNR:243] Cliffhaven Kitesail
+1 [LTR:246] The One Ring
+16 [REX:24b] Mountain
+1 [J22:748] Endbringer
+1 [SLD:496] Platinum Angel
+1 [KTK:262] Mountain
+1 [ONE:118] All Will Be One
+1 [GN3:83] Lightning Bolt
+1 [ODY:214] Price of Glory
+1 [PRM:69981] Pyroblast
+1 [PUMA:U28] Engineered Explosives
+1 [CMM:265] Treasure Nabber
+1 [SNC:240] Luxior, Giada's Gift
+1 [SLD:1339] Commander's Plate
+1 [CM2:196] Lightning Greaves
+1 [SLD:1505] Shadowspear
+1 [LEG:136] Caverns of Despair
+1 [A25:224] Ensnaring Bridge
+1 [DMR:217] Crawlspace
+1 [SLD:1079b] Blightsteel Colossus
+1 [VMA:154] Chaos Warp
+1 [DPA:37] Act of Treason
+1 [SCD:124] Blasphemous Act
+1 [M14:206] Darksteel Forge
+1 [2ED:170] Red Elemental Blast
+1 [PIDW:2] Faithless Looting
+1 [C18:216] Prototype Portal
+1 [C21:261] Sculpting Steel
+1 [VMA:305] Mishra's Workshop
+1 [UMA:236] Ancient Tomb
+1 [2ED:245] Gauntlet of Might
+SB: 1 [CM2:4] Daretti, Scrap Savant
+LAYOUT MAIN:(1,11)(CMC,false,50)|([C14:59],[PUMA:U28],[PEMN:204s],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[REX:24b],[KTK:262],[WHO:299],[KLD:248],[M3C:397],[J22:829],[J22:830],[MH2:259],[J22:831],[BRC:28],[VMA:305],[UMA:236])([ZNR:243],[SLD:1339],[PIDW:2],[V10:4],[GN3:83],[SNC:240],[PRM:69981],[2ED:170],[SLD:1505],[VOC:168],[USG:311])([VOC:159],[RIX:178],[SOM:166],[HOP:115],[MOM:261],[CM2:196],[MBS:116],[MBS:125],[JMP:490])([MKC:221],[DPA:37],[VMA:154],[DMR:217],[SLD:1572],[A25:224],[SNC:107],[PEMN:130s],[NCC:372],[CMM:967],[ODY:214],[KHM:244],[C21:261],[CMM:409],[M19:245],[GN3:120],[CMM:265],[AFC:220])([DOM:210],[CMA:211],[LEG:136],[5DN:110],[DST:114],[MBS:105],[C19:54],[C18:216],[CMM:943],[LTR:246],[CMM:415],[2ED:245])([ONE:118],[SOM:150],[MBS:117],[J22:800],[BIG:93],[KTK:227])([ULG:122],[40K:231],[SOM:145],[J22:748],[MRD:206],[DST:130])([SLD:496],[BFZ:13],[C13:260])([THS:214])([SCD:124],[M14:206])([SLD:1079b])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CM2:4])

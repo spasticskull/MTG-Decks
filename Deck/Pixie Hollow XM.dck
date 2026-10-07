@@ -1,0 +1,101 @@
+NAME:Pixie Hollow XM
+1 [J21:75] Esper Sentinel
+1 [MOM:352] Faerie Mastermind
+1 [ECL:310] Bitterbloom Bearer
+1 [WOE:210] Obyra, Dreaming Duelist
+1 [WOC:109] Scion of Oona
+1 [DMU:198] Elas il-Kor, Sadistic Pilgrim
+1 [PKLD:183s] Kambal, Consul of Allocation
+1 [J22:487] Vito, Thorn of the Dusk Rose
+1 [WOE:335] Talion's Messenger
+1 [WOC:1] Tegwyll, Duke of Splendor
+1 [J22:151] Archon of Sun's Grace
+1 [OGW:153] Cliffhaven Vampire
+1 [WOC:138] Glen Elendra Liege
+1 [ONE:23] Mondrak, Glory Dominus
+1 [LCI:26] Ojer Taq, Deepest Foundation
+1 [DSK:368] Enduring Innocence
+1 [WOE:21] Moonshaker Cavalry
+1 [FDN:318] Bloodthirsty Conqueror
+1 [3ED:274] Sol Ring
+1 [WOC:145] Arcane Signet
+1 [WOC:147] Fellwar Stone
+1 [DIS:159] Azorius Signet
+1 [RAV:260] Dimir Signet
+1 [GPT:155] Orzhov Signet
+1 [WOC:150] Talisman of Dominance
+1 [H1R:36] Talisman of Hierarchy
+1 [SLD:1052] Talisman of Progress
+1 [VMA:281] Skullclamp
+1 [CMM:392] Idol of Oblivion
+1 [THB:236] Shadowspear
+1 [LTR:001] The One Ring
+1 [WOT:27] Bitterblossom
+1 [SLD:1511] Anointed Procession
+1 [SLD:206] Exquisite Blood
+1 [WOT:35] Sanguine Bond
+1 [J22:114] Rhystic Study
+1 [WOT:13] Smothering Tithe
+1 [ACR:161] Black Market Connections
+1 [SLD:1338] Court of Grace
+1 [BRO:30] Tocasia's Welcome
+1 [MKC:15] Trouble in Pairs
+1 [PKLD:5s] Authority of the Consuls
+1 [WOT:1] Blind Obedience
+1 [J25:403] Bastion of Remembrance
+1 [THS:110] Whip of Erebos
+1 [WOE:277] Virtue of Loyalty
+1 [ISD:19] Intangible Virtue
+1 [WOT:22] Kindred Discovery
+1 [WOT:3] Grasp of Fate
+1 [F02:8] Aura of Silence
+1 [J20:2] Enlightened Tutor
+1 [J20:4] Demonic Tutor
+1 [THB:24] Idyllic Tutor
+1 [BBD:110] Swords to Plowshares
+1 [GN3:15] Path to Exile
+1 [SIR:229] Anguished Unmaking
+1 [WOC:68] Generous Gift
+1 [SLD:1869] Cyclonic Rift
+1 [3ED:54] Counterspell
+1 [PWAR:193] Dovin's Veto
+1 [SLD:164] Teferi's Protection
+1 [SLD:1694] Inkshield
+1 [WOC:113] Kindred Dominance
+1 [WOC:156] Command Tower
+1 [WOC:159] Exotic Orchard
+1 [SHM:278*] Reflecting Pool
+1 [WOC:165] Path of Ancestry
+1 [CMM:1030] Secluded Courtyard
+1 [UMA:237] Cavern of Souls
+1 [SNC:254] Raffine's Tower
+1 [RAV:286] Watery Grave
+1 [DIS:174] Hallowed Fountain
+1 [GPT:157] Godless Shrine
+1 [E01:94] Drowned Catacomb
+1 [EOC:160] Glacial Fortress
+1 [ISD:242] Isolated Chapel
+1 [MID:267] Shipwreck Marsh
+1 [MID:260] Deserted Beach
+1 [VOW:264] Shattered Sanctum
+1 [DKM:41] Underground River
+1 [DMU:244] Caves of Koilos
+1 [EOC:147] Adarkar Wastes
+1 [KTK:233] Flooded Strand
+1 [KTK:239] Polluted Delta
+1 [SLU:1] Marsh Flats
+1 [ELD:244] Fabled Passage
+1 [WOC:162] Hall of Heliod's Generosity
+1 [CMM:436] Vault of Champions
+1 [BBD:83] Morphic Pool
+1 [BBD:84] Sea of Clouds
+1 [VMA:289] Ancient Tomb
+2 [KTK:254] Island
+1 [KTK:250] Plains
+2 [KTK:258] Swamp
+1 [PRM:83858] Clearwater Pathway
+1 [PRM:88408] Hengegate Pathway
+1 [ZNR:259] Brightclimb Pathway
+SB: 1 [ELD:324] Alela, Artful Provocateur
+LAYOUT MAIN:(1,10)(CARD_TYPE,false,50)|([J21:75])([3ED:274],[WOC:145],[WOC:147],[DIS:159],[RAV:260],[GPT:155],[WOC:150],[H1R:36],[SLD:1052],[VMA:281],[CMM:392],[THB:236],[LTR:001])([MOM:352],[ECL:310],[WOE:210],[WOC:109],[DMU:198],[PKLD:183s],[J22:487],[WOE:335],[WOC:1],[J22:151],[OGW:153],[WOC:138],[ONE:23],[LCI:26],[WOE:21],[FDN:318])([THS:110])([DSK:368])([SLD:1511],[SLD:206],[WOT:35],[J22:114],[WOT:13],[ACR:161],[SLD:1338],[BRO:30],[MKC:15],[PKLD:5s],[WOT:1],[J25:403],[WOE:277],[ISD:19],[WOT:22],[WOT:3],[F02:8])([J20:2],[BBD:110],[GN3:15],[SIR:229],[WOC:68],[SLD:1869],[3ED:54],[PWAR:193],[SLD:164],[SLD:1694])([WOT:27])([WOC:156],[WOC:159],[SHM:278*],[WOC:165],[CMM:1030],[UMA:237],[SNC:254],[RAV:286],[DIS:174],[GPT:157],[E01:94],[EOC:160],[ISD:242],[MID:267],[MID:260],[VOW:264],[DKM:41],[DMU:244],[EOC:147],[KTK:233],[KTK:239],[SLU:1],[ELD:244],[WOC:162],[CMM:436],[BBD:83],[BBD:84],[VMA:289],[KTK:254],[KTK:254],[KTK:250],[KTK:258],[KTK:258],[PRM:83858],[PRM:88408],[ZNR:259])([J20:4],[THB:24],[WOC:113])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ELD:324])

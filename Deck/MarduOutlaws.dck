@@ -1,0 +1,96 @@
+NAME:MarduOutlaws
+1 [OTC:10] Angelic Sell-Sword
+1 [XLN:132] Angrath's Marauders
+1 [ELD:331] Arcane Signet
+1 [OTJ:309] Aven Interrupter
+1 [OTC:18] Back in Town
+1 [BRO:257] Battlefield Forge
+1 [SNC:102] Big Score
+1 [ACR:87] Black Market Connections
+1 [DSK:256] Blazemire Verge
+1 [WWK:132] Bojuka Bog
+1 [GTC:148] Boros Charm
+1 [LCI:137] Breeches, Eager Pillager
+1 [OTC:217] Breena, the Demagogue
+1 [XLN:136] Captain Lannery Storm
+1 [DMU:244] Caves of Koilos
+1 [OTC:128] Changeling Outcast
+1 [OTC:19] Charred Graverobber
+1 [DOM:239] Clifftop Retreat
+1 [OTC:279] Command Beacon
+1 [ELD:333] Command Tower
+1 [CLU:109] Deadly Dispute
+1 [OTC:287] Desolate Mire
+1 [OTC:20] Discreet Retreat
+1 [XLN:252] Dragonskull Summit
+1 [CON:142] Exotic Orchard
+1 [OTC:133] Fain, the Broker
+1 [9ED:297] Fellwar Stone
+1 [EVE:176] Fetid Heath
+1 [BIG:11] Generous Plunderer
+1 [BLB:214] Gev, Scaled Scorch
+1 [OTC:36] Graywater's Fixer
+1 [OTJ:125] Great Train Heist
+1 [M3C:213] Grenzo, Havoc Raiser
+1 [CLB:755] Grim Hireling
+1 [MID:263] Haunted Ridge
+1 [CLU:4] Headliner Scarlett
+1 [OTJ:128] Hellspur Posse Boss
+1 [BLC:277] Idol of Oblivion
+1 [OTC:171] Impulsive Pilferer
+1 [DOM:241] Isolated Chapel
+1 [WAR:248] Karn's Bastion
+1 [PIP:106] Kellogg, Dangerous Mind
+1 [OTJ:215] Laughing Jasper Flint
+1 [LTR:213] Lotho, Corrupt Shirriff
+1 [WOE:315] Malevolent Witchkite
+1 [OTC:138] Mari, the Killing Quill
+1 [WAR:99] Massacre Girl
+1 [MKM:344] Massacre Girl, Known Killer
+1 [LRW:31] Mirror Entity
+1 [MID:113] Morbid Opportunist
+3 [DSK:275] Mountain
+1 [ZNR:115] Nighthawk Scavenger
+1 [KTK:237] Nomad Outpost
+1 [OTC:22] Orochi Soul-Reaver
+1 [CLU:225] Orzhov Signet
+1 [BLC:322] Path of Ancestry
+1 [CON:15] Path to Exile
+1 [RIX:81] Pitiless Plunderer
+3 [FDN:273] Plains
+1 [SPG:33] Port Razer
+1 [SNC:116] Professional Face-Breaker
+1 [BLC:25] Prosperous Bandit
+1 [OTC:239] Queen Marchesa
+1 [BLC:200] Rain of Riches
+1 [CLU:226] Rakdos Signet
+1 [OTJ:226] Rakdos, the Muscle
+1 [10E:225] Relentless Assault
+1 [OTJ:26] Requisition Raid
+1 [ORI:250] Rogue's Passage
+1 [EVE:178] Rugged Prairie
+1 [IKO:204] Ruinous Ultimatum
+1 [OTC:179] Seize the Spotlight
+1 [ODY:326] Shadowblood Ridge
+1 [BFZ:247] Smoldering Marsh
+1 [WOE:33] Stroke of Midnight
+1 [DMU:256] Sulfurous Springs
+1 [VOW:266] Sundown Pass
+1 [BLC:336] Sunscorched Divide
+4 [FDN:277] Swamp
+1 [CLB:198] Swashbuckler Extraordinaire
+1 [M12:219] Swiftfoot Boots
+1 [ICE:54] Swords to Plowshares
+1 [TOR:142] Tainted Peak
+1 [M3C:307] Talisman of Conviction
+1 [M3C:217] The Reaver Cleaver
+1 [MKC:15] Trouble in Pairs
+1 [MOC:35] Uncivil Unrest
+1 [RTR:111] Vandalblast
+1 [DKA:158] Vault of the Archangel
+1 [OTC:8] Vihaan, Goldwaker
+1 [MH3:239] Witch Enchanter
+1 [IKO:233] Zirda, the Dawnwaker
+SB: 1 [OTC:2] Olivia, Opulent Outlaw
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,50)|([ELD:331],[9ED:297],[BLC:277],[CLU:225],[CLU:226],[M12:219],[M3C:307],[M3C:217])([OTC:10],[XLN:132],[OTJ:309],[LCI:137],[OTC:217],[XLN:136],[OTC:128],[OTC:19],[OTC:133],[BIG:11],[BLB:214],[OTC:36],[M3C:213],[CLB:755],[CLU:4],[OTJ:128],[OTC:171],[PIP:106],[OTJ:215],[LTR:213],[WOE:315],[OTC:138],[WAR:99],[MKM:344],[LRW:31],[MID:113],[ZNR:115],[OTC:22],[RIX:81],[SPG:33],[SNC:116],[BLC:25],[OTC:239],[OTJ:226],[CLB:198],[OTC:8],[MH3:239],[IKO:233])([ACR:87],[OTC:20],[BLC:200],[MKC:15],[MOC:35])([SNC:102],[GTC:148],[CLU:109],[OTJ:125],[CON:15],[WOE:33],[ICE:54])([BRO:257],[DSK:256],[WWK:132],[DMU:244],[DOM:239],[OTC:279],[ELD:333],[OTC:287],[XLN:252],[CON:142],[EVE:176],[MID:263],[DOM:241],[WAR:248],[DSK:275],[DSK:275],[DSK:275],[KTK:237],[BLC:322],[FDN:273],[FDN:273],[FDN:273],[ORI:250],[EVE:178],[ODY:326],[BFZ:247],[DMU:256],[VOW:266],[BLC:336],[FDN:277],[FDN:277],[FDN:277],[FDN:277],[TOR:142],[DKA:158])([OTC:18],[10E:225],[OTJ:26],[IKO:204],[OTC:179],[RTR:111])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([OTC:2])

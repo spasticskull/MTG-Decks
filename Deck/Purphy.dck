@@ -1,0 +1,86 @@
+NAME:Purphy
+1 [LCI:131] Abrade
+1 [TMP:315] Ancient Tomb
+1 [ELD:331] Arcane Signet
+1 [ZEN:211] Arid Mesa
+1 [JMP:294] Beetleback Chief
+1 [KHM:123] Birgi, God of Storytelling
+1 [ISD:130] Blasphemous Act
+1 [9ED:176] Blood Moon
+1 [KTK:230] Bloodstained Mire
+1 [DSC:162] Chaos Warp
+1 [MRD:152] Chrome Mox
+1 [RAV:257] Cloudstone Curio
+1 [AVR:214] Conjurer's Closet
+1 [CMM:214] Deflecting Swat
+1 [ORI:140] Dragon Fodder
+1 [C21:165] Dualcaster Mage
+1 [TSP:152] Empty the Warrens
+1 [ROE:142] Emrakul's Hatcher
+1 [JUD:88] Firecat Blitz
+1 [USG:188] Gamble
+1 [CLB:177] Genasi Enforcers
+1 [STX:104] Grinning Ignus
+1 [EMN:204] Hanweir Battlements
+1 [EMN:130a] Hanweir Garrison
+1 [KTK:111] Hordeling Outburst
+1 [M10:212] Howling Mine
+1 [DTK:140] Impact Tremors
+1 [MH2:281] Imperial Recruiter
+1 [MKC:156] Jeska's Will
+1 [TSP:275] Kher Keep
+1 [M13:138] Krenko, Mob Boss
+1 [WAR:137] Krenko, Tin Street Kingpin
+1 [CLU:139] Krenko's Command
+1 [DMR:127] Last Chance
+1 [GRN:109] Legion Warboss
+1 [CMM:241] Magus of the Wheel
+1 [TSP:170] Mogg War Marshal
+16 [DSK:275] Mountain
+1 [SOM:179] Mox Opal
+1 [WAR:140] Neheb, Dreadhorde Champion
+1 [HOU:104] Neheb, the Eternal
+1 [TSP:171] Norin the Wary
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [LCI:158] Ojer Axonil, Deepest Might
+1 [KLD:226] Panharmonicon
+1 [DMR:133] Pashalik Mons
+1 [SPG:38] Prismatic Vista
+1 [SNC:116] Professional Face-Breaker
+1 [5ED:262] Pyroblast
+1 [MUL:151] Ragavan, Nimble Pilferer
+1 [LTR:142] Rally at the Hornburg
+1 [VOW:174] Reckless Impulse
+1 [M13:145] Reverberate
+1 [TMP:305] Ruby Medallion
+1 [ZEN:223] Scalding Tarn
+1 [9ED:216] Seething Song
+1 [DOM:143] Siege-Gang Commander
+1 [DST:140] Skullclamp
+1 [ORI:163] Smash to Smithereens
+1 [NEO:276] Sokenzan, Crucible of Defiance
+1 [SUM:274] Sol Ring
+1 [ONE:150] Solphim, Mayhem Dominus
+1 [DMU:146] Squee, Dubious Monarch
+1 [CMM:263] Tempt with Vengeance
+1 [LTR:001] The One Ring
+1 [DSC:256] Thought Vessel
+1 [ONE:151] Thrill of Possibility
+1 [KHM:153] Tibalt's Trickery
+1 [RIX:121] Tilonalli's Summoner
+1 [ELD:147] Torbran, Thane of Red Fell
+1 [MB2:114] Urza's Saga
+1 [ZNR:174] Valakut Awakening
+1 [ZEN:228] Valakut, the Molten Pinnacle
+1 [RTR:111] Vandalblast
+1 [PIP:1068] War Room
+1 [CMR:211] Wheel of Misfortune
+1 [CLB:206] Wild Magic Surge
+1 [SNC:131] Witty Roastmaster
+3 [RAV:299] Mountain
+1 [2XM:136] Mana Echoes
+1 [MH3:131] Powerbalance
+1 [MOC:386] Thopter Assembly
+SB: 1 [THS:135] Purphoros, God of the Forge
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([MOC:386])([ELD:331],[MRD:152],[RAV:257],[AVR:214],[M10:212],[SOM:179],[KLD:226],[TMP:305],[DST:140],[SUM:274],[LTR:001],[DSC:256])([JMP:294],[KHM:123],[C21:165],[ROE:142],[CLB:177],[STX:104],[EMN:130a],[MH2:281],[M13:138],[WAR:137],[GRN:109],[CMM:241],[TSP:170],[WAR:140],[HOU:104],[TSP:171],[LCI:158],[DMR:133],[SNC:116],[MUL:151],[DOM:143],[ONE:150],[DMU:146],[RIX:121],[ELD:147],[SNC:131])([MB2:114])([9ED:176],[DTK:140],[2XM:136],[MH3:131])([LCI:131],[DSC:162],[CMM:214],[5ED:262],[M13:145],[9ED:216],[ORI:163],[ONE:151],[KHM:153],[ZNR:174],[CLB:206])([TMP:315],[ZEN:211],[KTK:230],[EMN:204],[TSP:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[DSK:275],[THS:223],[SPG:38],[ZEN:223],[NEO:276],[ZEN:228],[PIP:1068],[RAV:299],[RAV:299],[RAV:299])([ISD:130],[ORI:140],[TSP:152],[JUD:88],[USG:188],[KTK:111],[MKC:156],[CLU:139],[DMR:127],[LTR:142],[VOW:174],[CMM:263],[RTR:111],[CMR:211])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([THS:135])
